@@ -3,6 +3,38 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-28T21:04:09.498Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "BRAVEGOY: top-10 share unknown; liq $2178 < $10000",
+   "mint": "HearbNdukBT4uY8d4ETFWPgFy7pPxD8v3KZeJoNRpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22726"
+  },
+  {
+   "t": "2026-10-28T21:04:01.327Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "DOOMSDAY: top-10 share unknown; liquidity unknown",
+   "mint": "6c3qvogL9P3Eqey24ZTnj16zzhK86eCcRpwtY39XZKa5",
+   "source": "SmugCalls https://t.me/SmugCalls/22727"
+  },
+  {
+   "t": "2026-10-28T21:03:53.176Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "ELLE: top-10 share unknown",
+   "mint": "4ukaKujsrTuoF4eC1CY7xSiM3kN7HUE2pNZpMm2fpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50744"
+  },
+  {
+   "t": "2026-10-28T21:03:44.896Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "EXILE: LP status unknown; top-10 share unknown",
+   "mint": "8JAPUKQxPKB2FGps1fxTtfpZgXQMgtBhu1HzBrV9Bayo",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50745"
+  },
+  {
    "t": "2026-10-28T20:22:14.633Z",
    "mode": "PAPER",
    "type": "reject",
@@ -420,8 +452,12 @@
   "2mKPFrgUrmbPX7zBRnWg4RzY5dnAENH42Us5AcZtpump": "2026-10-28T17:59:41+00:00",
   "6EV6hnhqQaYVFSMkbyT3fjDvgeH9gPzQsW5jQkTkpump": "2026-10-28T19:33:35+00:00",
   "8a68FkQqKsnVHZqEpLfVttAdVzxrfut9XhzeUV3upump": "2026-10-28T19:31:21+00:00",
-  "2HWkv1SpE7uB6sdXGhmgWrdpGe58Su8P3Ra3ffxGpump": "2026-10-28T20:17:03+00:00"
+  "2HWkv1SpE7uB6sdXGhmgWrdpGe58Su8P3Ra3ffxGpump": "2026-10-28T20:17:03+00:00",
+  "8JAPUKQxPKB2FGps1fxTtfpZgXQMgtBhu1HzBrV9Bayo": "2026-10-28T21:02:32+00:00",
+  "4ukaKujsrTuoF4eC1CY7xSiM3kN7HUE2pNZpMm2fpump": "2026-10-28T21:02:31+00:00",
+  "6c3qvogL9P3Eqey24ZTnj16zzhK86eCcRpwtY39XZKa5": "2026-10-28T21:01:51+00:00",
+  "HearbNdukBT4uY8d4ETFWPgFy7pPxD8v3KZeJoNRpump": "2026-10-28T20:48:50+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-28T20:22:14.934Z"
+ "lastRun": "2026-10-28T21:04:09.799Z"
 }
