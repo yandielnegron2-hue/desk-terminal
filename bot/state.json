@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-28T22:55:31.083Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "25%: top-10 share unknown; liq $2375 < $10000",
+   "mint": "4Y3rjkH38LkoN3Hkgs4hWVCfu7sovjGakZDCdHhjpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50759"
+  },
+  {
    "t": "2026-10-28T22:17:55.387Z",
    "mode": "PAPER",
    "type": "reject",
@@ -519,8 +527,9 @@
   "Ge83QkAQbSqkDQ5iVh4aYcDARZKY6oUWFjFdVebppump": "2026-10-28T22:12:01+00:00",
   "4wRCmd51WNPQK9ZjfnpV2E42Hvfe5NK6S6SedcuPpump": "2026-10-28T22:09:05+00:00",
   "7ounyiZN7JMXuoLQfKknAHgxXoarUoJczDMHVr8zePKj": "2026-10-28T22:07:37+00:00",
-  "6qsSQBLm4pQXhUDVabNH9YWnQV5SSpEZLfoxeY8rpump": "2026-10-28T22:04:28+00:00"
+  "6qsSQBLm4pQXhUDVabNH9YWnQV5SSpEZLfoxeY8rpump": "2026-10-28T22:04:28+00:00",
+  "4Y3rjkH38LkoN3Hkgs4hWVCfu7sovjGakZDCdHhjpump": "2026-10-28T22:54:42+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-28T22:17:55.688Z"
+ "lastRun": "2026-10-28T22:55:31.384Z"
 }

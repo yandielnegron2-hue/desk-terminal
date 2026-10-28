@@ -1,6 +1,66 @@
 {
- "scrapedAt": "2026-10-28T22:17:20+00:00",
+ "scrapedAt": "2026-10-28T22:55:20+00:00",
  "calls": [
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-10-28T22:54:42+00:00",
+   "link": "https://t.me/PumpPillSignals/50759",
+   "symbol": null,
+   "ca": "4Y3rjkH38LkoN3Hkgs4hWVCfu7sovjGakZDCdHhjpump",
+   "callMc": null,
+   "callLiq": null,
+   "text": "📡 PUMPPILL · TRACKING $25% chance fine · $42K ✓ Insiders locked — aligned with buyers Vol 1h $42K · Buys/Sells 1.5x CA: 4Y3rjkH38LkoN3Hkgs4hWVCfu7sovjGakZDCdHhjpump PumpPill is tracking this token."
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-10-28T22:44:00+00:00",
+   "link": "https://t.me/PumpPillSignals/50758",
+   "symbol": "MACCA",
+   "ca": null,
+   "callMc": 17000.0,
+   "callLiq": null,
+   "text": "🌊 Wave Watch · free beta $MACCA · $17K market cap 0xb815559286e633a902621c4a5dbf08976092855b 1 real account posted this contract, 21K followers between them — against a $17K token. · @CryptoYeezussss (21K) Met: a real 10K+ account posted the contract while it was under $100K. Our read · set your own filter Wave Watch is free during the beta. Premium-only from November 1."
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-10-28T22:37:01+00:00",
+   "link": "https://t.me/PumpPillSignals/50757",
+   "symbol": "ONE",
+   "ca": "9nY1ptFgaWDqynn8dmE6MpggPZ4A2Z7qHHJGwddPpump",
+   "callMc": 42000.0,
+   "callLiq": null,
+   "text": "📡 PUMPPILL · TRACKING $ONE · $42K ✓ Insiders locked — aligned with buyers Vol 1h $34K · Buys/Sells 1.4x CA: 9nY1ptFgaWDqynn8dmE6MpggPZ4A2Z7qHHJGwddPpump PumpPill is tracking this token."
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-10-28T22:36:48+00:00",
+   "link": "https://t.me/PumpPillSignals/50756",
+   "symbol": "IMAGINE",
+   "ca": null,
+   "callMc": null,
+   "callLiq": null,
+   "text": "📉 $IMAGINE peaked 3.1x then rugged. $83K to $259K. looked good until it didn't."
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-10-28T22:25:28+00:00",
+   "link": "https://t.me/SmugCalls/22744",
+   "symbol": "Breast",
+   "ca": "FnQf89U9jiTXq9mqsrzViP5pzDri3T2CzSHipMp6pump",
+   "callMc": 17400.0,
+   "callLiq": null,
+   "text": "🚀 LAUNCH $Breast FnQf89U9jiTXq9mqsrzViP5pzDri3T2CzSHipMp6pump proven deployer · zero dev buys — pure outside demand 💊 MC ~$17.4K ⚡ Axiom · 📱 FOMO · 📈 GMGN fresh off the pad. DYOR, fam. 😏"
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-10-28T22:24:48+00:00",
+   "link": "https://t.me/PumpPillSignals/50755",
+   "symbol": "Stonkz",
+   "ca": "Hhnf3dZTBvhedKjFCNh8Ci23YLEQg1MKTzMTHUwruMmz",
+   "callMc": null,
+   "callLiq": null,
+   "text": "🧩 Stacked Setup — $Stonkz 2 TG rooms · @boipelo558, @solanalyst01 +1 (proven callers) — multiple independent sources on the same token. Premium was alerted 30 min ago at $97K — it's $90K now. Get it the second it stacks → pumppill.org/premium chart · Hhnf3dZTBvhedKjFCNh8Ci23YLEQg1MKTzMTHUwruMmz"
+  },
   {
    "channel": "SmugCalls",
    "time": "2026-10-28T22:12:01+00:00",
@@ -312,16 +372,6 @@
    "text": "😏 SMUG CALL $Bunker 3kiDL3pRZJBZdSnH18cYTvcF4j5BPov2asApL9B8pump 💊 MC ~$7K · Liq $2K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 14 grads / 6946 launches aped early. DYOR, fam. 🔥"
   },
   {
-   "channel": "SmugCalls",
-   "time": "2026-10-28T20:38:27+00:00",
-   "link": "https://t.me/SmugCalls/22724",
-   "symbol": "Bunker",
-   "ca": "3kiDL3pRZJBZdSnH18cYTvcF4j5BPov2asApL9B8pump",
-   "callMc": 7000.0,
-   "callLiq": 2000.0,
-   "text": "😏 SMUG CALL $Bunker 3kiDL3pRZJBZdSnH18cYTvcF4j5BPov2asApL9B8pump 💊 MC ~$7K · Liq $2K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 14 grads / 6946 launches aped early. DYOR, fam. 🔥"
-  },
-  {
    "channel": "PumpPillSignals",
    "time": "2026-10-28T20:17:03+00:00",
    "link": "https://t.me/PumpPillSignals/50742",
@@ -350,56 +400,6 @@
    "callMc": 84500.0,
    "callLiq": null,
    "text": "Why this posted: a second system (Buyers absorbing a sell-off) confirmed it 93h after the first (Early detection free). 📰 In the news: Pentagon sued over data breach affecting more than 3 million people — federalnewsnetwork.com, +80 more, today ◎ Solana 🧲 FLOW — EXITS BEING ABSORBED — NETWORK MC $84.5K Sell spike hit and the pool's quote side held — someone is eating the exits. Flow reading, not e"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-10-28T20:00:00+00:00",
-   "link": "https://t.me/PumpPillSignals/50739",
-   "symbol": "Orgasm",
-   "ca": null,
-   "callMc": null,
-   "callLiq": null,
-   "text": "🌙 **EVENING RECAP** — October 28 ──────────────────────────── 💰 **23 winners today** (2x+) 🛡 **54 bullets dodged** — flagged before they died 🏆 **Signal of the Day: $Orgasm Fans** 50x ($2K → $276K) 🏅 **XP LEADERBOARD** 🥇 **JackednBased** — 1 XP (New) 🥈 **Horis on web 3** — 1 XP (New) 🥉 **PumpPill_AI** — 1 XP (New) 4️⃣ **Jeht 𝛬** — 1 XP (New) 5️⃣ **Safeguard** — 1 XP (New) ─────────────────────────"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-10-28T19:57:43+00:00",
-   "link": "https://t.me/PumpPillSignals/50738",
-   "symbol": "RFC",
-   "ca": null,
-   "callMc": null,
-   "callLiq": null,
-   "text": "🐋 Whale loaded 1.47 SOL SOL into $RFC at $202K MC."
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-10-28T19:48:14+00:00",
-   "link": "https://t.me/PumpPillSignals/50737",
-   "symbol": "HOUSECOIN",
-   "ca": null,
-   "callMc": null,
-   "callLiq": null,
-   "text": "$HOUSECOIN — 2x from $99K. peak $309K. Quad Convergence signal. numbers don't lie."
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-10-28T19:43:53+00:00",
-   "link": "https://t.me/PumpPillSignals/50736",
-   "symbol": "POOF",
-   "ca": "3wiUzNXdq5ocCtQp8tr62A4uUVekzk5C27PbyeGppump",
-   "callMc": 66000.0,
-   "callLiq": 26000.0,
-   "text": "📡 PUMPPILL · TRACKING $POOF · $66K Vol 1h $86K · Liq $26K · Buys/Sells 1.2x CA: 3wiUzNXdq5ocCtQp8tr62A4uUVekzk5C27PbyeGppump PumpPill is tracking this token."
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-10-28T19:31:21+00:00",
-   "link": "https://t.me/PumpPillSignals/50735",
-   "symbol": "SI",
-   "ca": "8a68FkQqKsnVHZqEpLfVttAdVzxrfut9XhzeUV3upump",
-   "callMc": 42000.0,
-   "callLiq": null,
-   "text": "📡 PUMPPILL · TRACKING $SI · $42K Vol 1h $40K · Buys/Sells 1.5x 🟢 CA: 8a68FkQqKsnVHZqEpLfVttAdVzxrfut9XhzeUV3upump PumpPill is tracking this token."
   },
   {
    "channel": "bitconggems",
