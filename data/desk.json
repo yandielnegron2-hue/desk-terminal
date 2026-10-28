@@ -1,0 +1,44 @@
+{
+ "updated": "2026-10-28T03:03:45.222Z",
+ "mode": "PAPER",
+ "kill": false,
+ "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
+ "walletSol": 0,
+ "book": 1,
+ "dayStartBook": 1,
+ "pnlTodayPct": 0,
+ "consecutiveLosses": 0,
+ "breakers": {
+  "dailyLoss": false,
+  "consecutiveLosses": false,
+  "feedLag": false,
+  "kill": false,
+  "blockEntries": false
+ },
+ "feedLagSec": 2,
+ "config": {
+  "sizeFraction": 0.02,
+  "maxOpenPositions": 5,
+  "solReserve": 0.05,
+  "minTradeSol": 0.01,
+  "takeProfitPct": 100,
+  "stopLossPct": -35,
+  "minLiquidityUsd": 10000,
+  "maxTop10Pct": 30,
+  "lpUnknownRejects": true,
+  "maxCallAgeSec": 900,
+  "feedLagMaxSec": 900,
+  "dailyLossCapPct": 10,
+  "maxConsecutiveLosses": 3,
+  "liquidityDropExitPct": 50,
+  "slippageBps": 300,
+  "spy": {
+   "maxChasePct": 15,
+   "perWalletCapFraction": 0.05,
+   "demoteAfterLosses": 3
+  }
+ },
+ "spyWallets": [],
+ "positions": [],
+ "log": []
+}
