@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T09:06:28.543Z",
+ "updated": "2026-10-28T09:51:23.822Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-28T09:51:23.522Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "CA: top-10 share unknown",
+   "mint": "HfPVTUsSd55Aab6BACWCy6dXo5pQgTUFnyGzgspFpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50659"
+  },
   {
    "t": "2026-10-28T09:06:28.243Z",
    "mode": "PAPER",
