@@ -3,6 +3,38 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-28T22:17:55.387Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "MEME69: top-10 share unknown; liq $5667 < $10000",
+   "mint": "6qsSQBLm4pQXhUDVabNH9YWnQV5SSpEZLfoxeY8rpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50754"
+  },
+  {
+   "t": "2026-10-28T22:17:47.165Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "AT: top-10 share unknown; liq $2285 < $10000",
+   "mint": "7ounyiZN7JMXuoLQfKknAHgxXoarUoJczDMHVr8zePKj",
+   "source": "SmugCalls https://t.me/SmugCalls/22741"
+  },
+  {
+   "t": "2026-10-28T22:17:38.661Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "DEVOURING: LP status unknown; top-10 share unknown; liq $10 < $10000",
+   "mint": "4wRCmd51WNPQK9ZjfnpV2E42Hvfe5NK6S6SedcuPpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22742"
+  },
+  {
+   "t": "2026-10-28T22:17:30.433Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Tibeto: top-10 share unknown; liquidity unknown",
+   "mint": "Ge83QkAQbSqkDQ5iVh4aYcDARZKY6oUWFjFdVebppump",
+   "source": "SmugCalls https://t.me/SmugCalls/22743"
+  },
+  {
    "t": "2026-10-28T21:40:15.642Z",
    "mode": "PAPER",
    "type": "reject",
@@ -483,8 +515,12 @@
   "HearbNdukBT4uY8d4ETFWPgFy7pPxD8v3KZeJoNRpump": "2026-10-28T20:48:50+00:00",
   "677RzFgXjLpApyHAtzjd9sTjiJNGCxrRVvYb1TwWp5qJ": "2026-10-28T21:35:20+00:00",
   "CMVC4247wa7vQRaG9wSAztrpkfNK6r6eGm6sv4sWpump": "2026-10-28T21:30:03+00:00",
-  "HJGAKkCoJrFVisqGcLXK4VhX9GtYdoc9Q4hearYmpump": "2026-10-28T21:25:57+00:00"
+  "HJGAKkCoJrFVisqGcLXK4VhX9GtYdoc9Q4hearYmpump": "2026-10-28T21:25:57+00:00",
+  "Ge83QkAQbSqkDQ5iVh4aYcDARZKY6oUWFjFdVebppump": "2026-10-28T22:12:01+00:00",
+  "4wRCmd51WNPQK9ZjfnpV2E42Hvfe5NK6S6SedcuPpump": "2026-10-28T22:09:05+00:00",
+  "7ounyiZN7JMXuoLQfKknAHgxXoarUoJczDMHVr8zePKj": "2026-10-28T22:07:37+00:00",
+  "6qsSQBLm4pQXhUDVabNH9YWnQV5SSpEZLfoxeY8rpump": "2026-10-28T22:04:28+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-28T21:40:15.943Z"
+ "lastRun": "2026-10-28T22:17:55.688Z"
 }
