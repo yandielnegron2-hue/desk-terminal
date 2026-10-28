@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-28T23:57:35.025Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "POP: top-10 share unknown",
+   "mint": "FxwWTze7qwWM8GMRcdyHWpocmCw8Th8QLRGETBJbeSUo",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50762"
+  },
+  {
    "t": "2026-10-28T22:55:31.083Z",
    "mode": "PAPER",
    "type": "reject",
@@ -528,8 +536,9 @@
   "4wRCmd51WNPQK9ZjfnpV2E42Hvfe5NK6S6SedcuPpump": "2026-10-28T22:09:05+00:00",
   "7ounyiZN7JMXuoLQfKknAHgxXoarUoJczDMHVr8zePKj": "2026-10-28T22:07:37+00:00",
   "6qsSQBLm4pQXhUDVabNH9YWnQV5SSpEZLfoxeY8rpump": "2026-10-28T22:04:28+00:00",
-  "4Y3rjkH38LkoN3Hkgs4hWVCfu7sovjGakZDCdHhjpump": "2026-10-28T22:54:42+00:00"
+  "4Y3rjkH38LkoN3Hkgs4hWVCfu7sovjGakZDCdHhjpump": "2026-10-28T22:54:42+00:00",
+  "FxwWTze7qwWM8GMRcdyHWpocmCw8Th8QLRGETBJbeSUo": "2026-10-28T23:42:57+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-28T23:24:26.600Z"
+ "lastRun": "2026-10-28T23:57:35.326Z"
 }

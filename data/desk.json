@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T23:24:26.600Z",
+ "updated": "2026-10-28T23:57:35.326Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 3,
+ "feedLagSec": 2,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-28T23:57:35.025Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "POP: top-10 share unknown",
+   "mint": "FxwWTze7qwWM8GMRcdyHWpocmCw8Th8QLRGETBJbeSUo",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50762"
+  },
   {
    "t": "2026-10-28T22:55:31.083Z",
    "mode": "PAPER",

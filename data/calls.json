@@ -1,6 +1,26 @@
 {
- "scrapedAt": "2026-10-28T23:24:23+00:00",
+ "scrapedAt": "2026-10-28T23:57:24+00:00",
  "calls": [
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-10-28T23:51:54+00:00",
+   "link": "https://t.me/PumpPillSignals/50763",
+   "symbol": "AODF",
+   "ca": null,
+   "callMc": null,
+   "callLiq": null,
+   "text": "$AODF went $214K → $674K (3.2x) then died. the pump was bait. Bundle: AVOID, CRITICAL risk, 93% coordinated supply."
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-10-28T23:42:57+00:00",
+   "link": "https://t.me/PumpPillSignals/50762",
+   "symbol": "POP",
+   "ca": "FxwWTze7qwWM8GMRcdyHWpocmCw8Th8QLRGETBJbeSUo",
+   "callMc": 73000.0,
+   "callLiq": null,
+   "text": "🌊 Wave Watch · free beta $POP · $73K market cap FxwWTze7qwWM8GMRcdyHWpocmCw8Th8QLRGETBJbeSUo 3 real accounts posted this contract, 26K followers between them — against a $73K token. · @jo5htheboss (23K) · @memecola_ (1.9K) · @TDraw75 (1.4K) Revival: over a day old and waking up — market cap 20.2x its low after the first run. Met: a real 10K+ account posted the contract while it was under $100K. Ou"
+  },
   {
    "channel": "SmugCalls",
    "time": "2026-10-28T23:08:26+00:00",
@@ -380,26 +400,6 @@
    "callMc": 154000.0,
    "callLiq": 38000.0,
    "text": "📡 PUMPPILL · TRACKING $ELLE · $154K Vol 1h $81K · Liq $38K · Buys/Sells 2.0x 🟢 CA: 4ukaKujsrTuoF4eC1CY7xSiM3kN7HUE2pNZpMm2fpump PumpPill is tracking this token."
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-10-28T20:57:43+00:00",
-   "link": "https://t.me/PumpPillSignals/50743",
-   "symbol": null,
-   "ca": null,
-   "callMc": null,
-   "callLiq": null,
-   "text": "💡 Alpha funder 2GfT...BSna — 2 out of 3 tokens hit 5x+. Best: IShowSpeed. Worth watching next time they deploy."
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-10-28T20:17:03+00:00",
-   "link": "https://t.me/PumpPillSignals/50742",
-   "symbol": "NILLY",
-   "ca": "2HWkv1SpE7uB6sdXGhmgWrdpGe58Su8P3Ra3ffxGpump",
-   "callMc": 74000.0,
-   "callLiq": 20000.0,
-   "text": "📡 PUMPPILL · TRACKING $NILLY · $74K Vol 1h $111K · Liq $20K · Buys/Sells 0.7x CA: 2HWkv1SpE7uB6sdXGhmgWrdpGe58Su8P3Ra3ffxGpump PumpPill is tracking this token."
   },
   {
    "channel": "bitconggems",
