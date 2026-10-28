@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-28T16:01:41.193Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "KING: top-10 share unknown; liq $1987 < $10000",
+   "mint": "8F9hK9qnemZ9rPfbLWuhvMwXbVXFusPtQUFiZNzxpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50707"
+  },
+  {
    "t": "2026-10-28T15:14:12.360Z",
    "mode": "PAPER",
    "type": "reject",
@@ -330,8 +338,9 @@
   "4cgxw6qo2JC9BJ1D2rQfA35mCGMkReYc39nravbjXFwE": "2026-10-28T14:11:21+00:00",
   "8gnyYyngFtzPP6K9YRQ8a7kZWKQ5tzu5N2D23Rafxrn5": "2026-10-28T15:08:30+00:00",
   "6NaM98xdfCkTTjqTvjq4t8TdSQ2374VGkGEXCzCPpump": "2026-10-28T15:08:07+00:00",
-  "CBrQm3cACrmfUQvJuVeVy1zEhGvqmQU93d6sGehWpump": "2026-10-28T15:01:56+00:00"
+  "CBrQm3cACrmfUQvJuVeVy1zEhGvqmQU93d6sGehWpump": "2026-10-28T15:01:56+00:00",
+  "8F9hK9qnemZ9rPfbLWuhvMwXbVXFusPtQUFiZNzxpump": "2026-10-28T15:47:51+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-28T15:14:12.661Z"
+ "lastRun": "2026-10-28T16:01:41.493Z"
 }

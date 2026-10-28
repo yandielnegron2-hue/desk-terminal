@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T15:14:12.661Z",
+ "updated": "2026-10-28T16:01:41.493Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-28T16:01:41.193Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "KING: top-10 share unknown; liq $1987 < $10000",
+   "mint": "8F9hK9qnemZ9rPfbLWuhvMwXbVXFusPtQUFiZNzxpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50707"
+  },
   {
    "t": "2026-10-28T15:14:12.360Z",
    "mode": "PAPER",
