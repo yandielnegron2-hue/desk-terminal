@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T03:44:23.328Z",
+ "updated": "2026-10-28T04:23:51.043Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 2,
+ "feedLagSec": 1,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,22 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-28T04:23:50.742Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "INVISIBLE: top-10 share unknown; liq $2111 < $10000",
+   "mint": "BpRPVFVhGN5Pf1HpXpqYuESGwAj52ETreJbmkpLFpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50629"
+  },
+  {
+   "t": "2026-10-28T04:23:42.088Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "PRIVACY: top-10 share unknown",
+   "mint": "J4BcBzEN6xybbLftX1nXxXVhVBdeoocDhLVoweVo6Wgk",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50630"
+  },
   {
    "t": "2026-10-28T03:44:23.027Z",
    "mode": "PAPER",
