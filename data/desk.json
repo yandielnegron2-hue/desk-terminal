@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T19:42:31.473Z",
+ "updated": "2026-10-28T20:22:14.934Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-28T20:22:14.633Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "NILLY: top-10 share unknown; liq $2325 < $10000",
+   "mint": "2HWkv1SpE7uB6sdXGhmgWrdpGe58Su8P3Ra3ffxGpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50742"
+  },
   {
    "t": "2026-10-28T19:42:31.172Z",
    "mode": "PAPER",

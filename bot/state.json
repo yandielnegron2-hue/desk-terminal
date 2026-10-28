@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-28T20:22:14.633Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "NILLY: top-10 share unknown; liq $2325 < $10000",
+   "mint": "2HWkv1SpE7uB6sdXGhmgWrdpGe58Su8P3Ra3ffxGpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50742"
+  },
+  {
    "t": "2026-10-28T19:42:31.172Z",
    "mode": "PAPER",
    "type": "reject",
@@ -411,8 +419,9 @@
   "D34F5GktuotztP11hQPncAd67qEDivmguoiaTdyJCXgT": "2026-10-28T18:04:41+00:00",
   "2mKPFrgUrmbPX7zBRnWg4RzY5dnAENH42Us5AcZtpump": "2026-10-28T17:59:41+00:00",
   "6EV6hnhqQaYVFSMkbyT3fjDvgeH9gPzQsW5jQkTkpump": "2026-10-28T19:33:35+00:00",
-  "8a68FkQqKsnVHZqEpLfVttAdVzxrfut9XhzeUV3upump": "2026-10-28T19:31:21+00:00"
+  "8a68FkQqKsnVHZqEpLfVttAdVzxrfut9XhzeUV3upump": "2026-10-28T19:31:21+00:00",
+  "2HWkv1SpE7uB6sdXGhmgWrdpGe58Su8P3Ra3ffxGpump": "2026-10-28T20:17:03+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-28T19:42:31.473Z"
+ "lastRun": "2026-10-28T20:22:14.934Z"
 }
