@@ -30,7 +30,5 @@ calls.sort(key=lambda c: c["time"], reverse=True)
 old = None
 try: old = json.load(open("data/calls.json"))
 except Exception: pass
-if old and old.get("calls") == calls:
-    print("unchanged"); raise SystemExit
 json.dump({"scrapedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), "calls": calls}, open("data/calls.json", "w"), ensure_ascii=False, indent=1)
 print("wrote", len(calls))

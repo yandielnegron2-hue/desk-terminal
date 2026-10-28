@@ -27,6 +27,7 @@ button.rf{background:var(--g);color:var(--bg);border:0;border-radius:6px;padding
 <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:10px"><button class="rf" id="rf">⟳ REFRESH NOW</button><span class="mono mu" style="font-size:12px">Prices auto-refresh every 30s from DexScreener. Calls reload every 60s from data/calls.json (updated by a GitHub Action every ~5 min; GitHub cron can run several minutes late).</span></div>
 <div class="panel tape mono"><div id="tape">loading prices…</div></div>
 <div class="panel am" style="font-size:12px;border-color:var(--a)">Not financial advice. Calls are real Telegram posts with their real post times; prices are live from DexScreener's public API. Paper positions are SIMULATED $100 buys at each call's stated market cap — no real trades. Wallet/trader data (StalkChain), holder concentration and on-chain bundle checks are unavailable here; bundle/creator notes are only what the channel stated.</div>
+<div class="panel" id="deskp"><div class="h">TRADING DESK · <span id="dmode"></span></div><div id="desk" class="mono" style="font-size:12px">loading data/desk.json…</div></div>
 <div class="grid">
 <div class="panel" style="grid-row:span 2"><div class="h">CALLOUT FEED · REAL POSTS · NEWEST FIRST · TIMES ET</div><div class="feed" id="feed"></div></div>
 <div class="panel"><div class="h">PAPER BOOK · SIMULATED $100 PER CALL WITH STATED MC</div><div id="book" class="mono"></div></div>
@@ -73,8 +74,17 @@ function renderAll(){renderFeed();const cs=coins();const book=cs.filter(c=>c.cal
  $("bots").innerHTML=bots.map(b=>`<div class="bot"><b style="color:${b[2]}">${b[0]}</b><span style="font-size:12px;color:var(--soft)">${esc(b[1])}</span></div>`).join("");
  if(!sel||!cs.find(c=>c.ca===sel))sel=cs[0]&&cs[0].ca;$("chips").innerHTML=cs.map(c=>`<span class="chip ${c.ca===sel?"on":""}" data-ca="${c.ca}">$${esc(c.sym)}</span>`).join("");
  const s=vs.find(x=>x.c.ca===sel);$("cells").innerHTML=s?s.v.map(v=>`<div class="cell"><div class="k">${v[0].toUpperCase()}</div><div class="v" style="color:${v[2]}">${esc(v[1])}</div></div>`).join(""):"";}
+async function loadDesk(){try{const d=await (await fetch("data/desk.json?t="+Date.now())).json();
+$("dmode").innerHTML=(d.mode==="LIVE"?'<span class="dn">LIVE · REAL SOL</span>':'<span class="am">PAPER · SIMULATED</span>')+(d.kill?' · <span class="dn">KILLED</span>':'');
+const br=Object.entries(d.breakers||{}).filter(([k])=>k!=="blockEntries").map(([k,v])=>`<span class="${v?"dn":"up"}">${k}:${v?"TRIPPED":"ok"}</span>`).join(" · ");
+const pos=(d.positions||[]).map(p=>`<tr><td>$${esc(p.sym)}</td><td>${p.sol.toFixed(4)}</td><td>${p.valueSol.toFixed(4)}</td><td class="${p.valueSol>=p.sol?"up":"dn"}">${pc((p.valueSol/p.sol-1)*100)}</td></tr>`).join("");
+$("desk").innerHTML=`<div>Wallet <a href="https://solscan.io/account/${d.wallet}" target="_blank">${d.wallet||"—"}</a> · balance ${d.walletSol==null?"unavailable":d.walletSol.toFixed(4)+" SOL"} (on-chain)</div>
+<div>Book ${d.book.toFixed(4)} SOL ${d.mode==="PAPER"?"(simulated, starts 1 SOL)":""} · today <span class="${(d.pnlTodayPct||0)>=0?"up":"dn"}">${pc(d.pnlTodayPct)}</span> · loss streak ${d.consecutiveLosses} · last cycle ${ET(d.updated)} · feed lag ${d.feedLagSec??"—"}s</div>
+<div style="margin:6px 0">Breakers: ${br}${d.breakers&&d.breakers.blockEntries?' · <span class="dn">ENTRIES BLOCKED</span>':''}</div>
+${pos?`<table><tr><th>POSITION</th><th>SOL IN</th><th>VALUE</th><th>PNL</th></tr>${pos}</table>`:'<div class="mu">No open positions.</div>'}
+<div class="h" style="margin-top:8px">TRADE LOG</div><div style="max-height:200px;overflow-y:auto">${(d.log||[]).map(l=>`<div><span class="mu">${ET(l.t)}</span> <span class="${l.type==="buy"?"up":l.type==="sell"?"am":l.type==="reject"||l.type==="error"?"dn":"mu"}">${l.type.toUpperCase()}</span> ${esc(l.msg)}</div>`).join("")}</div>`;}catch(e){$("desk").textContent="desk.json not available yet";}}
 $("chips").onclick=e=>{const ca=e.target.dataset&&e.target.dataset.ca;if(ca){sel=ca;renderAll();}};
 $("rf").onclick=async()=>{await loadCalls();await loadPx();};
 setInterval(()=>{$("clock").textContent=new Date().toLocaleTimeString("en-US",{timeZone:"America/New_York"});$("dot").classList.toggle("off");},1000);
-(async()=>{await loadCalls();await loadPx();setInterval(loadPx,30000);setInterval(async()=>{await loadCalls();},60000);})();
+(async()=>{loadDesk();setInterval(loadDesk,60000);await loadCalls();await loadPx();setInterval(loadPx,30000);setInterval(async()=>{await loadCalls();},60000);})();
 </script></body></html>

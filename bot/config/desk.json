@@ -1,0 +1,18 @@
+{
+ "sizeFraction": 0.02,
+ "maxOpenPositions": 5,
+ "solReserve": 0.05,
+ "minTradeSol": 0.01,
+ "takeProfitPct": 100,
+ "stopLossPct": -35,
+ "minLiquidityUsd": 10000,
+ "maxTop10Pct": 30,
+ "lpUnknownRejects": true,
+ "maxCallAgeSec": 900,
+ "feedLagMaxSec": 900,
+ "dailyLossCapPct": 10,
+ "maxConsecutiveLosses": 3,
+ "liquidityDropExitPct": 50,
+ "slippageBps": 300,
+ "spy": {"maxChasePct": 15, "perWalletCapFraction": 0.05, "demoteAfterLosses": 3}
+}
