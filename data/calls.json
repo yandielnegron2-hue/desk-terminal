@@ -1,6 +1,26 @@
 {
- "scrapedAt": "2026-10-28T05:45:49+00:00",
+ "scrapedAt": "2026-10-28T06:21:00+00:00",
  "calls": [
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-10-28T06:06:09+00:00",
+   "link": "https://t.me/PumpPillSignals/50639",
+   "symbol": "Frongus",
+   "ca": null,
+   "callMc": null,
+   "callLiq": null,
+   "text": "$Frongus Maximus ran to $698K and died. we had it flagged: CRITICAL risk. 2.8x peak from $246K. classic trap."
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-10-28T06:06:01+00:00",
+   "link": "https://t.me/PumpPillSignals/50638",
+   "symbol": "RAYCAT",
+   "ca": "GcumZadLqEiWzB2VLVr6WgZwqcN4Deg51S3bxR4UWmzh",
+   "callMc": 60000.0,
+   "callLiq": 18000.0,
+   "text": "📡 PUMPPILL · TRACKING $RAYCAT · $60K Vol 1h $50K · Liq $18K · Buys/Sells 1.6x 🟢 CA: GcumZadLqEiWzB2VLVr6WgZwqcN4Deg51S3bxR4UWmzh PumpPill is tracking this token."
+  },
   {
    "channel": "PumpPillSignals",
    "time": "2026-10-28T05:44:41+00:00",
@@ -340,26 +360,6 @@
    "callMc": null,
    "callLiq": null,
    "text": "💊 PUMPPILL · QUAD CONVERGENCE $Robotaxi Coin · $90K ██░ Moderate Signal (2/3) ✓ Trend Match: 65/100 ✓ Smart Money: 55/100 🔍 Bundle Intel ⚪ Grade: NEUTRAL (24/100) └ Unclear — weak demand, rely on other signals 🔓 Exit Tier: Clean Exit 👥 Bundled Buyers: 7/7 📊 Supply Held: 26.8% 📉 Exit Slippage: 5% 38,239 followers · Dev: 27.0 SOL · ⚠️ Dev prior rugs: 47 CA: 6xc3RU6UMZinBJJgeMaNBqRbanTdG1QTq47tCXXwpu"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-10-28T02:36:01+00:00",
-   "link": "https://t.me/PumpPillSignals/50619",
-   "symbol": "Pumpkin",
-   "ca": "7sD23H7mwbd8AJ3MWEG3ZBe6r8XKoqCkkiu7GGzYpump",
-   "callMc": 31000.0,
-   "callLiq": 19000.0,
-   "text": "📡 PUMPPILL · TRACKING $Pumpkin · $31K ✓ Insiders locked — aligned with buyers Vol 1h $19K · Liq $19K · Buys/Sells 1.3x CA: 7sD23H7mwbd8AJ3MWEG3ZBe6r8XKoqCkkiu7GGzYpump PumpPill is tracking this token."
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-10-28T02:36:00+00:00",
-   "link": "https://t.me/PumpPillSignals/50618",
-   "symbol": "DACITY",
-   "ca": "4RZYE2hy25Mr5pHuU5J9Sk5j7oQ9rBovVfMcfzSqaspN",
-   "callMc": 98000.0,
-   "callLiq": 27000.0,
-   "text": "📡 PUMPPILL · TRACKING $DACITY · $98K ⚡ Confirmed by 2/3 trending rooms ✓ Whale activity detected (2.26 SOL SOL) Vol 1h $29K · Liq $27K · Buys/Sells 1.1x CA: 4RZYE2hy25Mr5pHuU5J9Sk5j7oQ9rBovVfMcfzSqaspN PumpPill is tracking this token."
   },
   {
    "channel": "SmugCalls",

@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-28T06:21:10.017Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "RAYCAT: LP status unknown; top-10 share unknown",
+   "mint": "GcumZadLqEiWzB2VLVr6WgZwqcN4Deg51S3bxR4UWmzh",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50638"
+  },
+  {
    "t": "2026-10-28T05:46:08.903Z",
    "mode": "PAPER",
    "type": "reject",
@@ -78,8 +86,9 @@
   "6xc3RU6UMZinBJJgeMaNBqRbanTdG1QTq47tCXXwpump": "2026-10-28T05:07:34+00:00",
   "AfRDRyq2v7rBZ7HGR2yqtysfwYNzPzBHFJ8K9bd9pump": "2026-10-28T05:01:37+00:00",
   "DDgEb1AyoqR81NNTJX44AgpfYkbnWAegf4BrxP1Bpump": "2026-10-28T05:44:41+00:00",
-  "FixpvmWbF2AkdMD65jbgdky9G1Zkoq7SLySyGucipump": "2026-10-28T05:35:37+00:00"
+  "FixpvmWbF2AkdMD65jbgdky9G1Zkoq7SLySyGucipump": "2026-10-28T05:35:37+00:00",
+  "GcumZadLqEiWzB2VLVr6WgZwqcN4Deg51S3bxR4UWmzh": "2026-10-28T06:06:01+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-28T05:46:09.203Z"
+ "lastRun": "2026-10-28T06:21:10.318Z"
 }

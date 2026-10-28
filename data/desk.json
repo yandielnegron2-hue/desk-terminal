@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T05:46:09.203Z",
+ "updated": "2026-10-28T06:21:10.318Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 2,
+ "feedLagSec": 1,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-28T06:21:10.017Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "RAYCAT: LP status unknown; top-10 share unknown",
+   "mint": "GcumZadLqEiWzB2VLVr6WgZwqcN4Deg51S3bxR4UWmzh",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50638"
+  },
   {
    "t": "2026-10-28T05:46:08.903Z",
    "mode": "PAPER",
