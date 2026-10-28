@@ -3,6 +3,38 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-28T07:26:20.649Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Orgasm: top-10 share unknown; liq $2424 < $10000",
+   "mint": "HeUaWCK8s7A7FT7UU3uSrXKe8LcsqtTDUX7JC5Gvpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50646"
+  },
+  {
+   "t": "2026-10-28T07:26:12.197Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Invisible: top-10 share unknown",
+   "mint": "2HcvsX12NyuLnhDXoU6yWL2XLcr3snCTQ7RhqVmZuCgr",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50648"
+  },
+  {
+   "t": "2026-10-28T07:26:03.662Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "teledrop: top-10 share unknown",
+   "mint": "FgsSTazXwy4pxjrNMuzsQbEPbYPjAW17pAN8dfRHpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50649"
+  },
+  {
+   "t": "2026-10-28T07:25:55.142Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "GROKBOT: top-10 share unknown",
+   "mint": "4bjMPgeJYCUD1A44RJ4DHFY188SCd9vrMd6u71PDpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50650"
+  },
+  {
    "t": "2026-10-28T06:21:10.017Z",
    "mode": "PAPER",
    "type": "reject",
@@ -87,8 +119,12 @@
   "AfRDRyq2v7rBZ7HGR2yqtysfwYNzPzBHFJ8K9bd9pump": "2026-10-28T05:01:37+00:00",
   "DDgEb1AyoqR81NNTJX44AgpfYkbnWAegf4BrxP1Bpump": "2026-10-28T05:44:41+00:00",
   "FixpvmWbF2AkdMD65jbgdky9G1Zkoq7SLySyGucipump": "2026-10-28T05:35:37+00:00",
-  "GcumZadLqEiWzB2VLVr6WgZwqcN4Deg51S3bxR4UWmzh": "2026-10-28T06:06:01+00:00"
+  "GcumZadLqEiWzB2VLVr6WgZwqcN4Deg51S3bxR4UWmzh": "2026-10-28T06:06:01+00:00",
+  "4bjMPgeJYCUD1A44RJ4DHFY188SCd9vrMd6u71PDpump": "2026-10-28T07:21:55+00:00",
+  "FgsSTazXwy4pxjrNMuzsQbEPbYPjAW17pAN8dfRHpump": "2026-10-28T07:21:21+00:00",
+  "2HcvsX12NyuLnhDXoU6yWL2XLcr3snCTQ7RhqVmZuCgr": "2026-10-28T07:20:12+00:00",
+  "HeUaWCK8s7A7FT7UU3uSrXKe8LcsqtTDUX7JC5Gvpump": "2026-10-28T07:16:21+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-28T06:21:10.318Z"
+ "lastRun": "2026-10-28T07:26:20.950Z"
 }

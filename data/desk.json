@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T06:21:10.318Z",
+ "updated": "2026-10-28T07:26:20.950Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 1,
+ "feedLagSec": 2,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,38 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-28T07:26:20.649Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Orgasm: top-10 share unknown; liq $2424 < $10000",
+   "mint": "HeUaWCK8s7A7FT7UU3uSrXKe8LcsqtTDUX7JC5Gvpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50646"
+  },
+  {
+   "t": "2026-10-28T07:26:12.197Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Invisible: top-10 share unknown",
+   "mint": "2HcvsX12NyuLnhDXoU6yWL2XLcr3snCTQ7RhqVmZuCgr",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50648"
+  },
+  {
+   "t": "2026-10-28T07:26:03.662Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "teledrop: top-10 share unknown",
+   "mint": "FgsSTazXwy4pxjrNMuzsQbEPbYPjAW17pAN8dfRHpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50649"
+  },
+  {
+   "t": "2026-10-28T07:25:55.142Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "GROKBOT: top-10 share unknown",
+   "mint": "4bjMPgeJYCUD1A44RJ4DHFY188SCd9vrMd6u71PDpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50650"
+  },
   {
    "t": "2026-10-28T06:21:10.017Z",
    "mode": "PAPER",
