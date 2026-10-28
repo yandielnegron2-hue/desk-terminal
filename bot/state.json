@@ -3,6 +3,38 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-28T16:48:59.228Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "OMNI: top-10 share unknown; liquidity unknown",
+   "mint": "4nwwLa8bYd1pxaNKVT7UVtTe4ajCKkBpmkaMup1Jpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22707"
+  },
+  {
+   "t": "2026-10-28T16:48:50.829Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "OMNI: top-10 share unknown; liq $8046 < $10000",
+   "mint": "BbuukgthzJbANtEDnjMtoyV8y1VAUdTF2gLHAHHBpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22708"
+  },
+  {
+   "t": "2026-10-28T16:48:42.096Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "OMNI: top-10 share unknown; liquidity unknown",
+   "mint": "HNfwa74aDBYx4Dz3X9fp2Sb5efY4io8jG2Tjqa1D4zcr",
+   "source": "SmugCalls https://t.me/SmugCalls/22709"
+  },
+  {
+   "t": "2026-10-28T16:48:33.516Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "KONA: top-10 share unknown; liq $6607 < $10000",
+   "mint": "DjBGgYBCAUsCjZ9zgfMmPTjiWkvgur7dCiRGNh7opump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50711"
+  },
+  {
    "t": "2026-10-28T16:01:41.193Z",
    "mode": "PAPER",
    "type": "reject",
@@ -339,8 +371,12 @@
   "8gnyYyngFtzPP6K9YRQ8a7kZWKQ5tzu5N2D23Rafxrn5": "2026-10-28T15:08:30+00:00",
   "6NaM98xdfCkTTjqTvjq4t8TdSQ2374VGkGEXCzCPpump": "2026-10-28T15:08:07+00:00",
   "CBrQm3cACrmfUQvJuVeVy1zEhGvqmQU93d6sGehWpump": "2026-10-28T15:01:56+00:00",
-  "8F9hK9qnemZ9rPfbLWuhvMwXbVXFusPtQUFiZNzxpump": "2026-10-28T15:47:51+00:00"
+  "8F9hK9qnemZ9rPfbLWuhvMwXbVXFusPtQUFiZNzxpump": "2026-10-28T15:47:51+00:00",
+  "DjBGgYBCAUsCjZ9zgfMmPTjiWkvgur7dCiRGNh7opump": "2026-10-28T16:47:58+00:00",
+  "HNfwa74aDBYx4Dz3X9fp2Sb5efY4io8jG2Tjqa1D4zcr": "2026-10-28T16:43:21+00:00",
+  "BbuukgthzJbANtEDnjMtoyV8y1VAUdTF2gLHAHHBpump": "2026-10-28T16:41:35+00:00",
+  "4nwwLa8bYd1pxaNKVT7UVtTe4ajCKkBpmkaMup1Jpump": "2026-10-28T16:38:55+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-28T16:01:41.493Z"
+ "lastRun": "2026-10-28T16:48:59.529Z"
 }
