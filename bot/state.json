@@ -3,6 +3,46 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-28T12:26:53.484Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "PumpkinBot: top-10 share unknown",
+   "mint": "5QREAgtfP1NkuymRaFdHxr5QNF2Yry9M1YCyaompump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50678"
+  },
+  {
+   "t": "2026-10-28T12:26:45.075Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "gyatt: top-10 share unknown; liquidity unknown",
+   "mint": "mtUoQ6Kj8gCMShLU2zFd9WsT7xq2cVdpGT7S56jpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22685"
+  },
+  {
+   "t": "2026-10-28T12:26:36.754Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Rapport`: top-10 share unknown",
+   "mint": "69Y6D9xQKkDYPvESDiKaQpU9Z5FXzY8LB7PthQkmpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50680"
+  },
+  {
+   "t": "2026-10-28T12:26:27.588Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "AchievingaBetterLife: top-10 share unknown",
+   "mint": "2jyaoNq68dx6VCx8Wu1SvFhPad5ik6WuMvS4htR8pump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50681"
+  },
+  {
+   "t": "2026-10-28T12:26:18.739Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "garry: top-10 share unknown",
+   "mint": "9rdw2ukP4gW5rQFS1RZrFdmpmB9tBFdngsYXP5NLpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22686"
+  },
+  {
    "t": "2026-10-28T11:53:44.632Z",
    "mode": "PAPER",
    "type": "reject",
@@ -222,8 +262,13 @@
   "HfPVTUsSd55Aab6BACWCy6dXo5pQgTUFnyGzgspFpump": "2026-10-28T09:36:35+00:00",
   "ENkivw8CNx4o9FS19U1XWU585JRxiGVpyhpQVPKwf96F": "2026-10-28T10:16:06+00:00",
   "GinNabffZL4fUj9Vactxha74GDAW8kDPGaHqMtMzps2f": "2026-10-28T11:48:53+00:00",
-  "CMvLh1iLTcnMC6fQv6LBFfY4e3TdGyuzqW1h9HGwpump": "2026-10-28T11:38:27+00:00"
+  "CMvLh1iLTcnMC6fQv6LBFfY4e3TdGyuzqW1h9HGwpump": "2026-10-28T11:38:27+00:00",
+  "9rdw2ukP4gW5rQFS1RZrFdmpmB9tBFdngsYXP5NLpump": "2026-10-28T12:22:38+00:00",
+  "2jyaoNq68dx6VCx8Wu1SvFhPad5ik6WuMvS4htR8pump": "2026-10-28T12:22:14+00:00",
+  "69Y6D9xQKkDYPvESDiKaQpU9Z5FXzY8LB7PthQkmpump": "2026-10-28T12:21:34+00:00",
+  "mtUoQ6Kj8gCMShLU2zFd9WsT7xq2cVdpGT7S56jpump": "2026-10-28T12:14:44+00:00",
+  "5QREAgtfP1NkuymRaFdHxr5QNF2Yry9M1YCyaompump": "2026-10-28T12:13:55+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-28T11:53:44.932Z"
+ "lastRun": "2026-10-28T12:26:53.785Z"
 }
