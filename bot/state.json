@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-28T11:53:44.632Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "MSFT: top-10 share unknown; liq $2410 < $10000",
+   "mint": "CMvLh1iLTcnMC6fQv6LBFfY4e3TdGyuzqW1h9HGwpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50671"
+  },
+  {
+   "t": "2026-10-28T11:53:36.218Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "GINNAN: LP status unknown; top-10 share unknown",
+   "mint": "GinNabffZL4fUj9Vactxha74GDAW8kDPGaHqMtMzps2f",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50673"
+  },
+  {
    "t": "2026-10-28T10:29:39.214Z",
    "mode": "PAPER",
    "type": "reject",
@@ -204,8 +220,10 @@
   "7hAZtqAonysMFSASSGLnW3kvin8nfSLzh1ZYHBjapump": "2026-10-28T09:04:22+00:00",
   "APYhnVUJLgTyWWVtBhJ6sAHzymD7FyrrnKBd3TaSpump": "2026-10-28T08:52:02+00:00",
   "HfPVTUsSd55Aab6BACWCy6dXo5pQgTUFnyGzgspFpump": "2026-10-28T09:36:35+00:00",
-  "ENkivw8CNx4o9FS19U1XWU585JRxiGVpyhpQVPKwf96F": "2026-10-28T10:16:06+00:00"
+  "ENkivw8CNx4o9FS19U1XWU585JRxiGVpyhpQVPKwf96F": "2026-10-28T10:16:06+00:00",
+  "GinNabffZL4fUj9Vactxha74GDAW8kDPGaHqMtMzps2f": "2026-10-28T11:48:53+00:00",
+  "CMvLh1iLTcnMC6fQv6LBFfY4e3TdGyuzqW1h9HGwpump": "2026-10-28T11:38:27+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-28T11:13:24.700Z"
+ "lastRun": "2026-10-28T11:53:44.932Z"
 }

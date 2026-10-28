@@ -1,6 +1,56 @@
 {
- "scrapedAt": "2026-10-28T11:13:22+00:00",
+ "scrapedAt": "2026-10-28T11:53:25+00:00",
  "calls": [
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-10-28T11:52:55+00:00",
+   "link": "https://t.me/PumpPillSignals/50674",
+   "symbol": "TYGR",
+   "ca": null,
+   "callMc": 65000.0,
+   "callLiq": null,
+   "text": "🌊 Wave Watch · free beta $TYGR · $65K market cap 0x69984ad3322300039f2855f81c44dbc532efe744 4 real accounts posted this contract, 53K followers between them — against a $65K token. · @EddyXBT (38K) · @TmsCrypto10 (8.5K) · @ITS_C4__ (4.9K) Met: a real 10K+ account posted the contract while it was under $100K. Our read · set your own filter Wave Watch is free during the beta. Premium-only from Novem"
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-10-28T11:48:53+00:00",
+   "link": "https://t.me/PumpPillSignals/50673",
+   "symbol": null,
+   "ca": "GinNabffZL4fUj9Vactxha74GDAW8kDPGaHqMtMzps2f",
+   "callMc": 310400.0,
+   "callLiq": null,
+   "text": "Why this posted: a second system (Buyers absorbing a sell-off) confirmed it 28h after the first (Quiet accumulation). 📰 No news story found this week ◎ Solana 🧲 FLOW — EXITS BEING ABSORBED — GINNAN MC $310.4K Sell spike hit and the pool's quote side held — someone is eating the exits. Flow reading, not endorsement. Size accordingly. dexscreener · pumppill · GinNabffZL4fUj9Vactxha74GDAW8kDPGaHqMtMz"
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-10-28T11:43:36+00:00",
+   "link": "https://t.me/PumpPillSignals/50672",
+   "symbol": "DRILL",
+   "ca": null,
+   "callMc": 62000.0,
+   "callLiq": null,
+   "text": "🌊 Wave Watch · free beta $DRILL · $62K market cap 0xd9d674b04a72affe00e06385535eaac10b988fca 8 real accounts posted this contract, 526K followers between them — against a $62K token. · @AltCryptoGems (469K) · @memewizd (18K) · @listingdexvra (12K) Met: a real 10K+ account posted the contract while it was under $100K. Our read · set your own filter Wave Watch is free during the beta. Premium-only f"
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-10-28T11:38:27+00:00",
+   "link": "https://t.me/PumpPillSignals/50671",
+   "symbol": "MSFT",
+   "ca": "CMvLh1iLTcnMC6fQv6LBFfY4e3TdGyuzqW1h9HGwpump",
+   "callMc": 42000.0,
+   "callLiq": null,
+   "text": "📡 PUMPPILL · TRACKING $MSFT · $42K ✓ Whale activity detected (1.01 SOL SOL) ✓ Insiders locked — aligned with buyers Vol 1h $9K · Buys/Sells 2.0x 🟢 CA: CMvLh1iLTcnMC6fQv6LBFfY4e3TdGyuzqW1h9HGwpump PumpPill is tracking this token."
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-10-28T11:27:57+00:00",
+   "link": "https://t.me/PumpPillSignals/50670",
+   "symbol": "STONKER",
+   "ca": null,
+   "callMc": null,
+   "callLiq": null,
+   "text": "✅ $STONKER hit 2x. $78K → $249K. Early Detection strategy."
+  },
   {
    "channel": "PumpPillSignals",
    "time": "2026-10-28T11:11:38+00:00",
@@ -350,56 +400,6 @@
    "callMc": 10000.0,
    "callLiq": null,
    "text": "🌊 Wave Watch · free beta $VenusCoin · $10K market cap 0x8aaa802c942193e1c8ab38b52814ba211d643f9f 2 real accounts posted this contract, 29K followers between them — against a $10K token. · @XbtPika (15K) · @SharkSociety_ (15K) Met: a real 10K+ account posted the contract while it was under $100K. Our read · set your own filter Wave Watch is free during the beta. Premium-only from November 1."
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-10-28T07:46:57+00:00",
-   "link": "https://t.me/PumpPillSignals/50654",
-   "symbol": "IMAGINE",
-   "ca": "835qApBwFrEAVkEoUW6D57oW8n2mW2btvfGKib8qV7XY",
-   "callMc": 109000.0,
-   "callLiq": 35000.0,
-   "text": "📡 PUMPPILL · TRACKING $IMAGINE · $109K Vol 1h $121K · Liq $35K · Buys/Sells 1.7x 🟢 CA: 835qApBwFrEAVkEoUW6D57oW8n2mW2btvfGKib8qV7XY PumpPill is tracking this token."
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-10-28T07:44:25+00:00",
-   "link": "https://t.me/PumpPillSignals/50653",
-   "symbol": "ND4",
-   "ca": null,
-   "callMc": 57000.0,
-   "callLiq": null,
-   "text": "🌊 Wave Watch · free beta $ND4 · $57K market cap 0xa43a9b6eedd8204f445237bf72775ed9b1723d45 3 real accounts posted this contract, 41K followers between them — against a $57K token. · @eveyino (29K) · @ibtc2023 (9.3K) · @iamnotlosing (2.7K) Met: a real 10K+ account posted the contract while it was under $100K. Our read · set your own filter Wave Watch is free during the beta. Premium-only from Novem"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-10-28T07:27:51+00:00",
-   "link": "https://t.me/PumpPillSignals/50652",
-   "symbol": "Orgasm",
-   "ca": null,
-   "callMc": null,
-   "callLiq": null,
-   "text": "$Orgasm Fans just crossed 2x. entry was $2K, now at $276K. Quad Convergence caught it."
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-10-28T07:22:49+00:00",
-   "link": "https://t.me/PumpPillSignals/50651",
-   "symbol": "Orgasm",
-   "ca": null,
-   "callMc": null,
-   "callLiq": null,
-   "text": "🔥🔥 $Orgasm Fans ran to 5x. $2K → $276K. another one for the books."
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-10-28T07:21:55+00:00",
-   "link": "https://t.me/PumpPillSignals/50650",
-   "symbol": "GROKBOT",
-   "ca": "4bjMPgeJYCUD1A44RJ4DHFY188SCd9vrMd6u71PDpump",
-   "callMc": 49000.0,
-   "callLiq": 18000.0,
-   "text": "📡 PUMPPILL · TRACKING $GROKBOT · $49K Vol 1h $73K · Liq $18K · Buys/Sells 1.3x CA: 4bjMPgeJYCUD1A44RJ4DHFY188SCd9vrMd6u71PDpump PumpPill is tracking this token."
   },
   {
    "channel": "bitconggems",
