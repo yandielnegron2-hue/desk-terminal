@@ -1,11 +1,31 @@
 {
  "paperSol": 1,
  "positions": [],
- "log": [],
+ "log": [
+  {
+   "t": "2026-10-28T03:44:23.027Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "FOOT: LP status unknown; top-10 share unknown; liq $9 < $10000",
+   "mint": "EPymKcNWon3GdyZTmXeCjHXjvNZpaRLR14ALVaDXpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22646"
+  },
+  {
+   "t": "2026-10-28T03:44:14.792Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Ginnan: top-10 share unknown",
+   "mint": "2h6No4wqsn2ckqsWR2JFp1wMF5fiKuJinEQPneT9mdn3",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50627"
+  }
+ ],
  "consecutiveLosses": 0,
  "day": "2026-10-28",
  "dayStartBook": 1,
- "seen": {},
+ "seen": {
+  "2h6No4wqsn2ckqsWR2JFp1wMF5fiKuJinEQPneT9mdn3": "2026-10-28T03:33:26+00:00",
+  "EPymKcNWon3GdyZTmXeCjHXjvNZpaRLR14ALVaDXpump": "2026-10-28T03:29:25+00:00"
+ },
  "spy": {},
- "lastRun": "2026-10-28T03:03:45.222Z"
+ "lastRun": "2026-10-28T03:44:23.328Z"
 }
