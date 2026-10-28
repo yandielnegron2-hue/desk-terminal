@@ -1,0 +1,80 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Grok Bit Terminal (Paper mode, simulated trades)</title>
+<style>
+:root{--bg:#050806;--panel:#0E1511;--border:#1C2A21;--text:#E8F2EA;--soft:#C9D6CC;--mute:#7E8F84;--g:#39FF6A;--r:#FF4D5E;--a:#FFB020;--b:#4DA3FF;--p:#B57BFF}
+html,body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif}body{padding:12px}a{color:inherit}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.panel{background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:12px;margin-bottom:10px}
+.h{font:11px ui-monospace,Menlo,monospace;letter-spacing:1.5px;color:var(--mute);margin-bottom:8px}
+.top{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;margin-bottom:10px}
+.brand{font-weight:700;font-size:18px;color:var(--g)}.tag{font-size:11px;background:var(--a);color:var(--bg);padding:2px 6px;border-radius:4px}
+.tape{overflow:hidden;padding:6px 0}.tape div{display:inline-block;white-space:pre;font-size:12px;color:var(--soft);animation:tape 45s linear infinite}
+@keyframes tape{from{transform:translateX(0)}to{transform:translateX(-50%)}}@keyframes fade{from{opacity:0;transform:translateY(-4px)}to{opacity:1}}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:10px}
+.feed{max-height:620px;overflow-y:auto;display:flex;flex-direction:column;gap:6px}
+.msg{display:block;text-decoration:none;background:var(--bg);border-left:3px solid var(--b);padding:6px 8px;border-radius:6px;animation:fade .4s both}
+.msg .m{font-size:11px;color:var(--mute)}.msg .t{font-size:13px;margin-top:2px;word-break:break-word}
+table{width:100%;border-collapse:collapse;font-size:12px}th{color:var(--mute);font-weight:400;padding:4px;text-align:right}td{padding:4px;text-align:right;border-top:1px solid var(--border)}th:first-child,td:first-child{text-align:left}
+.up{color:var(--g)}.dn{color:var(--r)}.am{color:var(--a)}.mu{color:var(--mute)}
+.bot{display:flex;gap:8px;padding:4px 0;border-top:1px solid var(--border)}.bot b{font:10px ui-monospace,Menlo,monospace;min-width:100px;padding-top:2px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}.chip{font:12px ui-monospace,Menlo,monospace;padding:4px 10px;border-radius:6px;background:var(--bg);color:var(--soft);border:1px solid var(--border);cursor:pointer}.chip.on{background:var(--g);color:var(--bg)}
+.cells{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:6px}.cell{background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:8px}.cell .k{font:10px ui-monospace,Menlo,monospace;color:var(--mute);letter-spacing:1px}.cell .v{font-size:12px;margin-top:2px}
+button.rf{background:var(--g);color:var(--bg);border:0;border-radius:6px;padding:8px 16px;font:700 13px ui-monospace,Menlo,monospace;cursor:pointer}
+.dot{color:var(--g)}.off{color:var(--border)}
+</style></head><body>
+<div class="top"><div><span class="brand mono">GROK BIT TERMINAL</span> <span class="tag mono">PAPER · SIMULATED</span></div>
+<div class="mono mu" style="font-size:12px"><span id="dot" class="dot">●</span> <span id="clock"></span> ET · prices <span id="pxAt">loading…</span> · calls scraped <span id="callAt">…</span></div></div>
+<div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:10px"><button class="rf" id="rf">⟳ REFRESH NOW</button><span class="mono mu" style="font-size:12px">Prices auto-refresh every 30s from DexScreener. Calls reload every 60s from data/calls.json (updated by a GitHub Action every ~5 min; GitHub cron can run several minutes late).</span></div>
+<div class="panel tape mono"><div id="tape">loading prices…</div></div>
+<div class="panel am" style="font-size:12px;border-color:var(--a)">Not financial advice. Calls are real Telegram posts with their real post times; prices are live from DexScreener's public API. Paper positions are SIMULATED $100 buys at each call's stated market cap — no real trades. Wallet/trader data (StalkChain), holder concentration and on-chain bundle checks are unavailable here; bundle/creator notes are only what the channel stated.</div>
+<div class="grid">
+<div class="panel" style="grid-row:span 2"><div class="h">CALLOUT FEED · REAL POSTS · NEWEST FIRST · TIMES ET</div><div class="feed" id="feed"></div></div>
+<div class="panel"><div class="h">PAPER BOOK · SIMULATED $100 PER CALL WITH STATED MC</div><div id="book" class="mono"></div></div>
+<div class="panel"><div class="h">DESK BOTS · 10 · RECOMPUTED EACH PRICE TICK</div><div id="bots"></div></div>
+</div>
+<div class="panel"><div class="h">BOT SCAN · EVERY COIN × 10 BOTS</div><div class="chips" id="chips"></div><div class="cells" id="cells"></div></div>
+<div class="panel mu" style="font-size:12px"><div class="h">TRADER TRACKER</div>Wallet buys, sells and PnL for the tracked traders (J777Crypto, slingoor, gr3gor14n, marcell, mitch, cupsey, chairman, hexiecs, Dior, POORGOAT___, Kimchi, @RunningClam, @tvmx, @kv4rl, @pointfarmcap, @unipcs, @wrld_sol, @xfilesboy, @lonekyro, @frankdegods, @0xAvast, @Googlescript): <span class="am">unavailable</span> — needs a wallet-data provider. Sources: <a href="https://t.me/s/PumpPillSignals">PumpPillSignals</a> · <a href="https://t.me/s/SmugCalls">SmugCalls</a> · <a href="https://t.me/s/bitconggems">bitconggems</a> · <a href="https://dexscreener.com">DexScreener</a></div>
+<script>
+const $=id=>document.getElementById(id);
+const ET=d=>new Date(d).toLocaleString("en-US",{timeZone:"America/New_York",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});
+const fm=n=>n==null?"—":n>=1e6?"$"+(n/1e6).toFixed(2)+"M":n>=1e3?"$"+(n/1e3).toFixed(1)+"K":"$"+n.toFixed(0);
+const pc=n=>n==null?"—":(n>=0?"+":"")+n.toFixed(1)+"%";
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const COL={PumpPillSignals:"var(--g)",SmugCalls:"var(--b)",bitconggems:"var(--p)"};
+let calls=[],px={},pxAt=null,sel=null;
+async function loadCalls(){try{const r=await fetch("data/calls.json?t="+Date.now());const d=await r.json();calls=d.calls||[];$("callAt").textContent=ET(d.scrapedAt);}catch(e){$("callAt").textContent="failed to load";}renderFeed();}
+async function loadPx(){const cas=[...new Set(calls.filter(c=>c.ca).map(c=>c.ca))].slice(0,30);if(!cas.length)return;
+ try{const r=await fetch("https://api.dexscreener.com/latest/dex/tokens/"+cas.join(","));const d=await r.json();const np={};
+ for(const p of d.pairs||[]){const a=p.baseToken.address;if(!cas.includes(a))continue;const l=(p.liquidity||{}).usd??null;if(!np[a]||(l||0)>(np[a].liq||0))np[a]={sym:p.baseToken.symbol,mc:p.marketCap??p.fdv??null,liq:l,h1:(p.priceChange||{}).h1??null,m5:(p.priceChange||{}).m5??null,price:p.priceUsd,url:p.url};}
+ px=np;pxAt=new Date();$("pxAt").textContent=ET(pxAt)+":"+String(pxAt.getSeconds()).padStart(2,"0");}catch(e){$("pxAt").textContent="DexScreener fetch failed — showing last values";}
+ renderAll();}
+function coins(){const seen=new Set(),out=[];for(const c of calls){if(!c.ca||seen.has(c.ca))continue;seen.add(c.ca);const p=px[c.ca];out.push({...c,sym:c.symbol||(p&&p.sym)||c.ca.slice(0,6),p,pct:p&&p.mc&&c.callMc?(p.mc/c.callMc-1)*100:null});}return out;}
+function verdicts(c){const p=c.p,t=c.text||"";const cut=(c.callLiq!=null&&c.callLiq<5000)||(p&&p.liq!=null&&p.liq<5000);const dead=(c.pct!=null&&c.pct<-50)||(p&&p.h1!=null&&p.h1<-50);
+ const flags=[];if(/bundled/i.test(t))flags.push((t.match(/Bundled Buyers:\s*[\d/]+/i)||["bundled buyers stated"])[0]);if(/AVOID/.test(t))flags.push("channel grade AVOID");const cr=t.match(/creator:\s*(\d+) grads \/ (\d+) launches/);if(cr&&+cr[2]>500)flags.push("serial deployer "+cr[2]+" launches");if(p&&p.liq==null)flags.push("no liquidity on DexScreener");
+ const head=!p?"NO PRICE DATA":dead||flags.some(f=>/AVOID|bundled/i.test(f))?"AVOID":cut?"AVOID (thin liq)":c.pct!=null&&c.pct>=0&&(p.h1??0)>=0?"WATCH (green vs call)":"WATCH ONLY";
+ return[["Judge",c.channel+" · posted "+ET(c.time),"var(--soft)"],["Scout","CA "+c.ca.slice(0,6)+"…"+c.ca.slice(-4),"var(--soft)"],
+ ["Filter",!p?"Unavailable: no DexScreener pair":cut?"CUT: liquidity under $5K":"PASS (liq "+fm(p.liq)+")",cut?"var(--r)":"var(--g)"],
+ ["Analyst",p?"MC "+fm(p.mc)+" · 5m "+pc(p.m5)+" · 1h "+pc(p.h1):"Unavailable",p&&(p.h1??0)>=0?"var(--g)":"var(--r)"],
+ ["Copier","Unavailable: no wallet-data provider","var(--mute)"],["Risk",flags.length?flags.join(" · "):"No flags stated · holder/bundle check unavailable",flags.length?"var(--r)":"var(--a)"],
+ ["Search","Unavailable: no X search in browser","var(--mute)"],["Sniper",c.pct==null?"No stated call MC to measure entry":"Entry at call MC → "+pc(c.pct),c.pct!=null&&c.pct>=0?"var(--g)":"var(--r)"],
+ ["Exit",!p?"Unavailable":dead?"EXIT: down >50%":"No exit trigger",dead?"var(--r)":"var(--a)"],["Head of Desk",head,/AVOID|NO/.test(head)?"var(--r)":"var(--a)"]];}
+function renderFeed(){$("feed").innerHTML=calls.map((c,i)=>`<a class="msg" target="_blank" href="${esc(c.link)}" style="border-left-color:${COL[c.channel]};animation-delay:${Math.min(i,20)*.03}s"><div class="m mono">${ET(c.time)} · <span style="color:${COL[c.channel]}">${c.channel}</span>${c.ca&&px[c.ca]?` · now ${fm(px[c.ca].mc)} <span class="${(px[c.ca].h1??0)>=0?"up":"dn"}">1h ${pc(px[c.ca].h1)}</span>`:""}</div><div class="t">${esc(c.text)}</div></a>`).join("")||'<span class="mu">No calls loaded.</span>';}
+function renderAll(){renderFeed();const cs=coins();const book=cs.filter(c=>c.callMc&&c.p&&c.p.mc);let cost=0,val=0;
+ const rows=book.map(c=>{cost+=100;val+=100*(1+c.pct/100);return`<tr><td><a href="${c.p.url}" target="_blank">$${esc(c.sym)}</a><div class="mu" style="font-size:10px">${c.channel}</div></td><td>${fm(c.callMc)}</td><td>${fm(c.p.mc)}</td><td class="${(c.p.h1??0)>=0?"up":"dn"}">${pc(c.p.h1)}</td><td class="${c.pct>=0?"up":"dn"}">${pc(c.pct)}</td></tr>`;}).join("");
+ const pnl=val-cost;$("book").innerHTML=cost?`<div style="display:flex;flex-wrap:wrap;gap:16px;margin-bottom:10px"><div><div class="mu" style="font-size:11px">COST (SIM)</div><div style="font-size:18px">$${cost}</div></div><div><div class="mu" style="font-size:11px">VALUE (SIM)</div><div style="font-size:18px">$${val.toFixed(0)}</div></div><div><div class="mu" style="font-size:11px">PNL (SIMULATED)</div><div style="font-size:18px" class="${pnl>=0?"up":"dn"}">${pnl>=0?"+":"-"}$${Math.abs(pnl).toFixed(0)} (${pc(pnl/cost*100)})</div></div></div><div style="overflow-x:auto"><table><tr><th>TOKEN</th><th>CALL MC</th><th>NOW MC</th><th>1H</th><th>PNL</th></tr>${rows}</table></div>`:'<span class="mu">Waiting for prices…</span>';
+ $("tape").textContent=(t=>t+"     ·     "+t)(cs.filter(c=>c.p).map(c=>"$"+c.sym+" "+fm(c.p.mc)+" 1h "+pc(c.p.h1)+(c.pct!=null?" ("+pc(c.pct)+" vs call)":"")).join("     ·     "));
+ const vs=cs.map(c=>({c,v:verdicts(c)}));const n=k=>vs.filter(x=>x.v[9][1].startsWith(k)).length;const best=book.slice().sort((a,b)=>b.pct-a.pct)[0];const worst=book.slice().sort((a,b)=>a.pct-b.pct)[0];
+ const cut=vs.filter(x=>x.v[2][1].startsWith("CUT")).map(x=>"$"+x.c.sym);const risky=vs.filter(x=>!x.v[5][1].startsWith("No flags")).map(x=>"$"+x.c.sym);const hot=cs.filter(c=>c.p&&c.p.h1!=null).sort((a,b)=>b.p.h1-a.p.h1)[0];
+ const bots=[["HEAD OF DESK",`${cs.length} coins scanned: ${n("AVOID")} AVOID, ${n("WATCH")} WATCH. Paper book ${cost?pc(pnl/cost*100):"—"} (simulated).`,"var(--a)"],
+ ["JUDGE",`${calls.length} posts loaded; ${cs.length} with contract addresses.`,"var(--text)"],["SCOUT",calls[0]?`Newest: ${calls[0].symbol?"$"+calls[0].symbol:"post"} from ${calls[0].channel} at ${ET(calls[0].time)}.`:"—","var(--text)"],
+ ["FILTER",cut.length?"Cut (liq < $5K): "+cut.join(", "):"Nothing cut.","var(--r)"],["ANALYST",hot?`Hottest 1h: $${hot.sym} ${pc(hot.p.h1)} at ${fm(hot.p.mc)} MC.`:"No price data.","var(--g)"],
+ ["COPIER","Unavailable: no wallet-data provider connected.","var(--mute)"],["RISK",risky.length?"Flags on: "+risky.join(", "):"No stated flags.","var(--r)"],
+ ["SEARCH","Unavailable in browser: X search needs an API key.","var(--mute)"],["SNIPER",best?`Best entry-at-call: $${best.sym} ${pc(best.pct)}.`:"—","var(--g)"],["EXIT",worst?`Worst: $${worst.sym} ${pc(worst.pct)} vs call.`:"—","var(--a)"]];
+ $("bots").innerHTML=bots.map(b=>`<div class="bot"><b style="color:${b[2]}">${b[0]}</b><span style="font-size:12px;color:var(--soft)">${esc(b[1])}</span></div>`).join("");
+ if(!sel||!cs.find(c=>c.ca===sel))sel=cs[0]&&cs[0].ca;$("chips").innerHTML=cs.map(c=>`<span class="chip ${c.ca===sel?"on":""}" data-ca="${c.ca}">$${esc(c.sym)}</span>`).join("");
+ const s=vs.find(x=>x.c.ca===sel);$("cells").innerHTML=s?s.v.map(v=>`<div class="cell"><div class="k">${v[0].toUpperCase()}</div><div class="v" style="color:${v[2]}">${esc(v[1])}</div></div>`).join(""):"";}
+$("chips").onclick=e=>{const ca=e.target.dataset&&e.target.dataset.ca;if(ca){sel=ca;renderAll();}};
+$("rf").onclick=async()=>{await loadCalls();await loadPx();};
+setInterval(()=>{$("clock").textContent=new Date().toLocaleTimeString("en-US",{timeZone:"America/New_York"});$("dot").classList.toggle("off");},1000);
+(async()=>{await loadCalls();await loadPx();setInterval(loadPx,30000);setInterval(async()=>{await loadCalls();},60000);})();
+</script></body></html>
