@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T12:26:53.785Z",
+ "updated": "2026-10-28T13:28:58.091Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-28T13:28:57.790Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "FAP: top-10 share unknown",
+   "mint": "EFLwx1cVeLoFx15eRzfei3yCYBHXFZefuzwi4R7Cpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22688"
+  },
   {
    "t": "2026-10-28T12:26:53.484Z",
    "mode": "PAPER",

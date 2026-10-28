@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-28T13:28:57.790Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "FAP: top-10 share unknown",
+   "mint": "EFLwx1cVeLoFx15eRzfei3yCYBHXFZefuzwi4R7Cpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22688"
+  },
+  {
    "t": "2026-10-28T12:26:53.484Z",
    "mode": "PAPER",
    "type": "reject",
@@ -267,8 +275,9 @@
   "2jyaoNq68dx6VCx8Wu1SvFhPad5ik6WuMvS4htR8pump": "2026-10-28T12:22:14+00:00",
   "69Y6D9xQKkDYPvESDiKaQpU9Z5FXzY8LB7PthQkmpump": "2026-10-28T12:21:34+00:00",
   "mtUoQ6Kj8gCMShLU2zFd9WsT7xq2cVdpGT7S56jpump": "2026-10-28T12:14:44+00:00",
-  "5QREAgtfP1NkuymRaFdHxr5QNF2Yry9M1YCyaompump": "2026-10-28T12:13:55+00:00"
+  "5QREAgtfP1NkuymRaFdHxr5QNF2Yry9M1YCyaompump": "2026-10-28T12:13:55+00:00",
+  "EFLwx1cVeLoFx15eRzfei3yCYBHXFZefuzwi4R7Cpump": "2026-10-28T13:16:49+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-28T12:26:53.785Z"
+ "lastRun": "2026-10-28T13:28:58.091Z"
 }
