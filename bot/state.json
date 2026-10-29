@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-29T01:34:08.526Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "X: top-10 share unknown; liquidity unknown",
+   "mint": "ELqNQeNmVeM5NYuwbZg5qVX62tuu7r8FoZzHr8Capump",
+   "source": "SmugCalls https://t.me/SmugCalls/22765"
+  },
+  {
+   "t": "2026-10-29T01:34:00.021Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "PVE: top-10 share unknown; liquidity unknown",
+   "mint": "4q6LbcfeBXTUjm2fbPFbyKEBgXU4xhuc6xPZFMSRbaMR",
+   "source": "SmugCalls https://t.me/SmugCalls/22766"
+  },
+  {
    "t": "2026-10-29T00:34:03.479Z",
    "mode": "PAPER",
    "type": "reject",
@@ -564,8 +580,10 @@
   "FxwWTze7qwWM8GMRcdyHWpocmCw8Th8QLRGETBJbeSUo": "2026-10-28T23:42:57+00:00",
   "9fzGMzAFMfdCphomUtbfRNBCd81B2K4AZweMoT2Ypump": "2026-10-29T00:30:42+00:00",
   "7AxJJTaJumkDRCJNz4n8ixobaPjrmL6GmxexuJKDpump": "2026-10-29T00:25:00+00:00",
-  "VFcXScyQcxbfTmAv7G3nkdUsTJhUejAnhWfUXW6pump": "2026-10-29T00:23:12+00:00"
+  "VFcXScyQcxbfTmAv7G3nkdUsTJhUejAnhWfUXW6pump": "2026-10-29T00:23:12+00:00",
+  "4q6LbcfeBXTUjm2fbPFbyKEBgXU4xhuc6xPZFMSRbaMR": "2026-10-29T01:30:49+00:00",
+  "ELqNQeNmVeM5NYuwbZg5qVX62tuu7r8FoZzHr8Capump": "2026-10-29T01:29:31+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-29T00:34:03.780Z"
+ "lastRun": "2026-10-29T01:34:08.826Z"
 }
