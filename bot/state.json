@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-29T12:59:06.106Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "67Nothing: top-10 share unknown; liq $2516 < $10000",
+   "mint": "HrL25qfoSZ6fLUNNwzENhV6JfAtk2gyr8NLJ4skjpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22823"
+  },
+  {
    "t": "2026-10-29T12:09:13.486Z",
    "mode": "PAPER",
    "type": "reject",
@@ -798,8 +806,9 @@
   "7WYJycaBqvSDGoCCMND89tAgToy4YNW7KdQVDwXzxPFq": "2026-10-29T11:24:31+00:00",
   "P4TycWq2XB3nQvy6MwE365qG5vc7hSxSwns2Rnopump": "2026-10-29T11:20:07+00:00",
   "B6hVwvn5toMkHwXYxB9QqgdAkdhcp3NMUaYDob12pump": "2026-10-29T12:00:24+00:00",
-  "8sooQVq6sRjV1jHxdCk53VZ9fxna8WitKKzAFs1xX9wP": "2026-10-29T11:54:13+00:00"
+  "8sooQVq6sRjV1jHxdCk53VZ9fxna8WitKKzAFs1xX9wP": "2026-10-29T11:54:13+00:00",
+  "HrL25qfoSZ6fLUNNwzENhV6JfAtk2gyr8NLJ4skjpump": "2026-10-29T12:51:00+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-29T12:09:13.786Z"
+ "lastRun": "2026-10-29T12:59:06.407Z"
 }
