@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-29T06:38:44.630Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Steve: top-10 share unknown",
+   "mint": "Fxyj1MSfyE8PCsVUWmXTHCWmCKFK7dkvgkd6HvuHpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22791"
+  },
+  {
+   "t": "2026-10-29T06:38:36.281Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Elon: top-10 share unknown; liq $5093 < $10000",
+   "mint": "BMfPwYMV8xGToRH1gqqjCZLBMTGJzu7AtMuRE2Z9pump",
+   "source": "SmugCalls https://t.me/SmugCalls/22792"
+  },
+  {
    "t": "2026-10-29T05:15:52.259Z",
    "mode": "PAPER",
    "type": "reject",
@@ -636,8 +652,10 @@
   "DkND6CmPqUuTVC5rCkKB137P1rFW8NqjUS3mcpoEpump": "2026-10-29T03:45:42+00:00",
   "8kvLKtMSjha9iJLjozowfy84AC42psdg1X2AE7YACVg6": "2026-10-29T04:21:07+00:00",
   "8BnNS15Q6h6D5Vcq1sNPaUxhpRVdK8FGRbLvCrLxibSx": "2026-10-29T04:18:41+00:00",
-  "6JBuwy4KBAuxwsWNbkEy6YKbjuSH2LTZKRPR4t3ppump": "2026-10-29T05:09:06+00:00"
+  "6JBuwy4KBAuxwsWNbkEy6YKbjuSH2LTZKRPR4t3ppump": "2026-10-29T05:09:06+00:00",
+  "BMfPwYMV8xGToRH1gqqjCZLBMTGJzu7AtMuRE2Z9pump": "2026-10-29T06:37:21+00:00",
+  "Fxyj1MSfyE8PCsVUWmXTHCWmCKFK7dkvgkd6HvuHpump": "2026-10-29T06:36:45+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-29T05:57:36.648Z"
+ "lastRun": "2026-10-29T06:38:44.930Z"
 }
