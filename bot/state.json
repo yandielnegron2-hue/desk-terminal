@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-29T03:07:35.569Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "PODCAT: top-10 share unknown",
+   "mint": "2fnGKgfwYjqv99ppnKCq5nCLLhRSJAPAhSMVkqjipump",
+   "source": "SmugCalls https://t.me/SmugCalls/22778"
+  },
+  {
+   "t": "2026-10-29T03:07:26.657Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "HAKIMI: top-10 share unknown; liquidity unknown",
+   "mint": "AskKxScmuaa5aLmJcxmBs2yHnjoNBEwPRYZunNf6pump",
+   "source": "SmugCalls https://t.me/SmugCalls/22779"
+  },
+  {
    "t": "2026-10-29T01:34:08.526Z",
    "mode": "PAPER",
    "type": "reject",
@@ -582,8 +598,10 @@
   "7AxJJTaJumkDRCJNz4n8ixobaPjrmL6GmxexuJKDpump": "2026-10-29T00:25:00+00:00",
   "VFcXScyQcxbfTmAv7G3nkdUsTJhUejAnhWfUXW6pump": "2026-10-29T00:23:12+00:00",
   "4q6LbcfeBXTUjm2fbPFbyKEBgXU4xhuc6xPZFMSRbaMR": "2026-10-29T01:30:49+00:00",
-  "ELqNQeNmVeM5NYuwbZg5qVX62tuu7r8FoZzHr8Capump": "2026-10-29T01:29:31+00:00"
+  "ELqNQeNmVeM5NYuwbZg5qVX62tuu7r8FoZzHr8Capump": "2026-10-29T01:29:31+00:00",
+  "AskKxScmuaa5aLmJcxmBs2yHnjoNBEwPRYZunNf6pump": "2026-10-29T02:59:36+00:00",
+  "2fnGKgfwYjqv99ppnKCq5nCLLhRSJAPAhSMVkqjipump": "2026-10-29T02:58:23+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-29T02:22:30.529Z"
+ "lastRun": "2026-10-29T03:07:35.868Z"
 }
