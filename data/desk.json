@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T17:19:00.532Z",
+ "updated": "2026-10-29T21:52:17.645Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,30 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-29T21:52:17.345Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "CSI: top-10 share unknown",
+   "mint": "5SfcDpLPFSqFuqme4dmtUCwTLMPcohpA3S9F2yuTF8Wr",
+   "source": "SmugCalls https://t.me/SmugCalls/22857"
+  },
+  {
+   "t": "2026-10-29T21:52:09.177Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Cyber: top-10 share unknown",
+   "mint": "57yE4vgK2DMGeLhfhbT4sQPzoHRoVVQrtTDuY9hcpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22858"
+  },
+  {
+   "t": "2026-10-29T21:52:01.041Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "MeiMei: top-10 share unknown; liquidity unknown",
+   "mint": "ANCa6uo2CoMFsVGmgqttULzzDMmpSt5sBP3BwBhwpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22859"
+  },
   {
    "t": "2026-10-29T17:19:00.231Z",
    "mode": "PAPER",
@@ -496,30 +520,6 @@
    "msg": "OMNI: top-10 share unknown; liquidity unknown",
    "mint": "HNfwa74aDBYx4Dz3X9fp2Sb5efY4io8jG2Tjqa1D4zcr",
    "source": "SmugCalls https://t.me/SmugCalls/22709"
-  },
-  {
-   "t": "2026-10-28T16:48:33.516Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "KONA: top-10 share unknown; liq $6607 < $10000",
-   "mint": "DjBGgYBCAUsCjZ9zgfMmPTjiWkvgur7dCiRGNh7opump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50711"
-  },
-  {
-   "t": "2026-10-28T16:01:41.193Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "KING: top-10 share unknown; liq $1987 < $10000",
-   "mint": "8F9hK9qnemZ9rPfbLWuhvMwXbVXFusPtQUFiZNzxpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50707"
-  },
-  {
-   "t": "2026-10-28T15:14:12.360Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "TDR: top-10 share unknown; liquidity unknown",
-   "mint": "CBrQm3cACrmfUQvJuVeVy1zEhGvqmQU93d6sGehWpump",
-   "source": "SmugCalls https://t.me/SmugCalls/22699"
   }
  ]
 }

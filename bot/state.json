@@ -3,6 +3,30 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-29T21:52:17.345Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "CSI: top-10 share unknown",
+   "mint": "5SfcDpLPFSqFuqme4dmtUCwTLMPcohpA3S9F2yuTF8Wr",
+   "source": "SmugCalls https://t.me/SmugCalls/22857"
+  },
+  {
+   "t": "2026-10-29T21:52:09.177Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Cyber: top-10 share unknown",
+   "mint": "57yE4vgK2DMGeLhfhbT4sQPzoHRoVVQrtTDuY9hcpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22858"
+  },
+  {
+   "t": "2026-10-29T21:52:01.041Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "MeiMei: top-10 share unknown; liquidity unknown",
+   "mint": "ANCa6uo2CoMFsVGmgqttULzzDMmpSt5sBP3BwBhwpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22859"
+  },
+  {
    "t": "2026-10-29T17:19:00.231Z",
    "mode": "PAPER",
    "type": "reject",
@@ -861,8 +885,11 @@
   "74hGo15SYb8YcEjrtsUqdP8jaZbTuNtPRoyQ5RaKpump": "2026-10-29T16:22:29+00:00",
   "6Ny6ucoKr4mZomcRBtUHpybkpqXA6fvvDWFoWp4spump": "2026-10-29T16:14:25+00:00",
   "2YZdszj9XpTrKZ3FsVJH5sqGXppCgfW5E5pCVR9Apump": "2026-10-29T16:14:18+00:00",
-  "82ANgxJqcsbuaS1hRza6S2QnuKu3XQMUAo7zVg8qoirK": "2026-10-29T17:07:10+00:00"
+  "82ANgxJqcsbuaS1hRza6S2QnuKu3XQMUAo7zVg8qoirK": "2026-10-29T17:07:10+00:00",
+  "ANCa6uo2CoMFsVGmgqttULzzDMmpSt5sBP3BwBhwpump": "2026-10-29T21:47:17+00:00",
+  "57yE4vgK2DMGeLhfhbT4sQPzoHRoVVQrtTDuY9hcpump": "2026-10-29T21:46:17+00:00",
+  "5SfcDpLPFSqFuqme4dmtUCwTLMPcohpA3S9F2yuTF8Wr": "2026-10-29T21:43:22+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-29T17:19:00.532Z"
+ "lastRun": "2026-10-29T21:52:17.645Z"
 }
