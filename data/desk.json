@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T03:07:35.868Z",
+ "updated": "2026-10-29T03:49:42.568Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-29T03:49:42.268Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "PUMPKINU: top-10 share unknown",
+   "mint": "DkND6CmPqUuTVC5rCkKB137P1rFW8NqjUS3mcpoEpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50784"
+  },
   {
    "t": "2026-10-29T03:07:35.569Z",
    "mode": "PAPER",
@@ -512,14 +520,6 @@
    "msg": "Vibe: top-10 share unknown",
    "mint": "FixpvmWbF2AkdMD65jbgdky9G1Zkoq7SLySyGucipump",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/50636"
-  },
-  {
-   "t": "2026-10-28T05:46:00.212Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Dora: top-10 share unknown",
-   "mint": "DDgEb1AyoqR81NNTJX44AgpfYkbnWAegf4BrxP1Bpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50637"
   }
  ]
 }

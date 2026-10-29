@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-29T03:49:42.268Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "PUMPKINU: top-10 share unknown",
+   "mint": "DkND6CmPqUuTVC5rCkKB137P1rFW8NqjUS3mcpoEpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50784"
+  },
+  {
    "t": "2026-10-29T03:07:35.569Z",
    "mode": "PAPER",
    "type": "reject",
@@ -600,8 +608,9 @@
   "4q6LbcfeBXTUjm2fbPFbyKEBgXU4xhuc6xPZFMSRbaMR": "2026-10-29T01:30:49+00:00",
   "ELqNQeNmVeM5NYuwbZg5qVX62tuu7r8FoZzHr8Capump": "2026-10-29T01:29:31+00:00",
   "AskKxScmuaa5aLmJcxmBs2yHnjoNBEwPRYZunNf6pump": "2026-10-29T02:59:36+00:00",
-  "2fnGKgfwYjqv99ppnKCq5nCLLhRSJAPAhSMVkqjipump": "2026-10-29T02:58:23+00:00"
+  "2fnGKgfwYjqv99ppnKCq5nCLLhRSJAPAhSMVkqjipump": "2026-10-29T02:58:23+00:00",
+  "DkND6CmPqUuTVC5rCkKB137P1rFW8NqjUS3mcpoEpump": "2026-10-29T03:45:42+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-29T03:07:35.868Z"
+ "lastRun": "2026-10-29T03:49:42.568Z"
 }
