@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-29T04:29:51.576Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "ELON2028: LP status unknown; top-10 share unknown",
+   "mint": "8BnNS15Q6h6D5Vcq1sNPaUxhpRVdK8FGRbLvCrLxibSx",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50786"
+  },
+  {
+   "t": "2026-10-29T04:29:43.172Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "AI/SI: top-10 share unknown; liquidity unknown",
+   "mint": "8kvLKtMSjha9iJLjozowfy84AC42psdg1X2AE7YACVg6",
+   "source": "SmugCalls https://t.me/SmugCalls/22780"
+  },
+  {
    "t": "2026-10-29T03:49:42.268Z",
    "mode": "PAPER",
    "type": "reject",
@@ -609,8 +625,10 @@
   "ELqNQeNmVeM5NYuwbZg5qVX62tuu7r8FoZzHr8Capump": "2026-10-29T01:29:31+00:00",
   "AskKxScmuaa5aLmJcxmBs2yHnjoNBEwPRYZunNf6pump": "2026-10-29T02:59:36+00:00",
   "2fnGKgfwYjqv99ppnKCq5nCLLhRSJAPAhSMVkqjipump": "2026-10-29T02:58:23+00:00",
-  "DkND6CmPqUuTVC5rCkKB137P1rFW8NqjUS3mcpoEpump": "2026-10-29T03:45:42+00:00"
+  "DkND6CmPqUuTVC5rCkKB137P1rFW8NqjUS3mcpoEpump": "2026-10-29T03:45:42+00:00",
+  "8kvLKtMSjha9iJLjozowfy84AC42psdg1X2AE7YACVg6": "2026-10-29T04:21:07+00:00",
+  "8BnNS15Q6h6D5Vcq1sNPaUxhpRVdK8FGRbLvCrLxibSx": "2026-10-29T04:18:41+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-29T03:49:42.568Z"
+ "lastRun": "2026-10-29T04:29:51.877Z"
 }

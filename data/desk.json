@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T03:49:42.568Z",
+ "updated": "2026-10-29T04:29:51.877Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,22 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-29T04:29:51.576Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "ELON2028: LP status unknown; top-10 share unknown",
+   "mint": "8BnNS15Q6h6D5Vcq1sNPaUxhpRVdK8FGRbLvCrLxibSx",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50786"
+  },
+  {
+   "t": "2026-10-29T04:29:43.172Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "AI/SI: top-10 share unknown; liquidity unknown",
+   "mint": "8kvLKtMSjha9iJLjozowfy84AC42psdg1X2AE7YACVg6",
+   "source": "SmugCalls https://t.me/SmugCalls/22780"
+  },
   {
    "t": "2026-10-29T03:49:42.268Z",
    "mode": "PAPER",
@@ -504,22 +520,6 @@
    "msg": "GROKBOT: top-10 share unknown",
    "mint": "4bjMPgeJYCUD1A44RJ4DHFY188SCd9vrMd6u71PDpump",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/50650"
-  },
-  {
-   "t": "2026-10-28T06:21:10.017Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "RAYCAT: LP status unknown; top-10 share unknown",
-   "mint": "GcumZadLqEiWzB2VLVr6WgZwqcN4Deg51S3bxR4UWmzh",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50638"
-  },
-  {
-   "t": "2026-10-28T05:46:08.903Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Vibe: top-10 share unknown",
-   "mint": "FixpvmWbF2AkdMD65jbgdky9G1Zkoq7SLySyGucipump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50636"
   }
  ]
 }
