@@ -3,6 +3,30 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-29T09:19:34.499Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "DACITY: LP status unknown; top-10 share unknown",
+   "mint": "4RZYE2hy25Mr5pHuU5J9Sk5j7oQ9rBovVfMcfzSqaspN",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50811"
+  },
+  {
+   "t": "2026-10-29T09:19:25.848Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "AMAZON: top-10 share unknown",
+   "mint": "vPiD5hVigqLQG2hCEXhDjW8VxmLYdhbTuQa8LwPpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22807"
+  },
+  {
+   "t": "2026-10-29T09:19:17.209Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "BLACKOUT: top-10 share unknown",
+   "mint": "HMTwjQPHbf82woGKMwDyPHAxgpwVj4boFQPMwk5Bpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50813"
+  },
+  {
    "t": "2026-10-29T08:28:48.465Z",
    "mode": "PAPER",
    "type": "reject",
@@ -708,8 +732,11 @@
   "BLAytV5xTVEkYJYS1RoFR5Ypgm3JZ44CvVdZHTExpump": "2026-10-29T07:27:06+00:00",
   "Fa24xN13pzjmcx1dtKP9nBMMFCwLtXCJrtP5hSPKpump": "2026-10-29T08:22:00+00:00",
   "Ac6PLXgeP3eK1ak9CyNR8actDgA3vxBhRq1Ao1frDajq": "2026-10-29T08:20:46+00:00",
-  "6xcLnAebDFLgPDBrVrGzHEcMvjVQfMW6yQL4NvECpump": "2026-10-29T08:16:33+00:00"
+  "6xcLnAebDFLgPDBrVrGzHEcMvjVQfMW6yQL4NvECpump": "2026-10-29T08:16:33+00:00",
+  "HMTwjQPHbf82woGKMwDyPHAxgpwVj4boFQPMwk5Bpump": "2026-10-29T09:14:30+00:00",
+  "vPiD5hVigqLQG2hCEXhDjW8VxmLYdhbTuQa8LwPpump": "2026-10-29T09:09:27+00:00",
+  "4RZYE2hy25Mr5pHuU5J9Sk5j7oQ9rBovVfMcfzSqaspN": "2026-10-29T09:09:23+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-29T08:28:48.766Z"
+ "lastRun": "2026-10-29T09:19:34.800Z"
 }

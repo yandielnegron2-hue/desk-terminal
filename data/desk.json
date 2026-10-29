@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T08:28:48.766Z",
+ "updated": "2026-10-29T09:19:34.800Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 2,
+ "feedLagSec": 1,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,30 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-29T09:19:34.499Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "DACITY: LP status unknown; top-10 share unknown",
+   "mint": "4RZYE2hy25Mr5pHuU5J9Sk5j7oQ9rBovVfMcfzSqaspN",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50811"
+  },
+  {
+   "t": "2026-10-29T09:19:25.848Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "AMAZON: top-10 share unknown",
+   "mint": "vPiD5hVigqLQG2hCEXhDjW8VxmLYdhbTuQa8LwPpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22807"
+  },
+  {
+   "t": "2026-10-29T09:19:17.209Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "BLACKOUT: top-10 share unknown",
+   "mint": "HMTwjQPHbf82woGKMwDyPHAxgpwVj4boFQPMwk5Bpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50813"
+  },
   {
    "t": "2026-10-29T08:28:48.465Z",
    "mode": "PAPER",
@@ -496,30 +520,6 @@
    "msg": "MICRO: top-10 share unknown",
    "mint": "ENkivw8CNx4o9FS19U1XWU585JRxiGVpyhpQVPKwf96F",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/50663"
-  },
-  {
-   "t": "2026-10-28T09:51:23.522Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "CA: top-10 share unknown",
-   "mint": "HfPVTUsSd55Aab6BACWCy6dXo5pQgTUFnyGzgspFpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50659"
-  },
-  {
-   "t": "2026-10-28T09:06:28.243Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "OpenBot: top-10 share unknown; liq $4976 < $10000",
-   "mint": "APYhnVUJLgTyWWVtBhJ6sAHzymD7FyrrnKBd3TaSpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50658"
-  },
-  {
-   "t": "2026-10-28T09:06:19.837Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "bot: top-10 share unknown; liquidity unknown",
-   "mint": "7hAZtqAonysMFSASSGLnW3kvin8nfSLzh1ZYHBjapump",
-   "source": "SmugCalls https://t.me/SmugCalls/22669"
   }
  ]
 }
