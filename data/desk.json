@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T06:38:44.930Z",
+ "updated": "2026-10-29T07:41:05.639Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,30 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-29T07:41:05.338Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Make: top-10 share unknown",
+   "mint": "BLAytV5xTVEkYJYS1RoFR5Ypgm3JZ44CvVdZHTExpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50800"
+  },
+  {
+   "t": "2026-10-29T07:40:56.632Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "KIM: top-10 share unknown",
+   "mint": "ESABfJpt9cocXgWX7HF8WwSXrcv785oyaA8imwojpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50801"
+  },
+  {
+   "t": "2026-10-29T07:40:47.838Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "FOMOKING: top-10 share unknown; liq $1905 < $10000",
+   "mint": "5THA5heeJgXsULasqETYxSJAEZKwPZXZWASFjbMNpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22796"
+  },
   {
    "t": "2026-10-29T06:38:44.630Z",
    "mode": "PAPER",
@@ -496,30 +520,6 @@
    "msg": "OpenBot: top-10 share unknown",
    "mint": "MzUxrgP4k6huTD415pA9bKzBA8BvCgyu15TfbEnpump",
    "source": "SmugCalls https://t.me/SmugCalls/22662"
-  },
-  {
-   "t": "2026-10-28T08:17:23.742Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "SIB: top-10 share unknown",
-   "mint": "iwPkJ45T2JegPCrzq1hECwiB9oJow5PYm7xJ28Mpump",
-   "source": "SmugCalls https://t.me/SmugCalls/22664"
-  },
-  {
-   "t": "2026-10-28T08:17:15.400Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "OpenBot: top-10 share unknown; liquidity unknown",
-   "mint": "4cb2546wTm7XnHtFvj8jiZ64KSsCPtaouc56mPGipump",
-   "source": "SmugCalls https://t.me/SmugCalls/22665"
-  },
-  {
-   "t": "2026-10-28T07:26:20.649Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Orgasm: top-10 share unknown; liq $2424 < $10000",
-   "mint": "HeUaWCK8s7A7FT7UU3uSrXKe8LcsqtTDUX7JC5Gvpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50646"
   }
  ]
 }
