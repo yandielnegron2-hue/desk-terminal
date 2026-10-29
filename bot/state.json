@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-29T17:19:00.231Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Stanley: top-10 share unknown",
+   "mint": "82ANgxJqcsbuaS1hRza6S2QnuKu3XQMUAo7zVg8qoirK",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50874"
+  },
+  {
    "t": "2026-10-29T16:26:37.929Z",
    "mode": "PAPER",
    "type": "reject",
@@ -852,8 +860,9 @@
   "H4YagYJ9QstNBiJ1ck5gpz2A3dchTU1B6P4GMaAXpump": "2026-10-29T16:24:29+00:00",
   "74hGo15SYb8YcEjrtsUqdP8jaZbTuNtPRoyQ5RaKpump": "2026-10-29T16:22:29+00:00",
   "6Ny6ucoKr4mZomcRBtUHpybkpqXA6fvvDWFoWp4spump": "2026-10-29T16:14:25+00:00",
-  "2YZdszj9XpTrKZ3FsVJH5sqGXppCgfW5E5pCVR9Apump": "2026-10-29T16:14:18+00:00"
+  "2YZdszj9XpTrKZ3FsVJH5sqGXppCgfW5E5pCVR9Apump": "2026-10-29T16:14:18+00:00",
+  "82ANgxJqcsbuaS1hRza6S2QnuKu3XQMUAo7zVg8qoirK": "2026-10-29T17:07:10+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-29T16:26:38.230Z"
+ "lastRun": "2026-10-29T17:19:00.532Z"
 }
