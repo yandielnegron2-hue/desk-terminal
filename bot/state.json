@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-29T10:52:29.366Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "MULTI: LP status unknown; top-10 share unknown",
+   "mint": "9XwcqFsLTshVo7QwWyNmjVBsB982EW9C4YotSbpoxYYi",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50821"
+  },
+  {
    "t": "2026-10-29T10:09:58.965Z",
    "mode": "PAPER",
    "type": "reject",
@@ -753,8 +761,9 @@
   "vPiD5hVigqLQG2hCEXhDjW8VxmLYdhbTuQa8LwPpump": "2026-10-29T09:09:27+00:00",
   "4RZYE2hy25Mr5pHuU5J9Sk5j7oQ9rBovVfMcfzSqaspN": "2026-10-29T09:09:23+00:00",
   "6esRP5VPAFXaSvnq8FWK4fdDj4ZzTrL7mJBna7jopump": "2026-10-29T10:03:48+00:00",
-  "GmyoabL4oY72yQA3EzTq5G5gQUF5SsE94jrs8bWfJzTt": "2026-10-29T09:56:36+00:00"
+  "GmyoabL4oY72yQA3EzTq5G5gQUF5SsE94jrs8bWfJzTt": "2026-10-29T09:56:36+00:00",
+  "9XwcqFsLTshVo7QwWyNmjVBsB982EW9C4YotSbpoxYYi": "2026-10-29T10:48:12+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-29T10:09:59.264Z"
+ "lastRun": "2026-10-29T10:52:29.666Z"
 }
