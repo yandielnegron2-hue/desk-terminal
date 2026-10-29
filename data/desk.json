@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T09:19:34.800Z",
+ "updated": "2026-10-29T10:09:59.264Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 1,
+ "feedLagSec": 2,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,22 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-29T10:09:58.965Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "WALT: top-10 share unknown",
+   "mint": "GmyoabL4oY72yQA3EzTq5G5gQUF5SsE94jrs8bWfJzTt",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50818"
+  },
+  {
+   "t": "2026-10-29T10:09:50.175Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "LG: top-10 share unknown; liquidity unknown",
+   "mint": "6esRP5VPAFXaSvnq8FWK4fdDj4ZzTrL7mJBna7jopump",
+   "source": "SmugCalls https://t.me/SmugCalls/22813"
+  },
   {
    "t": "2026-10-29T09:19:34.499Z",
    "mode": "PAPER",
@@ -504,22 +520,6 @@
    "msg": "MSFT: top-10 share unknown; liq $2410 < $10000",
    "mint": "CMvLh1iLTcnMC6fQv6LBFfY4e3TdGyuzqW1h9HGwpump",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/50671"
-  },
-  {
-   "t": "2026-10-28T11:53:36.218Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "GINNAN: LP status unknown; top-10 share unknown",
-   "mint": "GinNabffZL4fUj9Vactxha74GDAW8kDPGaHqMtMzps2f",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50673"
-  },
-  {
-   "t": "2026-10-28T10:29:39.214Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "MICRO: top-10 share unknown",
-   "mint": "ENkivw8CNx4o9FS19U1XWU585JRxiGVpyhpQVPKwf96F",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50663"
   }
  ]
 }
