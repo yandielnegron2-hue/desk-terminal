@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T14:19:53.073Z",
+ "updated": "2026-10-30T19:30:02.998Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,30 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-30T19:30:02.698Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "paws: top-10 share unknown",
+   "mint": "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51049"
+  },
+  {
+   "t": "2026-10-30T19:29:54.200Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "JASON: top-10 share unknown",
+   "mint": "3qjBR3LfzEAKVS6QXuR2QZ1RFUsXzATWvmjbGB5Dpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51050"
+  },
+  {
+   "t": "2026-10-30T19:29:45.619Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Crypto: top-10 share unknown",
+   "mint": "qhbbjGBKJxW3AZGqngWM5tHcrENR3pVoRB9MCf1pump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51051"
+  },
   {
    "t": "2026-10-30T14:19:52.773Z",
    "mode": "PAPER",
@@ -496,30 +520,6 @@
    "msg": "ELLE: top-10 share unknown",
    "mint": "4ukaKujsrTuoF4eC1CY7xSiM3kN7HUE2pNZpMm2fpump",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/50744"
-  },
-  {
-   "t": "2026-10-28T21:03:44.896Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "EXILE: LP status unknown; top-10 share unknown",
-   "mint": "8JAPUKQxPKB2FGps1fxTtfpZgXQMgtBhu1HzBrV9Bayo",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50745"
-  },
-  {
-   "t": "2026-10-28T20:22:14.633Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "NILLY: top-10 share unknown; liq $2325 < $10000",
-   "mint": "2HWkv1SpE7uB6sdXGhmgWrdpGe58Su8P3Ra3ffxGpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50742"
-  },
-  {
-   "t": "2026-10-28T19:42:31.172Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "SI: top-10 share unknown; liq $2050 < $10000",
-   "mint": "8a68FkQqKsnVHZqEpLfVttAdVzxrfut9XhzeUV3upump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50735"
   }
  ]
 }
