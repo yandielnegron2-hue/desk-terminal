@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T19:30:02.998Z",
+ "updated": "2026-10-30T23:08:18.127Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,22 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-30T23:08:17.826Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "EDS: top-10 share unknown; liq $1942 < $10000",
+   "mint": "2Y3pJ4ErqdLdRrVCCKZFydp9mXaaFxq3ajgax6U2pump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51073"
+  },
+  {
+   "t": "2026-10-30T23:08:09.312Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "TOT: top-10 share unknown",
+   "mint": "Bz5UYN6K9ACNSDQb6W2jfRq79m28e51dQZFTK5yLpump",
+   "source": "SmugCalls https://t.me/SmugCalls/22977"
+  },
   {
    "t": "2026-10-30T19:30:02.698Z",
    "mode": "PAPER",
@@ -504,22 +520,6 @@
    "msg": "BRAVEGOY: top-10 share unknown; liq $2178 < $10000",
    "mint": "HearbNdukBT4uY8d4ETFWPgFy7pPxD8v3KZeJoNRpump",
    "source": "SmugCalls https://t.me/SmugCalls/22726"
-  },
-  {
-   "t": "2026-10-28T21:04:01.327Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "DOOMSDAY: top-10 share unknown; liquidity unknown",
-   "mint": "6c3qvogL9P3Eqey24ZTnj16zzhK86eCcRpwtY39XZKa5",
-   "source": "SmugCalls https://t.me/SmugCalls/22727"
-  },
-  {
-   "t": "2026-10-28T21:03:53.176Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "ELLE: top-10 share unknown",
-   "mint": "4ukaKujsrTuoF4eC1CY7xSiM3kN7HUE2pNZpMm2fpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50744"
   }
  ]
 }
