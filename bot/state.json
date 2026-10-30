@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-30T01:23:10.626Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Nothing: top-10 share unknown",
+   "mint": "51SfaAyrYaR8FpibXT4TXtxEpnZSNoDwYVRojtKupump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/50930"
+  },
+  {
    "t": "2026-10-29T21:52:17.345Z",
    "mode": "PAPER",
    "type": "reject",
@@ -788,7 +796,7 @@
   }
  ],
  "consecutiveLosses": 0,
- "day": "2026-10-29",
+ "day": "2026-10-30",
  "dayStartBook": 1,
  "seen": {
   "2h6No4wqsn2ckqsWR2JFp1wMF5fiKuJinEQPneT9mdn3": "2026-10-28T03:33:26+00:00",
@@ -888,8 +896,9 @@
   "82ANgxJqcsbuaS1hRza6S2QnuKu3XQMUAo7zVg8qoirK": "2026-10-29T17:07:10+00:00",
   "ANCa6uo2CoMFsVGmgqttULzzDMmpSt5sBP3BwBhwpump": "2026-10-29T21:47:17+00:00",
   "57yE4vgK2DMGeLhfhbT4sQPzoHRoVVQrtTDuY9hcpump": "2026-10-29T21:46:17+00:00",
-  "5SfcDpLPFSqFuqme4dmtUCwTLMPcohpA3S9F2yuTF8Wr": "2026-10-29T21:43:22+00:00"
+  "5SfcDpLPFSqFuqme4dmtUCwTLMPcohpA3S9F2yuTF8Wr": "2026-10-29T21:43:22+00:00",
+  "51SfaAyrYaR8FpibXT4TXtxEpnZSNoDwYVRojtKupump": "2026-10-30T01:16:10+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-29T21:52:17.645Z"
+ "lastRun": "2026-10-30T01:23:10.927Z"
 }
