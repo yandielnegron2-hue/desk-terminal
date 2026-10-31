@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:08:18.127Z",
+ "updated": "2026-10-31T02:18:27.864Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,22 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-31T02:18:27.563Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Nutinu: top-10 share unknown",
+   "mint": "HoQrQBLo6XWH7HEkYJCnPuxtQhfx3tktsEXzCMg2pump",
+   "source": "SmugCalls https://t.me/SmugCalls/22990"
+  },
+  {
+   "t": "2026-10-31T02:18:19.471Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "NICKI: top-10 share unknown",
+   "mint": "J8GeV63GywfcfGoGCqKY4D5jRPc4gnxtE6HSgLJfpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51098"
+  },
   {
    "t": "2026-10-30T23:08:17.826Z",
    "mode": "PAPER",
@@ -504,22 +520,6 @@
    "msg": "Doglon: top-10 share unknown; liquidity unknown",
    "mint": "CMVC4247wa7vQRaG9wSAztrpkfNK6r6eGm6sv4sWpump",
    "source": "SmugCalls https://t.me/SmugCalls/22732"
-  },
-  {
-   "t": "2026-10-28T21:39:58.568Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Tucker: top-10 share unknown",
-   "mint": "677RzFgXjLpApyHAtzjd9sTjiJNGCxrRVvYb1TwWp5qJ",
-   "source": "SmugCalls https://t.me/SmugCalls/22734"
-  },
-  {
-   "t": "2026-10-28T21:04:09.498Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "BRAVEGOY: top-10 share unknown; liq $2178 < $10000",
-   "mint": "HearbNdukBT4uY8d4ETFWPgFy7pPxD8v3KZeJoNRpump",
-   "source": "SmugCalls https://t.me/SmugCalls/22726"
   }
  ]
 }
