@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T18:45:38.183Z",
+ "updated": "2026-10-31T21:54:09.364Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,22 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-10-31T21:54:09.063Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "VAMPCAT: top-10 share unknown",
+   "mint": "4rsSV6L6mQ6jN587eKi5tNgkbgdzc8c9fxEVY8wapump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51225"
+  },
+  {
+   "t": "2026-10-31T21:54:00.638Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "ANAKIN: LP status unknown; top-10 share unknown",
+   "mint": "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51226"
+  },
   {
    "t": "2026-10-31T14:42:03.150Z",
    "mode": "PAPER",
@@ -504,22 +520,6 @@
    "msg": "AT: top-10 share unknown; liq $2285 < $10000",
    "mint": "7ounyiZN7JMXuoLQfKknAHgxXoarUoJczDMHVr8zePKj",
    "source": "SmugCalls https://t.me/SmugCalls/22741"
-  },
-  {
-   "t": "2026-10-28T22:17:38.661Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "DEVOURING: LP status unknown; top-10 share unknown; liq $10 < $10000",
-   "mint": "4wRCmd51WNPQK9ZjfnpV2E42Hvfe5NK6S6SedcuPpump",
-   "source": "SmugCalls https://t.me/SmugCalls/22742"
-  },
-  {
-   "t": "2026-10-28T22:17:30.433Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Tibeto: top-10 share unknown; liquidity unknown",
-   "mint": "Ge83QkAQbSqkDQ5iVh4aYcDARZKY6oUWFjFdVebppump",
-   "source": "SmugCalls https://t.me/SmugCalls/22743"
   }
  ]
 }

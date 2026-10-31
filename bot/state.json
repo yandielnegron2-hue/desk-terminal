@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-10-31T21:54:09.063Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "VAMPCAT: top-10 share unknown",
+   "mint": "4rsSV6L6mQ6jN587eKi5tNgkbgdzc8c9fxEVY8wapump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51225"
+  },
+  {
+   "t": "2026-10-31T21:54:00.638Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "ANAKIN: LP status unknown; top-10 share unknown",
+   "mint": "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51226"
+  },
+  {
    "t": "2026-10-31T14:42:03.150Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1023,8 +1039,10 @@
   "J8GeV63GywfcfGoGCqKY4D5jRPc4gnxtE6HSgLJfpump": "2026-10-31T02:16:28+00:00",
   "HoQrQBLo6XWH7HEkYJCnPuxtQhfx3tktsEXzCMg2pump": "2026-10-31T02:12:43+00:00",
   "2MXhpKgHBREgYYj3bSdorqbuJjkPAve1LTNHtk8Lpump": "2026-10-31T14:31:31+00:00",
-  "7Nr1NvVdsczHyLsVT1z3uAJ1tLBL7n6PkP8fYkFbpump": "2026-10-31T14:27:02+00:00"
+  "7Nr1NvVdsczHyLsVT1z3uAJ1tLBL7n6PkP8fYkFbpump": "2026-10-31T14:27:02+00:00",
+  "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump": "2026-10-31T21:52:08+00:00",
+  "4rsSV6L6mQ6jN587eKi5tNgkbgdzc8c9fxEVY8wapump": "2026-10-31T21:52:07+00:00"
  },
  "spy": {},
- "lastRun": "2026-10-31T18:45:38.183Z"
+ "lastRun": "2026-10-31T21:54:09.364Z"
 }
