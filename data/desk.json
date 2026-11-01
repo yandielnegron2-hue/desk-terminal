@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T06:45:23.429Z",
+ "updated": "2026-11-01T13:49:29.211Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 1,
+ "feedLagSec": 2,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-01T13:49:28.911Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "sharkcat: top-10 share unknown; liquidity unknown",
+   "mint": "3SsN2bTbu78Y9riYnjfEcnQemXd1jRY6F535zAdFi4Ly",
+   "source": "SmugCalls https://t.me/SmugCalls/23149"
+  },
   {
    "t": "2026-11-01T06:45:23.128Z",
    "mode": "PAPER",
@@ -512,14 +520,6 @@
    "msg": "POP: top-10 share unknown",
    "mint": "FxwWTze7qwWM8GMRcdyHWpocmCw8Th8QLRGETBJbeSUo",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/50762"
-  },
-  {
-   "t": "2026-10-28T22:55:31.083Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "25%: top-10 share unknown; liq $2375 < $10000",
-   "mint": "4Y3rjkH38LkoN3Hkgs4hWVCfu7sovjGakZDCdHhjpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50759"
   }
  ]
 }

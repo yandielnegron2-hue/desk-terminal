@@ -1,25 +1,415 @@
 {
- "scrapedAt": "2026-11-01T06:45:13+00:00",
+ "scrapedAt": "2026-11-01T13:49:17+00:00",
  "calls": [
   {
    "channel": "PumpPillSignals",
-   "time": "2026-11-01T06:40:28+00:00",
-   "link": "https://t.me/PumpPillSignals/51289",
+   "time": "2026-11-01T13:45:28+00:00",
+   "link": "https://t.me/PumpPillSignals/51317",
    "symbol": null,
-   "ca": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k",
-   "callMc": 2900000.0,
+   "ca": "2xkczG594A3iYjpJdECVSZooukxu13GwRgGxVTJvpump",
+   "callMc": null,
    "callLiq": null,
-   "text": "Why this posted: a second system (Buyers absorbing a sell-off) confirmed it 94h after the first (Quiet accumulation). 📰 No news story found this week ◎ Solana 🧲 FLOW — EXITS BEING ABSORBED — jeff MC $2.9M Sell spike hit and the pool's quote side held — someone is eating the exits. Flow reading, not endorsement. Size accordingly. dexscreener · pumppill · HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k"
+   "text": "🟢 STILL RUNNING — 2.4x and holding Survived 46.8h since first seen. Entry $53,200 → now $126,176 (peak 2.6x). The ones that clear the early shakeout are where the runners live. Take profits into strength. chart · 2xkczG594A3iYjpJdECVSZooukxu13GwRgGxVTJvpump ⚡ Premium hears every confirmation first → pumppill.org/premium"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T13:36:49+00:00",
+   "link": "https://t.me/SmugCalls/23149",
+   "symbol": "sharkcat",
+   "ca": "3SsN2bTbu78Y9riYnjfEcnQemXd1jRY6F535zAdFi4Ly",
+   "callMc": 11000.0,
+   "callLiq": 6000.0,
+   "text": "😏 SMUG CALL $sharkcat 3SsN2bTbu78Y9riYnjfEcnQemXd1jRY6F535zAdFi4Ly 💊 MC ~$11K · Liq $6K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 1 grads / 360 launches aped early. DYOR, fam. 🔥"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T13:35:04+00:00",
+   "link": "https://t.me/SmugCalls/23148",
+   "symbol": "sharkcat",
+   "ca": "3SsN2bTbu78Y9riYnjfEcnQemXd1jRY6F535zAdFi4Ly",
+   "callMc": 11000.0,
+   "callLiq": 6000.0,
+   "text": "😏 SMUG CALL $sharkcat 3SsN2bTbu78Y9riYnjfEcnQemXd1jRY6F535zAdFi4Ly 💊 MC ~$11K · Liq $6K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 1 grads / 360 launches aped early. DYOR, fam. 🔥"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T13:30:02+00:00",
+   "link": "https://t.me/SmugCalls/23147",
+   "symbol": "REGRETAMINE",
+   "ca": "Dbyy9LSMVHjxw2ZnPPRrCheSLVeuHq2GMkpxUs3t5xeT",
+   "callMc": null,
+   "callLiq": null,
+   "text": "📉 RETRACE WATCH $REGRETAMINE did 7.2x post-migration, now ~40% off peak high-risk zone — most don't recover Dbyy9LSMVHjxw2ZnPPRrCheSLVeuHq2GMkpxUs3t5xeT ⚡ Axiom · 📱 FOMO · 📈 GMGN not a call. DYOR"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T13:29:30+00:00",
+   "link": "https://t.me/SmugCalls/23146",
+   "symbol": "BAMF",
+   "ca": "EeZs3nWJDEDXV9LPoJVgjazTJSXsGYjc9DpSfqPDwmyV",
+   "callMc": 7000.0,
+   "callLiq": 3000.0,
+   "text": "😏 SMUG CALL $BAMF EeZs3nWJDEDXV9LPoJVgjazTJSXsGYjc9DpSfqPDwmyV 💊 MC ~$7K · Liq $3K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 311 grads / 45082 launches aped early. DYOR, fam. 🔥"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T13:26:33+00:00",
+   "link": "https://t.me/SmugCalls/23145",
+   "symbol": "BAMF",
+   "ca": "EeZs3nWJDEDXV9LPoJVgjazTJSXsGYjc9DpSfqPDwmyV",
+   "callMc": 7000.0,
+   "callLiq": 3000.0,
+   "text": "😏 SMUG CALL $BAMF EeZs3nWJDEDXV9LPoJVgjazTJSXsGYjc9DpSfqPDwmyV 💊 MC ~$7K · Liq $3K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 311 grads / 45082 launches aped early. DYOR, fam. 🔥"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T13:26:25+00:00",
+   "link": "https://t.me/SmugCalls/23144",
+   "symbol": "BAMF",
+   "ca": "6nntA1xMNnRYcfqeg9FCSnpyoKu3ch3A8SqtiSmCpump",
+   "callMc": 6000.0,
+   "callLiq": 2000.0,
+   "text": "😏 SMUG CALL $BAMF 6nntA1xMNnRYcfqeg9FCSnpyoKu3ch3A8SqtiSmCpump 💊 MC ~$6K · Liq $2K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 44 grads / 4587 launches aped early. DYOR, fam. 🔥"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T13:23:59+00:00",
+   "link": "https://t.me/SmugCalls/23143",
+   "symbol": "BAMF",
+   "ca": "6nntA1xMNnRYcfqeg9FCSnpyoKu3ch3A8SqtiSmCpump",
+   "callMc": 6000.0,
+   "callLiq": 2000.0,
+   "text": "😏 SMUG CALL $BAMF 6nntA1xMNnRYcfqeg9FCSnpyoKu3ch3A8SqtiSmCpump 💊 MC ~$6K · Liq $2K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 44 grads / 4587 launches aped early. DYOR, fam. 🔥"
   },
   {
    "channel": "PumpPillSignals",
-   "time": "2026-11-01T06:35:27+00:00",
-   "link": "https://t.me/PumpPillSignals/51288",
+   "time": "2026-11-01T13:21:01+00:00",
+   "link": "https://t.me/PumpPillSignals/51316",
+   "symbol": "Regretamine",
+   "ca": "Ae6TX54cU8EgcG6kVX4i5j1oz3FoZf2zRG7xvzmtpump",
+   "callMc": 91000.0,
+   "callLiq": 27000.0,
+   "text": "📡 PUMPPILL · TRACKING $Regretamine · $91K ⚡ Confirmed by 2/3 trending rooms ✓ Whale activity detected (1.08 SOL SOL) ✓ Insiders locked — aligned with buyers Vol 1h $191K · Liq $27K · Buys/Sells 2.2x 🟢 CA: Ae6TX54cU8EgcG6kVX4i5j1oz3FoZf2zRG7xvzmtpump PumpPill is tracking this token."
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T13:20:40+00:00",
+   "link": "https://t.me/SmugCalls/23142",
+   "symbol": "WEREWOLF",
+   "ca": "BDWBKvkyLNnbWVwUB4X8aswTmSNRVyfgLgpSDk5tmo7u",
+   "callMc": 10000.0,
+   "callLiq": 6000.0,
+   "text": "😏 SMUG CALL $WEREWOLF BDWBKvkyLNnbWVwUB4X8aswTmSNRVyfgLgpSDk5tmo7u 💊 MC ~$10K · Liq $6K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 56 grads / 5890 launches aped early. DYOR, fam. 🔥"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T13:14:39+00:00",
+   "link": "https://t.me/SmugCalls/23141",
+   "symbol": "REGRET",
+   "ca": "Ae6TX54cU8EgcG6kVX4i5j1oz3FoZf2zRG7xvzmtpump",
+   "callMc": null,
+   "callLiq": null,
+   "text": "📉 RETRACE WATCH $REGRET did 2.5x post-migration, now ~40% off peak high-risk zone — most don't recover Ae6TX54cU8EgcG6kVX4i5j1oz3FoZf2zRG7xvzmtpump ⚡ Axiom · 📱 FOMO · 📈 GMGN not a call. DYOR"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T13:12:04+00:00",
+   "link": "https://t.me/SmugCalls/23140",
+   "symbol": "REGRETAMINE",
+   "ca": "Dbyy9LSMVHjxw2ZnPPRrCheSLVeuHq2GMkpxUs3t5xeT",
+   "callMc": null,
+   "callLiq": null,
+   "text": "🛬 MIGRATION WATCH $REGRETAMINE graduated & holding +233% above migration price (5m in) Dbyy9LSMVHjxw2ZnPPRrCheSLVeuHq2GMkpxUs3t5xeT ⚡ Axiom · 📱 FOMO · 📈 GMGN not a call. DYOR"
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T13:11:08+00:00",
+   "link": "https://t.me/PumpPillSignals/51315",
+   "symbol": "Elon",
+   "ca": null,
+   "callMc": null,
+   "callLiq": null,
+   "text": "3 Elon-themed tokens just dropped. $Elon Musk, $SPACEX, $SpaceX official. market's picking a narrative."
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T13:06:53+00:00",
+   "link": "https://t.me/SmugCalls/23139",
+   "symbol": "TROLLYE",
+   "ca": "AP1zGkzDwEV1QzZ5VDGsRv8GwduTYY5C7Kkw254gPrAp",
+   "callMc": 10000.0,
+   "callLiq": 5000.0,
+   "text": "😏 SMUG CALL $TROLLYE AP1zGkzDwEV1QzZ5VDGsRv8GwduTYY5C7Kkw254gPrAp 💊 MC ~$10K · Liq $5K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 311 grads / 45082 launches aped early. DYOR, fam. 🔥"
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T13:06:47+00:00",
+   "link": "https://t.me/PumpPillSignals/51314",
+   "symbol": null,
+   "ca": "7zfaqkUtUKUYywDoj1R9zQZgwRj8EVZgKdp7TpqKuEQD",
+   "callMc": null,
+   "callLiq": null,
+   "text": "Why this posted: a token that had gone quiet is trading again. 📰 In the news: Huss Valley codes (October 2026) — rockpapershotgun.com, +34 more, today ◎ Solana 🧟 REVIVAL IGNITION — 7zfaqkUtUK… We tracked this one to $162K before it collapsed to $8K and went quiet. Someone just lit it back up: $29K MC, $2K volume and 55 txns in the last 5 minutes. Whale games move violently in BOTH directions — siz"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T13:06:24+00:00",
+   "link": "https://t.me/SmugCalls/23138",
+   "symbol": "REGRETAMINE",
+   "ca": "FDkubfTLc6iv2TabSophrkffgHGLHZgj9s1YXAUeX6We",
+   "callMc": 9000.0,
+   "callLiq": 5000.0,
+   "text": "😏 SMUG CALL $REGRETAMINE FDkubfTLc6iv2TabSophrkffgHGLHZgj9s1YXAUeX6We 💊 MC ~$9K · Liq $5K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 311 grads / 45082 launches aped early. DYOR, fam. 🔥"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T13:02:30+00:00",
+   "link": "https://t.me/SmugCalls/23137",
+   "symbol": "REGRETAMINE",
+   "ca": "EKPTvouWs223eXZu3tDhCdj41GvGjajRjfhpmSffpump",
+   "callMc": 11000.0,
+   "callLiq": 6000.0,
+   "text": "😏 SMUG CALL $REGRETAMINE EKPTvouWs223eXZu3tDhCdj41GvGjajRjfhpmSffpump 💊 MC ~$11K · Liq $6K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 14 grads / 157 launches aped early. DYOR, fam. 🔥"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T13:02:25+00:00",
+   "link": "https://t.me/SmugCalls/23136",
+   "symbol": "REGRETAMINE",
+   "ca": "F8vfCaA1MZiovBWG6GxTrcPPmaS4UxGx1rCizJqSKzz2",
+   "callMc": 11000.0,
+   "callLiq": 6000.0,
+   "text": "😏 SMUG CALL $REGRETAMINE F8vfCaA1MZiovBWG6GxTrcPPmaS4UxGx1rCizJqSKzz2 💊 MC ~$11K · Liq $6K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 311 grads / 45082 launches aped early. DYOR, fam. 🔥"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T13:01:30+00:00",
+   "link": "https://t.me/SmugCalls/23135",
+   "symbol": "REGRETAMINE",
+   "ca": "EKPTvouWs223eXZu3tDhCdj41GvGjajRjfhpmSffpump",
+   "callMc": 11000.0,
+   "callLiq": 6000.0,
+   "text": "😏 SMUG CALL $REGRETAMINE EKPTvouWs223eXZu3tDhCdj41GvGjajRjfhpmSffpump 💊 MC ~$11K · Liq $6K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 14 grads / 157 launches aped early. DYOR, fam. 🔥"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T12:57:13+00:00",
+   "link": "https://t.me/SmugCalls/23134",
+   "symbol": "REGRETAMINE",
+   "ca": "Dbyy9LSMVHjxw2ZnPPRrCheSLVeuHq2GMkpxUs3t5xeT",
+   "callMc": null,
+   "callLiq": null,
+   "text": "🛬 MIGRATION WATCH $REGRETAMINE graduated & holding +233% above migration price (5m in) Dbyy9LSMVHjxw2ZnPPRrCheSLVeuHq2GMkpxUs3t5xeT ⚡ Axiom · 📱 FOMO · 📈 GMGN not a call. DYOR"
+  },
+  {
+   "channel": "bitconggems",
+   "time": "2026-11-01T12:55:44+00:00",
+   "link": "https://t.me/bitconggems/13880",
+   "symbol": null,
+   "ca": null,
+   "callMc": null,
+   "callLiq": null,
+   "text": "后悔药 0x60897d4ea31934ec6a3f6421d0025f5032c87777 代币名称取自马斯克的一条推文：他开玩笑说自己想到一种叫 Regretamine 的药，服一剂就能抹掉所有后悔，包括吃下这药本身这件后悔事。 https://x.com/i/web/status/2116875604889112772"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T12:48:52+00:00",
+   "link": "https://t.me/SmugCalls/23133",
+   "symbol": "PIRATE",
+   "ca": "gzQXRwGRzfKLHfaV1f84QT7e5mt4vevu7MgacEfpump",
+   "callMc": 18000.0,
+   "callLiq": 9000.0,
+   "text": "😏 SMUG CALL $PIRATE gzQXRwGRzfKLHfaV1f84QT7e5mt4vevu7MgacEfpump 💊 MC ~$18K · Liq $9K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 1 grads / 3 launches ✅ aped early. DYOR, fam. 🔥"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T12:47:44+00:00",
+   "link": "https://t.me/SmugCalls/23132",
+   "symbol": "PIRATE",
+   "ca": "gzQXRwGRzfKLHfaV1f84QT7e5mt4vevu7MgacEfpump",
+   "callMc": 18000.0,
+   "callLiq": 9000.0,
+   "text": "😏 SMUG CALL $PIRATE gzQXRwGRzfKLHfaV1f84QT7e5mt4vevu7MgacEfpump 💊 MC ~$18K · Liq $9K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 1 grads / 3 launches ✅ aped early. DYOR, fam. 🔥"
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T12:47:03+00:00",
+   "link": "https://t.me/SmugCalls/23131",
+   "symbol": "PIRATE",
+   "ca": "6mXFCoZ515w37YfmwXGJMPfQfiK5tr9WkihW3oN9pump",
+   "callMc": 7900.0,
+   "callLiq": null,
+   "text": "🚀 LAUNCH $PIRATE 6mXFCoZ515w37YfmwXGJMPfQfiK5tr9WkihW3oN9pump proven deployer · fresh pad 💊 MC ~$7.9K ⚡ Axiom · 📱 FOMO · 📈 GMGN fresh off the pad. DYOR, fam. 😏"
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T12:46:46+00:00",
+   "link": "https://t.me/PumpPillSignals/51313",
+   "symbol": "BLUE",
+   "ca": "CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump",
+   "callMc": null,
+   "callLiq": null,
+   "text": "🧩 *Stacked Setup* — `$BLUE COIN` 2 TG rooms · @cfm_sol, @christhenode +3 (proven callers) — multiple independent sources on the same token. Premium was alerted 30 min ago at *$284K* — it's *$257K* now. Get it the second it stacks → pumppill.org/premium [chart](https://dexscreener.com/solana/CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump) · `CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump`"
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T12:41:31+00:00",
+   "link": "https://t.me/PumpPillSignals/51312",
+   "symbol": "Project",
+   "ca": "GEHj3yYtnnS2Fv3GSkjb3FEQzSZuehHqyEbKc45vpump",
+   "callMc": null,
+   "callLiq": 14000.0,
+   "text": "📡 PUMPPILL · TRACKING $Project Kimchi Orangie · $18K Vol 1h $35K · Liq $14K · Buys/Sells 1.4x CA: GEHj3yYtnnS2Fv3GSkjb3FEQzSZuehHqyEbKc45vpump PumpPill is tracking this token."
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T12:41:30+00:00",
+   "link": "https://t.me/PumpPillSignals/51311",
+   "symbol": "Solstars",
+   "ca": "EfB1tdCYLcseZBywfojYyo3sJwuUGxa26LGzCLvFpump",
+   "callMc": 51000.0,
+   "callLiq": 15000.0,
+   "text": "📡 PUMPPILL · TRACKING $Solstars · $51K ✓ Insiders locked — aligned with buyers Vol 1h $15K · Liq $15K · Buys/Sells 1.3x CA: EfB1tdCYLcseZBywfojYyo3sJwuUGxa26LGzCLvFpump PumpPill is tracking this token."
+  },
+  {
+   "channel": "SmugCalls",
+   "time": "2026-11-01T12:41:29+00:00",
+   "link": "https://t.me/SmugCalls/23130",
+   "symbol": "PIRATE",
+   "ca": "gzQXRwGRzfKLHfaV1f84QT7e5mt4vevu7MgacEfpump",
+   "callMc": 10800.0,
+   "callLiq": null,
+   "text": "🚀 LAUNCH $PIRATE gzQXRwGRzfKLHfaV1f84QT7e5mt4vevu7MgacEfpump proven deployer · zero dev buys — pure outside demand 💊 MC ~$10.8K ⚡ Axiom · 📱 FOMO · 📈 GMGN fresh off the pad. DYOR, fam. 😏"
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T12:26:21+00:00",
+   "link": "https://t.me/PumpPillSignals/51310",
+   "symbol": "P2P",
+   "ca": "8ANLUXihz9FrSy6Jbg85CGsuPCpPjf5S9ZUXNRG5pump",
+   "callMc": 94000.0,
+   "callLiq": null,
+   "text": "💊 PUMPPILL · QUAD CONVERGENCE $P2P · $94K █░░ Weak Signal (1/3) ✓ Trend Match: 65/100 5,874 followers CA: 8ANLUXihz9FrSy6Jbg85CGsuPCpPjf5S9ZUXNRG5pump"
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T12:11:08+00:00",
+   "link": "https://t.me/PumpPillSignals/51309",
+   "symbol": "SATOSHI",
+   "ca": null,
+   "callMc": null,
+   "callLiq": null,
+   "text": "🐋 Whale loaded 2.71 SOL SOL into $SATOSHI at $53K MC. Bundle analysis: insiders clean exit."
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T11:52:58+00:00",
+   "link": "https://t.me/PumpPillSignals/51308",
+   "symbol": "NVIDIA",
+   "ca": "5JL5uPducaLrDubYpmeEsMzxE7wJYjob5begt3Npump",
+   "callMc": null,
+   "callLiq": null,
+   "text": "🎯 PUMPPILL · 4.9x CONFIRMED $NVIDIA hit 4.9x! $96K → $476K ⏱ 47m since our signal CA: 5JL5uPducaLrDubYpmeEsMzxE7wJYjob5begt3Npump"
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T11:52:57+00:00",
+   "link": "https://t.me/PumpPillSignals/51307",
+   "symbol": "NVIDIA",
+   "ca": "5JL5uPducaLrDubYpmeEsMzxE7wJYjob5begt3Npump",
+   "callMc": null,
+   "callLiq": null,
+   "text": "🎯 PUMPPILL · 4.9x CONFIRMED $NVIDIA hit 4.9x! $96K → $476K ⏱ 46m since our signal CA: 5JL5uPducaLrDubYpmeEsMzxE7wJYjob5begt3Npump"
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T11:52:56+00:00",
+   "link": "https://t.me/PumpPillSignals/51306",
+   "symbol": "Rockstar",
+   "ca": "AJ18S9h5edXQjaqQR1ocD5c7YR8QoMgr4ps8b2Bcpump",
+   "callMc": null,
+   "callLiq": null,
+   "text": "🎯 PUMPPILL · 2.8x CONFIRMED $Rockstar Games hit 2.8x! $113K → $316K ⏱ 17m since our signal CA: AJ18S9h5edXQjaqQR1ocD5c7YR8QoMgr4ps8b2Bcpump"
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T11:52:54+00:00",
+   "link": "https://t.me/PumpPillSignals/51305",
+   "symbol": "Rockstar",
+   "ca": "AJ18S9h5edXQjaqQR1ocD5c7YR8QoMgr4ps8b2Bcpump",
+   "callMc": null,
+   "callLiq": null,
+   "text": "🎯 PUMPPILL · 2.8x CONFIRMED $Rockstar Games hit 2.8x! $113K → $316K ⏱ 15m since our signal CA: AJ18S9h5edXQjaqQR1ocD5c7YR8QoMgr4ps8b2Bcpump"
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T11:36:11+00:00",
+   "link": "https://t.me/PumpPillSignals/51304",
+   "symbol": "fomo",
+   "ca": null,
+   "callMc": null,
+   "callLiq": null,
+   "text": "another one down. $fomo hit $545K (4.3x) then zeroed out. flagged for proactive scam flag, Bundle: AVOID, CRITICAL risk, 32% coordinated supply. pump was the exit."
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T11:20:46+00:00",
+   "link": "https://t.me/PumpPillSignals/51303",
    "symbol": "NVIDIA",
    "ca": null,
    "callMc": null,
    "callLiq": null,
-   "text": "🔥🔥 5x on $NVIDIA. $149K entry, peaked $974K. the data was there."
+   "text": "✅ $NVIDIA hit 2x. $96K → $244K. Viral Entity strategy."
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T11:11:07+00:00",
+   "link": "https://t.me/PumpPillSignals/51302",
+   "symbol": null,
+   "ca": null,
+   "callMc": null,
+   "callLiq": null,
+   "text": "📊 Today's signals: 37 posted, 10 hit 2x+. 27% win rate."
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T11:10:44+00:00",
+   "link": "https://t.me/PumpPillSignals/51301",
+   "symbol": "Rockstar",
+   "ca": null,
+   "callMc": null,
+   "callLiq": null,
+   "text": "✅ 2x on $Rockstar Games. $133K entry, peaked $303K. the data was there."
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T10:55:01+00:00",
+   "link": "https://t.me/PumpPillSignals/51300",
+   "symbol": "Minted",
+   "ca": "9yEKBwczdqoox7Red6GGPTrJ2dUbMvFUagdjxFqHpump",
+   "callMc": 42000.0,
+   "callLiq": 16000.0,
+   "text": "📡 PUMPPILL · TRACKING $Minted · $42K Vol 1h $17K · Liq $16K · Buys/Sells 1.1x CA: 9yEKBwczdqoox7Red6GGPTrJ2dUbMvFUagdjxFqHpump PumpPill is tracking this token."
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T10:42:41+00:00",
+   "link": "https://t.me/PumpPillSignals/51299",
+   "symbol": "白いヤク",
+   "ca": "6jFcYpa95qnzX3Kui4TTyPCEzQorHRCHXhoCAg5tpump",
+   "callMc": 63000.0,
+   "callLiq": 19000.0,
+   "text": "📡 PUMPPILL · TRACKING $白いヤク · $63K Vol 1h $139K · Liq $19K · Buys/Sells 1.2x CA: 6jFcYpa95qnzX3Kui4TTyPCEzQorHRCHXhoCAg5tpump PumpPill is tracking this token."
+  },
+  {
+   "channel": "PumpPillSignals",
+   "time": "2026-11-01T10:24:31+00:00",
+   "link": "https://t.me/PumpPillSignals/51298",
+   "symbol": "BLACKED",
+   "ca": "GuvRLfGP4CMJfF9VyHv85vih9yqxhNB5R8zgRcD9pump",
+   "callMc": 91000.0,
+   "callLiq": null,
+   "text": "💊 PUMPPILL · QUAD CONVERGENCE $BLACKED · $91K █░░ Weak Signal (1/3) ✓ Trend Match: 65/100 CA: GuvRLfGP4CMJfF9VyHv85vih9yqxhNB5R8zgRcD9pump"
   },
   {
    "channel": "bitconggems",
@@ -32,96 +422,6 @@
    "text": "The demo account feature is now live. It supports all signals available on this platform, external signal APIs, Telegram channels, and a wide range of trading strategies. https://hounds.fun/?chain=sol#asset"
   },
   {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T06:16:22+00:00",
-   "link": "https://t.me/SmugCalls/23098",
-   "symbol": "XYZ",
-   "ca": "5F5KVWSZrh9KH8UVxrbhphC47hN1kzxVKcT7S7nqvxyz",
-   "callMc": 6100.0,
-   "callLiq": null,
-   "text": "🚀 LAUNCH $XYZ 5F5KVWSZrh9KH8UVxrbhphC47hN1kzxVKcT7S7nqvxyz proven deployer · zero dev buys — pure outside demand 💊 MC ~$6.1K ⚡ Axiom · 📱 FOMO · 📈 GMGN fresh off the pad. DYOR, fam. 😏"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T06:05:24+00:00",
-   "link": "https://t.me/PumpPillSignals/51287",
-   "symbol": "NVIDIA",
-   "ca": null,
-   "callMc": null,
-   "callLiq": null,
-   "text": "✅ $NVIDIA hit 2x. $149K → $499K. Premium Validated strategy."
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T05:52:32+00:00",
-   "link": "https://t.me/PumpPillSignals/51286",
-   "symbol": "TIPR",
-   "ca": "3kRQDKPGqMWwBdGjiVPpPqVzFsnYG5PDqvrVz1D2pump",
-   "callMc": null,
-   "callLiq": null,
-   "text": "🎯 PUMPPILL · 2.1x CONFIRMED $TIPR hit 2.1x! $103K → $219K ⏱ 1.6h since our signal CA: 3kRQDKPGqMWwBdGjiVPpPqVzFsnYG5PDqvrVz1D2pump"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T05:52:31+00:00",
-   "link": "https://t.me/PumpPillSignals/51285",
-   "symbol": "NVIDIA",
-   "ca": "uvt8yph7Gw4eGZCQgfwLh6pduUovCEKDihubL4spump",
-   "callMc": null,
-   "callLiq": null,
-   "text": "🎯 PUMPPILL · 2.4x CONFIRMED $NVIDIA hit 2.4x! $149K → $362K ⏱ 17m since our signal CA: uvt8yph7Gw4eGZCQgfwLh6pduUovCEKDihubL4spump"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T05:52:30+00:00",
-   "link": "https://t.me/PumpPillSignals/51284",
-   "symbol": "NVIDIA",
-   "ca": "uvt8yph7Gw4eGZCQgfwLh6pduUovCEKDihubL4spump",
-   "callMc": null,
-   "callLiq": null,
-   "text": "🎯 PUMPPILL · 2.4x CONFIRMED $NVIDIA hit 2.4x! $149K → $362K ⏱ 7m since our signal CA: uvt8yph7Gw4eGZCQgfwLh6pduUovCEKDihubL4spump"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T05:15:25+00:00",
-   "link": "https://t.me/PumpPillSignals/51283",
-   "symbol": "BRB",
-   "ca": "BRBxbQjafbMc1p24AUxLQpMmmuekKiQKi8PyNquLnbrb",
-   "callMc": 38000.0,
-   "callLiq": null,
-   "text": "💊 PUMPPILL · QUAD CONVERGENCE $BRB · $38K █░░ Weak Signal (1/3) ✓ Trend Match: 60/100 🔍 Bundle Intel ⚪ Grade: NEUTRAL (35/100) └ Unclear — weak demand, rely on other signals 👥 Bundled Buyers: 22/24 8,863 followers CA: BRBxbQjafbMc1p24AUxLQpMmmuekKiQKi8PyNquLnbrb"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T05:00:10+00:00",
-   "link": "https://t.me/PumpPillSignals/51282",
-   "symbol": "TIPR",
-   "ca": null,
-   "callMc": null,
-   "callLiq": null,
-   "text": "✅ $TIPR ran to 2x. $103K → $248K. another one for the books."
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T04:40:46+00:00",
-   "link": "https://t.me/SmugCalls/23097",
-   "symbol": "Odyssey",
-   "ca": "57Q9eXvUBgsUVrrj28xJRDQX3azd1mpaRVsj6xycpump",
-   "callMc": 6800.0,
-   "callLiq": null,
-   "text": "🚀 LAUNCH $Odyssey 57Q9eXvUBgsUVrrj28xJRDQX3azd1mpaRVsj6xycpump proven deployer · zero dev buys — pure outside demand 💊 MC ~$6.8K ⚡ Axiom · 📱 FOMO · 📈 GMGN fresh off the pad. DYOR, fam. 😏"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T04:15:21+00:00",
-   "link": "https://t.me/PumpPillSignals/51281",
-   "symbol": "TIPR",
-   "ca": "3kRQDKPGqMWwBdGjiVPpPqVzFsnYG5PDqvrVz1D2pump",
-   "callMc": 103000.0,
-   "callLiq": null,
-   "text": "💊 PUMPPILL · QUAD CONVERGENCE $TIPR · $103K █░░ Weak Signal (1/3) ✓ Trend Match: 65/100 ✓ Bundle Safety: 35/100 🔍 Bundle Intel ⚪ Grade: NEUTRAL (38/100) └ Unclear — weak demand, rely on other signals 🔒 Exit Tier: Trapped └ Insiders underwater — dumping would crash the price below their entry 👥 Bundled Buyers: 13/13 📊 Supply Held: 31.9% 📉 Exit Slippage: 28% CA: 3kRQDKPGqMWwBdGjiVPpPqVzFsnYG5PDqvrVz"
-  },
-  {
    "channel": "bitconggems",
    "time": "2026-11-01T04:09:31+00:00",
    "link": "https://t.me/bitconggems/13877",
@@ -130,296 +430,6 @@
    "callMc": null,
    "callLiq": null,
    "text": "取材推文：柴犬豆助有自己的电视节目，再度在X走红，强调非Doge同族 EddrjeVVAor8uvMbwRKyB9N4Kx8WVVeFJxLTcUVDpump 赌博一手"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T04:08:35+00:00",
-   "link": "https://t.me/PumpPillSignals/51280",
-   "symbol": null,
-   "ca": "J8GeV63GywfcfGoGCqKY4D5jRPc4gnxtE6HSgLJfpump",
-   "callMc": null,
-   "callLiq": null,
-   "text": "Why this posted: a token that had gone quiet is trading again. 📰 No news story found this week ◎ Solana 🧟 REVIVAL IGNITION — J8GeV63Gyw… We tracked this one to $194K before it collapsed to $13K and went quiet. Someone just lit it back up: $44K MC, $7K volume and 82 txns in the last 5 minutes. Whale games move violently in BOTH directions — size small, take profits fast. chart · J8GeV63GywfcfGoGCqK"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T04:07:25+00:00",
-   "link": "https://t.me/SmugCalls/23096",
-   "symbol": "Odyssey",
-   "ca": "57Q9eXvUBgsUVrrj28xJRDQX3azd1mpaRVsj6xycpump",
-   "callMc": 6800.0,
-   "callLiq": null,
-   "text": "🚀 LAUNCH $Odyssey 57Q9eXvUBgsUVrrj28xJRDQX3azd1mpaRVsj6xycpump proven deployer · zero dev buys — pure outside demand 💊 MC ~$6.8K ⚡ Axiom · 📱 FOMO · 📈 GMGN fresh off the pad. DYOR, fam. 😏"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T04:05:36+00:00",
-   "link": "https://t.me/SmugCalls/23095",
-   "symbol": "Mamesuke",
-   "ca": "EddrjeVVAor8uvMbwRKyB9N4Kx8WVVeFJxLTcUVDpump",
-   "callMc": 15000.0,
-   "callLiq": 8000.0,
-   "text": "😏 SMUG CALL $Mamesuke EddrjeVVAor8uvMbwRKyB9N4Kx8WVVeFJxLTcUVDpump 💊 MC ~$15K · Liq $8K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 18021 grads / 199070 launches aped early. DYOR, fam. 🔥"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T03:58:21+00:00",
-   "link": "https://t.me/SmugCalls/23093",
-   "symbol": "Mamesuke",
-   "ca": "EddrjeVVAor8uvMbwRKyB9N4Kx8WVVeFJxLTcUVDpump",
-   "callMc": 15000.0,
-   "callLiq": 8000.0,
-   "text": "😏 SMUG CALL $Mamesuke EddrjeVVAor8uvMbwRKyB9N4Kx8WVVeFJxLTcUVDpump 💊 MC ~$15K · Liq $8K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 18021 grads / 199070 launches aped early. DYOR, fam. 🔥"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T03:58:21+00:00",
-   "link": "https://t.me/SmugCalls/23094",
-   "symbol": "Mamesuke",
-   "ca": "EddrjeVVAor8uvMbwRKyB9N4Kx8WVVeFJxLTcUVDpump",
-   "callMc": 15000.0,
-   "callLiq": 8000.0,
-   "text": "😏 SMUG CALL $Mamesuke EddrjeVVAor8uvMbwRKyB9N4Kx8WVVeFJxLTcUVDpump 💊 MC ~$15K · Liq $8K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 18021 grads / 199070 launches aped early. DYOR, fam. 🔥"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T03:54:52+00:00",
-   "link": "https://t.me/SmugCalls/23092",
-   "symbol": "Mamesuke",
-   "ca": "EddrjeVVAor8uvMbwRKyB9N4Kx8WVVeFJxLTcUVDpump",
-   "callMc": 15000.0,
-   "callLiq": 8000.0,
-   "text": "😏 SMUG CALL $Mamesuke EddrjeVVAor8uvMbwRKyB9N4Kx8WVVeFJxLTcUVDpump 💊 MC ~$15K · Liq $8K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 18021 grads / 199070 launches aped early. DYOR, fam. 🔥"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T03:52:26+00:00",
-   "link": "https://t.me/PumpPillSignals/51279",
-   "symbol": "BLUE",
-   "ca": "CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump",
-   "callMc": null,
-   "callLiq": null,
-   "text": "🎯 PUMPPILL · 2.8x CONFIRMED $BLUE hit 2.8x! $104K → $297K ⏱ 1.8h since our signal CA: CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T03:50:28+00:00",
-   "link": "https://t.me/SmugCalls/23091",
-   "symbol": "NIGUIN",
-   "ca": "5F9xEPdXPPYj7ioLMZeNNMuRaADrP8r8NfcsoBwEpump",
-   "callMc": 16500.0,
-   "callLiq": null,
-   "text": "🚀 LAUNCH $NIGUIN 5F9xEPdXPPYj7ioLMZeNNMuRaADrP8r8NfcsoBwEpump proven deployer · zero dev buys — pure outside demand 💊 MC ~$16.5K ⚡ Axiom · 📱 FOMO · 📈 GMGN fresh off the pad. DYOR, fam. 😏"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T03:37:04+00:00",
-   "link": "https://t.me/SmugCalls/23090",
-   "symbol": "KICK",
-   "ca": "F2xAwqV7oA4GT3S1FSUcjNFDN8ENWY9B4mo3CdqRpump",
-   "callMc": 14100.0,
-   "callLiq": null,
-   "text": "🚀 LAUNCH $KICK F2xAwqV7oA4GT3S1FSUcjNFDN8ENWY9B4mo3CdqRpump proven deployer · zero dev buys — pure outside demand 💊 MC ~$14.1K ⚡ Axiom · 📱 FOMO · 📈 GMGN fresh off the pad. DYOR, fam. 😏"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T03:35:17+00:00",
-   "link": "https://t.me/PumpPillSignals/51278",
-   "symbol": "What",
-   "ca": "C7zxdtMrPJkshQSnQBSGvtzJBNW9Mw9WALp236hApump",
-   "callMc": null,
-   "callLiq": 16000.0,
-   "text": "📡 PUMPPILL · TRACKING $What If · $49K Vol 1h $12K · Liq $16K · Buys/Sells 2.1x 🟢 CA: C7zxdtMrPJkshQSnQBSGvtzJBNW9Mw9WALp236hApump PumpPill is tracking this token."
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T03:32:26+00:00",
-   "link": "https://t.me/SmugCalls/23089",
-   "symbol": "ELON",
-   "ca": "CJgwcF6TJnciGd6k6sZ3yKXTuTVNAGYcCXuZ5pxjpump",
-   "callMc": 13000.0,
-   "callLiq": 7000.0,
-   "text": "😏 SMUG CALL $ELON CJgwcF6TJnciGd6k6sZ3yKXTuTVNAGYcCXuZ5pxjpump 💊 MC ~$13K · Liq $7K ⚡ Axiom · 📱 FOMO · 📈 GMGN aped early. DYOR, fam. 🔥"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T03:26:32+00:00",
-   "link": "https://t.me/SmugCalls/23088",
-   "symbol": "DEPIXY",
-   "ca": "FdFyh9YoFbr2DRhXBJJzatF5NucGjACuAFLCHfYTpump",
-   "callMc": null,
-   "callLiq": null,
-   "text": "🛬 MIGRATION WATCH $DEPIXY graduated & holding +277% above migration price (5m in) FdFyh9YoFbr2DRhXBJJzatF5NucGjACuAFLCHfYTpump ⚡ Axiom · 📱 FOMO · 📈 GMGN not a call. DYOR"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T03:22:48+00:00",
-   "link": "https://t.me/SmugCalls/23087",
-   "symbol": "DEPIXY",
-   "ca": "FdFyh9YoFbr2DRhXBJJzatF5NucGjACuAFLCHfYTpump",
-   "callMc": null,
-   "callLiq": null,
-   "text": "🛬 MIGRATION WATCH $DEPIXY graduated & holding +277% above migration price (5m in) FdFyh9YoFbr2DRhXBJJzatF5NucGjACuAFLCHfYTpump ⚡ Axiom · 📱 FOMO · 📈 GMGN not a call. DYOR"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T03:09:32+00:00",
-   "link": "https://t.me/PumpPillSignals/51277",
-   "symbol": null,
-   "ca": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump",
-   "callMc": 24200000.0,
-   "callLiq": null,
-   "text": "Why this posted: a second system (Buyers absorbing a sell-off) confirmed it 91h after the first (Quiet accumulation). 📰 In the news: Jack Dorsey’s Block launches Dessa, an AI voice model trained on human conversation — indiantelevision.com, +18 more, today ◎ Solana 🧲 FLOW — EXITS BEING ABSORBED — DESSA MC $24.2M Sell spike hit and the pool's quote side held — someone is eating the exits. Flow read"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T03:01:33+00:00",
-   "link": "https://t.me/SmugCalls/23086",
-   "symbol": "KICK",
-   "ca": "F2xAwqV7oA4GT3S1FSUcjNFDN8ENWY9B4mo3CdqRpump",
-   "callMc": 14100.0,
-   "callLiq": null,
-   "text": "🚀 LAUNCH $KICK F2xAwqV7oA4GT3S1FSUcjNFDN8ENWY9B4mo3CdqRpump proven deployer · zero dev buys — pure outside demand 💊 MC ~$14.1K ⚡ Axiom · 📱 FOMO · 📈 GMGN fresh off the pad. DYOR, fam. 😏"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T02:54:25+00:00",
-   "link": "https://t.me/PumpPillSignals/51276",
-   "symbol": "BLUE",
-   "ca": null,
-   "callMc": null,
-   "callLiq": null,
-   "text": "$BLUE just crossed 5x. entry was $104K, now at $532K. Quad Convergence caught it."
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T02:53:01+00:00",
-   "link": "https://t.me/PumpPillSignals/51275",
-   "symbol": "NUT",
-   "ca": "5U7cD5cXVMVFFhYVRhcm1Ruerg6RzVnUQkGcraZepump",
-   "callMc": 39000.0,
-   "callLiq": null,
-   "text": "📡 PUMPPILL · TRACKING $NUT · $39K ⚡ Confirmed by 2/3 trending rooms ✓ Whale activity detected (2.66 SOL SOL) ✓ Insiders locked — aligned with buyers Vol 1h $97K · Buys/Sells 0.9x CA: 5U7cD5cXVMVFFhYVRhcm1Ruerg6RzVnUQkGcraZepump PumpPill is tracking this token."
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T02:50:01+00:00",
-   "link": "https://t.me/PumpPillSignals/51274",
-   "symbol": "BALLS",
-   "ca": "HhBuvegE7Ew2stS5svkMcxL8povkaL8brwt9JUtfpump",
-   "callMc": 85000.0,
-   "callLiq": null,
-   "text": "💊 PUMPPILL · QUAD CONVERGENCE $BALLS · $85K █░░ Weak Signal (1/3) ✓ Trend Match: 65/100 CA: HhBuvegE7Ew2stS5svkMcxL8povkaL8brwt9JUtfpump"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T02:40:33+00:00",
-   "link": "https://t.me/SmugCalls/23085",
-   "symbol": "BLUE",
-   "ca": "CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump",
-   "callMc": null,
-   "callLiq": null,
-   "text": "🛬 MIGRATION WATCH $BLUE graduated & holding +115% above migration price (5m in) CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump ⚡ Axiom · 📱 FOMO · 📈 GMGN not a call. DYOR"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T02:39:22+00:00",
-   "link": "https://t.me/PumpPillSignals/51273",
-   "symbol": "BLUE",
-   "ca": null,
-   "callMc": null,
-   "callLiq": null,
-   "text": "✅ $BLUE hit 2x. $104K → $352K. Quad Convergence strategy."
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T02:35:50+00:00",
-   "link": "https://t.me/PumpPillSignals/51272",
-   "symbol": "Official",
-   "ca": null,
-   "callMc": null,
-   "callLiq": null,
-   "text": "$Official Barron Trum.. hit 23x before dying. $91K entry, peaked $2.1M. if you rode it without a TP ladder, that's on you."
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T02:07:22+00:00",
-   "link": "https://t.me/PumpPillSignals/51271",
-   "symbol": "BLUE",
-   "ca": "CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump",
-   "callMc": 104000.0,
-   "callLiq": null,
-   "text": "💊 PUMPPILL · QUAD CONVERGENCE $BLUE · $104K █░░ Weak Signal (1/3) ✓ Trend Match: 65/100 ✓ Bundle Safety: 35/100 🔍 Bundle Intel ⚪ Grade: NEUTRAL (33/100) └ Unclear — weak demand, rely on other signals 🔒 Exit Tier: Trapped └ Insiders underwater — dumping would crash the price below their entry 👥 Bundled Buyers: 12/12 📊 Supply Held: 30.8% 📉 Exit Slippage: 24% ⚠️ Dev prior rugs: 2 CA: CPoGSmcjprCvzA2M"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T01:57:56+00:00",
-   "link": "https://t.me/SmugCalls/23084",
-   "symbol": "XI",
-   "ca": "8FWjSPYaaQXmpzDDajZJG5y9pa23RgzHcyZc4WSw2UsC",
-   "callMc": 18000.0,
-   "callLiq": 9000.0,
-   "text": "😏 SMUG CALL $XI 8FWjSPYaaQXmpzDDajZJG5y9pa23RgzHcyZc4WSw2UsC 💊 MC ~$18K · Liq $9K ⚡ Axiom · 📱 FOMO · 📈 GMGN aped early. DYOR, fam. 🔥"
-  },
-  {
-   "channel": "PumpPillSignals",
-   "time": "2026-11-01T01:55:25+00:00",
-   "link": "https://t.me/PumpPillSignals/51270",
-   "symbol": "Official",
-   "ca": null,
-   "callMc": null,
-   "callLiq": null,
-   "text": "📊 MARKET PULSE — 🔵 HEALTHY ────────────────────────────── 🚀 Tokens launched: 56 ✅ Survived scan: 22 (46.8%) 💀 Dead: 24 🔥 Hit 5x: 1 · Hit 10x: 1 💰 Avg survivor peak: $111K ⚠️ Scam flagged: 10 (7%) 🏆 Best runner: $Official Barron Trump — 14x ($91K → $1.2M) ────────────────────────────── 💊 PumpPill · pumppill.org"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T01:50:16+00:00",
-   "link": "https://t.me/SmugCalls/23083",
-   "symbol": "BLUE",
-   "ca": "CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump",
-   "callMc": null,
-   "callLiq": null,
-   "text": "🛬 MIGRATION WATCH $BLUE graduated & holding +115% above migration price (5m in) CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump ⚡ Axiom · 📱 FOMO · 📈 GMGN not a call. DYOR"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T01:28:06+00:00",
-   "link": "https://t.me/SmugCalls/23082",
-   "symbol": "HITLER",
-   "ca": "Hv9XkZqhp3vF8Ju1Au8xQSmHvKoNsPPcHR5C3V4fpump",
-   "callMc": 7800.0,
-   "callLiq": null,
-   "text": "🚀 LAUNCH $HITLER Hv9XkZqhp3vF8Ju1Au8xQSmHvKoNsPPcHR5C3V4fpump proven deployer · zero dev buys — pure outside demand 💊 MC ~$7.8K ⚡ Axiom · 📱 FOMO · 📈 GMGN fresh off the pad. DYOR, fam. 😏"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T01:17:17+00:00",
-   "link": "https://t.me/SmugCalls/23081",
-   "symbol": "ZELENSKYY",
-   "ca": "48zSsVToKDMyFpgfte9cEb5YkQWE6cM4FA2bS2VNpump",
-   "callMc": 17000.0,
-   "callLiq": 9000.0,
-   "text": "😏 SMUG CALL $ZELENSKYY 48zSsVToKDMyFpgfte9cEb5YkQWE6cM4FA2bS2VNpump 💊 MC ~$17K · Liq $9K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 18021 grads / 199070 launches aped early. DYOR, fam. 🔥"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T00:41:38+00:00",
-   "link": "https://t.me/SmugCalls/23080",
-   "symbol": "BLUEBALLS",
-   "ca": "FUzY9vpsEesiyzrcoXGN8hxuvwpYZsqq8WmQtsggpump",
-   "callMc": 18000.0,
-   "callLiq": 5000.0,
-   "text": "😏 SMUG CALL $BLUEBALLS FUzY9vpsEesiyzrcoXGN8hxuvwpYZsqq8WmQtsggpump 💊 MC ~$18K · Liq $5K ⚡ Axiom · 📱 FOMO · 📈 GMGN aped early. DYOR, fam. 🔥"
-  },
-  {
-   "channel": "SmugCalls",
-   "time": "2026-11-01T00:28:31+00:00",
-   "link": "https://t.me/SmugCalls/23079",
-   "symbol": "NICO",
-   "ca": "HXor5zAuNumegyKKnsZnxHkaVN1CJQvvHcyJsXDapump",
-   "callMc": 33000.0,
-   "callLiq": 14000.0,
-   "text": "😏 SMUG CALL $NICO HXor5zAuNumegyKKnsZnxHkaVN1CJQvvHcyJsXDapump 💊 MC ~$33K · Liq $14K ⚡ Axiom · 📱 FOMO · 📈 GMGN 🧬 creator: 18021 grads / 199070 launches aped early. DYOR, fam. 🔥"
   },
   {
    "channel": "bitconggems",
@@ -590,16 +600,6 @@
    "callMc": null,
    "callLiq": null,
    "text": "💎 精品研究 · $onboard(SOL) CA: 5ubruMYpgKqw9ip5J1qrXbVGmMdn2VCsMg421B4bpump ⏱ 发帖后十分钟:峰值 5.2x,守住峰值 74% 【核心叙事】 名字 catonboard，符号 onboard，就是把 cat 硬贴到 onboard 上，别的什么都没有——没简介、没官网，唯一挂出来的那条链是推上一条帖。发射台 pump.fun。故事基本等于没有，一只蹭词的猫。 【故事线】 出生七分四十二秒就从 pump.fun 毕业，直接迁到 PumpSwap，时间点刚好卡在我们信号前面，信号出去那会儿它刚下曲线。我们发帖之后十分钟一路顶到头，然后再往下回，现在比峰值掉了一截。 【X 热度】 在说的全是小号，清一色晒自己的盈利单，最大的那个账号粉丝数 2,594，没有一个大号碰它。另外几条同名 $ONBOARD 的帖，合约对不上，那是另一个"
-  },
-  {
-   "channel": "bitconggems",
-   "time": "2026-10-16T19:10:10+00:00",
-   "link": "https://t.me/bitconggems/13859",
-   "symbol": "ref",
-   "ca": "5u8icj1m6zNPqZtQrWQYjP4GZUACqsiZxK95vW29pump",
-   "callMc": null,
-   "callLiq": null,
-   "text": "💎 精品研究 · $ref(SOL) CA: 5u8icj1m6zNPqZtQrWQYjP4GZUACqsiZxK95vW29pump ⏱ 发帖后十分钟:峰值 5.3x,守住峰值 81% 【核心叙事】 名字和 ticker 都叫 ref，发射台是 pump.fun。故事就一条：名字往 Reflection AI 上靠，X 上有人把它和一条 Elon 关注的事绑在一起，蹭的是 AI 加马斯克这套。除此之外，没有别的叙事。 【故事线】 出生一分钟整就毕业，从 pump.fun 切到 PumpSwap。我们在市值 $35.1K 那会儿标记，当时单子已经偏卖方，卖单比买单多。信号发出去之后十分钟内见顶，之后一路往下走。现在的市值比标记时高一截，但曲线是往下斜的。 【X 热度】 说的人不多，也没大号。粉丝最多的是 AutorunAlert，7,739 粉，发的是新币提醒；solhousesignal"
   }
  ]
 }

@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-01T13:49:28.911Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "sharkcat: top-10 share unknown; liquidity unknown",
+   "mint": "3SsN2bTbu78Y9riYnjfEcnQemXd1jRY6F535zAdFi4Ly",
+   "source": "SmugCalls https://t.me/SmugCalls/23149"
+  },
+  {
    "t": "2026-11-01T06:45:23.128Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1059,8 +1067,9 @@
   "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump": "2026-10-31T21:52:08+00:00",
   "4rsSV6L6mQ6jN587eKi5tNgkbgdzc8c9fxEVY8wapump": "2026-10-31T21:52:07+00:00",
   "HXor5zAuNumegyKKnsZnxHkaVN1CJQvvHcyJsXDapump": "2026-11-01T00:28:31+00:00",
-  "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": "2026-11-01T06:40:28+00:00"
+  "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": "2026-11-01T06:40:28+00:00",
+  "3SsN2bTbu78Y9riYnjfEcnQemXd1jRY6F535zAdFi4Ly": "2026-11-01T13:36:49+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-01T06:45:23.429Z"
+ "lastRun": "2026-11-01T13:49:29.211Z"
 }
