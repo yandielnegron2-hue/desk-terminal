@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:37:16.317Z",
+ "updated": "2026-11-01T22:23:46.250Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 3,
+ "feedLagSec": 2,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,30 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-01T22:23:45.949Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "ANAKINCORE: top-10 share unknown",
+   "mint": "EZZ4WS7XXKgWP2btL2iTjHz4of9PT16tCDMd1LTCpump",
+   "source": "SmugCalls https://t.me/SmugCalls/23258"
+  },
+  {
+   "t": "2026-11-01T22:23:37.455Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Mincho: top-10 share unknown; liquidity unknown",
+   "mint": "5PnZ5fABMzyYh8M2t8BAwrbbrGo9TUh2oh1NZjnspump",
+   "source": "SmugCalls https://t.me/SmugCalls/23259"
+  },
+  {
+   "t": "2026-11-01T22:23:28.712Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Peanut: top-10 share unknown; liquidity unknown",
+   "mint": "GABQewqvS95cMcBi7aKk8kWTDT3QWZzDoTsq9WCbpump",
+   "source": "SmugCalls https://t.me/SmugCalls/23260"
+  },
   {
    "t": "2026-11-01T13:49:28.911Z",
    "mode": "PAPER",
@@ -496,30 +520,6 @@
    "msg": "bio: top-10 share unknown",
    "mint": "VFcXScyQcxbfTmAv7G3nkdUsTJhUejAnhWfUXW6pump",
    "source": "SmugCalls https://t.me/SmugCalls/22757"
-  },
-  {
-   "t": "2026-10-29T00:33:54.911Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "BIO999: top-10 share unknown",
-   "mint": "7AxJJTaJumkDRCJNz4n8ixobaPjrmL6GmxexuJKDpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50765"
-  },
-  {
-   "t": "2026-10-29T00:33:46.336Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "bio999: top-10 share unknown; liq $3850 < $10000",
-   "mint": "9fzGMzAFMfdCphomUtbfRNBCd81B2K4AZweMoT2Ypump",
-   "source": "SmugCalls https://t.me/SmugCalls/22759"
-  },
-  {
-   "t": "2026-10-28T23:57:35.025Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "POP: top-10 share unknown",
-   "mint": "FxwWTze7qwWM8GMRcdyHWpocmCw8Th8QLRGETBJbeSUo",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50762"
   }
  ]
 }
