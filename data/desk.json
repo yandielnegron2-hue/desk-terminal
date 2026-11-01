@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:49:29.211Z",
+ "updated": "2026-11-01T18:37:16.317Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 2,
+ "feedLagSec": 3,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
