@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-02T01:37:11.873Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "meme: top-10 share unknown; liquidity unknown",
+   "mint": "bA27YvxnoNDD52PHXPHqyK9sRfK1NgvNLuK8abJpump",
+   "source": "SmugCalls https://t.me/SmugCalls/23292"
+  },
+  {
    "t": "2026-11-01T22:23:45.949Z",
    "mode": "PAPER",
    "type": "reject",
@@ -972,7 +980,7 @@
   }
  ],
  "consecutiveLosses": 0,
- "day": "2026-11-01",
+ "day": "2026-11-02",
  "dayStartBook": 1,
  "seen": {
   "2h6No4wqsn2ckqsWR2JFp1wMF5fiKuJinEQPneT9mdn3": "2026-10-28T03:33:26+00:00",
@@ -1095,8 +1103,9 @@
   "3SsN2bTbu78Y9riYnjfEcnQemXd1jRY6F535zAdFi4Ly": "2026-11-01T13:36:49+00:00",
   "GABQewqvS95cMcBi7aKk8kWTDT3QWZzDoTsq9WCbpump": "2026-11-01T22:21:43+00:00",
   "5PnZ5fABMzyYh8M2t8BAwrbbrGo9TUh2oh1NZjnspump": "2026-11-01T22:18:49+00:00",
-  "EZZ4WS7XXKgWP2btL2iTjHz4of9PT16tCDMd1LTCpump": "2026-11-01T22:15:32+00:00"
+  "EZZ4WS7XXKgWP2btL2iTjHz4of9PT16tCDMd1LTCpump": "2026-11-01T22:15:32+00:00",
+  "bA27YvxnoNDD52PHXPHqyK9sRfK1NgvNLuK8abJpump": "2026-11-02T01:35:58+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-01T22:23:46.250Z"
+ "lastRun": "2026-11-02T01:37:12.173Z"
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T22:23:46.250Z",
+ "updated": "2026-11-02T01:37:12.173Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-02T01:37:11.873Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "meme: top-10 share unknown; liquidity unknown",
+   "mint": "bA27YvxnoNDD52PHXPHqyK9sRfK1NgvNLuK8abJpump",
+   "source": "SmugCalls https://t.me/SmugCalls/23292"
+  },
   {
    "t": "2026-11-01T22:23:45.949Z",
    "mode": "PAPER",
@@ -512,14 +520,6 @@
    "msg": "PVE: top-10 share unknown; liquidity unknown",
    "mint": "4q6LbcfeBXTUjm2fbPFbyKEBgXU4xhuc6xPZFMSRbaMR",
    "source": "SmugCalls https://t.me/SmugCalls/22766"
-  },
-  {
-   "t": "2026-10-29T00:34:03.479Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "bio: top-10 share unknown",
-   "mint": "VFcXScyQcxbfTmAv7G3nkdUsTJhUejAnhWfUXW6pump",
-   "source": "SmugCalls https://t.me/SmugCalls/22757"
   }
  ]
 }
