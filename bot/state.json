@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-03T07:51:54.974Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Watio: top-10 share unknown; liquidity unknown",
+   "mint": "7NQ2jztMnDFnuZKEQVfdqNaJRTaRRMnBA9QJ1s5spump",
+   "source": "SmugCalls https://t.me/SmugCalls/23542"
+  },
+  {
+   "t": "2026-11-03T07:51:46.643Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "AnonCrime: top-10 share unknown",
+   "mint": "4NPHWnrS9UjtGKkt4iAc5EQQ2zD1LsYJxeXRvGJZpump",
+   "source": "SmugCalls https://t.me/SmugCalls/23543"
+  },
+  {
    "t": "2026-11-03T01:07:46.597Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1140,8 +1156,10 @@
   "GD52VfoPZdad4hiNPg4UnjtDGsS4WiM3mqS8j1czpump": "2026-11-02T08:12:50+00:00",
   "885Xz3LsVnSJvpDhQ9YYq3SPFEyjfy4V7KYc5exFpump": "2026-11-02T18:21:41+00:00",
   "8vFdgGFWkKS1euogVW4qmMurdnso8CPrfQNpB4qqpump": "2026-11-03T00:56:59+00:00",
-  "DTVcrMAEMwpSSBvu6W7P3BLZsRhFZb6bSzARFDqobfCT": "2026-11-03T00:55:46+00:00"
+  "DTVcrMAEMwpSSBvu6W7P3BLZsRhFZb6bSzARFDqobfCT": "2026-11-03T00:55:46+00:00",
+  "4NPHWnrS9UjtGKkt4iAc5EQQ2zD1LsYJxeXRvGJZpump": "2026-11-03T07:46:13+00:00",
+  "7NQ2jztMnDFnuZKEQVfdqNaJRTaRRMnBA9QJ1s5spump": "2026-11-03T07:37:47+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-03T01:07:46.898Z"
+ "lastRun": "2026-11-03T07:51:55.275Z"
 }
