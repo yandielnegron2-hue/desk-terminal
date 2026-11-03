@@ -3,6 +3,70 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-03T15:31:09.824Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Yolanda: LP status unknown; top-10 share unknown; liq $4 < $10000",
+   "mint": "5Gr7MVfm32bdrnYDuJth4xpCvRVPiDJ1wFCvdLTARaUa",
+   "source": "SmugCalls https://t.me/SmugCalls/23584"
+  },
+  {
+   "t": "2026-11-03T15:31:01.455Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "LUCIA: top-10 share unknown",
+   "mint": "Cbtnpg6SL9jvZxtZTYYFPtVQXkuuqSUxCU5aXeTkpump",
+   "source": "SmugCalls https://t.me/SmugCalls/23585"
+  },
+  {
+   "t": "2026-11-03T15:30:53.014Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "PMT: top-10 share unknown; liq $2170 < $10000",
+   "mint": "96dzMNxHP2eJdpBr8VfR719PnQyStE31pMVTgXc6pump",
+   "source": "SmugCalls https://t.me/SmugCalls/23586"
+  },
+  {
+   "t": "2026-11-03T15:30:44.624Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "MAMESUKE: LP status unknown; top-10 share unknown",
+   "mint": "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51630"
+  },
+  {
+   "t": "2026-11-03T15:30:36.040Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "PUMP: top-10 share unknown",
+   "mint": "Hxqh7Fxsz11pyqDRdEkBgP8vP44BPLPnQDrxzPYZpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51631"
+  },
+  {
+   "t": "2026-11-03T15:30:27.712Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "AI: top-10 share unknown",
+   "mint": "8ozpQfvuPzxaLiKnX6cqTDbqs8HMzqduHUe1J15mpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51632"
+  },
+  {
+   "t": "2026-11-03T15:30:19.323Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "SHIT: top-10 share unknown",
+   "mint": "89otShLRSB7BVtBLpx9a5uuvvbetpmzsofnzgempump",
+   "source": "SmugCalls https://t.me/SmugCalls/23588"
+  },
+  {
+   "t": "2026-11-03T15:30:11.064Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "VETO: top-10 share unknown",
+   "mint": "4xWRsdRkre5ibf3ZyS2eje6sUY8wGnmtSHx7gkGtpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51634"
+  },
+  {
    "t": "2026-11-03T07:51:54.974Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1158,8 +1222,16 @@
   "8vFdgGFWkKS1euogVW4qmMurdnso8CPrfQNpB4qqpump": "2026-11-03T00:56:59+00:00",
   "DTVcrMAEMwpSSBvu6W7P3BLZsRhFZb6bSzARFDqobfCT": "2026-11-03T00:55:46+00:00",
   "4NPHWnrS9UjtGKkt4iAc5EQQ2zD1LsYJxeXRvGJZpump": "2026-11-03T07:46:13+00:00",
-  "7NQ2jztMnDFnuZKEQVfdqNaJRTaRRMnBA9QJ1s5spump": "2026-11-03T07:37:47+00:00"
+  "7NQ2jztMnDFnuZKEQVfdqNaJRTaRRMnBA9QJ1s5spump": "2026-11-03T07:37:47+00:00",
+  "4xWRsdRkre5ibf3ZyS2eje6sUY8wGnmtSHx7gkGtpump": "2026-11-03T15:29:25+00:00",
+  "89otShLRSB7BVtBLpx9a5uuvvbetpmzsofnzgempump": "2026-11-03T15:28:42+00:00",
+  "8ozpQfvuPzxaLiKnX6cqTDbqs8HMzqduHUe1J15mpump": "2026-11-03T15:27:55+00:00",
+  "Hxqh7Fxsz11pyqDRdEkBgP8vP44BPLPnQDrxzPYZpump": "2026-11-03T15:27:54+00:00",
+  "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK": "2026-11-03T15:21:12+00:00",
+  "96dzMNxHP2eJdpBr8VfR719PnQyStE31pMVTgXc6pump": "2026-11-03T15:21:08+00:00",
+  "Cbtnpg6SL9jvZxtZTYYFPtVQXkuuqSUxCU5aXeTkpump": "2026-11-03T15:18:59+00:00",
+  "5Gr7MVfm32bdrnYDuJth4xpCvRVPiDJ1wFCvdLTARaUa": "2026-11-03T15:16:42+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-03T07:51:55.275Z"
+ "lastRun": "2026-11-03T15:31:10.124Z"
 }

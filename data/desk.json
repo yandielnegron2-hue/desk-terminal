@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T07:51:55.275Z",
+ "updated": "2026-11-03T15:31:10.124Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 3,
+ "feedLagSec": 2,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,70 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-03T15:31:09.824Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Yolanda: LP status unknown; top-10 share unknown; liq $4 < $10000",
+   "mint": "5Gr7MVfm32bdrnYDuJth4xpCvRVPiDJ1wFCvdLTARaUa",
+   "source": "SmugCalls https://t.me/SmugCalls/23584"
+  },
+  {
+   "t": "2026-11-03T15:31:01.455Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "LUCIA: top-10 share unknown",
+   "mint": "Cbtnpg6SL9jvZxtZTYYFPtVQXkuuqSUxCU5aXeTkpump",
+   "source": "SmugCalls https://t.me/SmugCalls/23585"
+  },
+  {
+   "t": "2026-11-03T15:30:53.014Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "PMT: top-10 share unknown; liq $2170 < $10000",
+   "mint": "96dzMNxHP2eJdpBr8VfR719PnQyStE31pMVTgXc6pump",
+   "source": "SmugCalls https://t.me/SmugCalls/23586"
+  },
+  {
+   "t": "2026-11-03T15:30:44.624Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "MAMESUKE: LP status unknown; top-10 share unknown",
+   "mint": "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51630"
+  },
+  {
+   "t": "2026-11-03T15:30:36.040Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "PUMP: top-10 share unknown",
+   "mint": "Hxqh7Fxsz11pyqDRdEkBgP8vP44BPLPnQDrxzPYZpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51631"
+  },
+  {
+   "t": "2026-11-03T15:30:27.712Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "AI: top-10 share unknown",
+   "mint": "8ozpQfvuPzxaLiKnX6cqTDbqs8HMzqduHUe1J15mpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51632"
+  },
+  {
+   "t": "2026-11-03T15:30:19.323Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "SHIT: top-10 share unknown",
+   "mint": "89otShLRSB7BVtBLpx9a5uuvvbetpmzsofnzgempump",
+   "source": "SmugCalls https://t.me/SmugCalls/23588"
+  },
+  {
+   "t": "2026-11-03T15:30:11.064Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "VETO: top-10 share unknown",
+   "mint": "4xWRsdRkre5ibf3ZyS2eje6sUY8wGnmtSHx7gkGtpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51634"
+  },
   {
    "t": "2026-11-03T07:51:54.974Z",
    "mode": "PAPER",
@@ -456,70 +520,6 @@
    "msg": "Chilloween: top-10 share unknown; liquidity unknown",
    "mint": "Ac6PLXgeP3eK1ak9CyNR8actDgA3vxBhRq1Ao1frDajq",
    "source": "SmugCalls https://t.me/SmugCalls/22802"
-  },
-  {
-   "t": "2026-10-29T08:28:31.107Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "OTC: top-10 share unknown",
-   "mint": "Fa24xN13pzjmcx1dtKP9nBMMFCwLtXCJrtP5hSPKpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50806"
-  },
-  {
-   "t": "2026-10-29T07:41:05.338Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Make: top-10 share unknown",
-   "mint": "BLAytV5xTVEkYJYS1RoFR5Ypgm3JZ44CvVdZHTExpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50800"
-  },
-  {
-   "t": "2026-10-29T07:40:56.632Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "KIM: top-10 share unknown",
-   "mint": "ESABfJpt9cocXgWX7HF8WwSXrcv785oyaA8imwojpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50801"
-  },
-  {
-   "t": "2026-10-29T07:40:47.838Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "FOMOKING: top-10 share unknown; liq $1905 < $10000",
-   "mint": "5THA5heeJgXsULasqETYxSJAEZKwPZXZWASFjbMNpump",
-   "source": "SmugCalls https://t.me/SmugCalls/22796"
-  },
-  {
-   "t": "2026-10-29T06:38:44.630Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Steve: top-10 share unknown",
-   "mint": "Fxyj1MSfyE8PCsVUWmXTHCWmCKFK7dkvgkd6HvuHpump",
-   "source": "SmugCalls https://t.me/SmugCalls/22791"
-  },
-  {
-   "t": "2026-10-29T06:38:36.281Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Elon: top-10 share unknown; liq $5093 < $10000",
-   "mint": "BMfPwYMV8xGToRH1gqqjCZLBMTGJzu7AtMuRE2Z9pump",
-   "source": "SmugCalls https://t.me/SmugCalls/22792"
-  },
-  {
-   "t": "2026-10-29T05:15:52.259Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "BOOCAT: top-10 share unknown",
-   "mint": "6JBuwy4KBAuxwsWNbkEy6YKbjuSH2LTZKRPR4t3ppump",
-   "source": "SmugCalls https://t.me/SmugCalls/22785"
-  },
-  {
-   "t": "2026-10-29T04:29:51.576Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "ELON2028: LP status unknown; top-10 share unknown",
-   "mint": "8BnNS15Q6h6D5Vcq1sNPaUxhpRVdK8FGRbLvCrLxibSx",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50786"
   }
  ]
 }
