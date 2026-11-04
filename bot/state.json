@@ -3,6 +3,54 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-04T15:45:20.760Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "TRUMPED: top-10 share unknown; liquidity unknown",
+   "mint": "6AFQqDpb61CmAWwLWhE5heZPefpGvqU12ZEFzLZLpump",
+   "source": "SmugCalls https://t.me/SmugCalls/23795"
+  },
+  {
+   "t": "2026-11-04T15:45:11.965Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Blunami: top-10 share unknown; liquidity unknown",
+   "mint": "D7esFpu7mf5ny8yMmo9a9ZzWYQXEwHoGFpTgD9EEpump",
+   "source": "SmugCalls https://t.me/SmugCalls/23796"
+  },
+  {
+   "t": "2026-11-04T15:45:01.719Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "tremp: top-10 share unknown",
+   "mint": "82BH9WFmtsJGRCdW147cM24K6X8kAkUx2jSd2NyRLfv6",
+   "source": "SmugCalls https://t.me/SmugCalls/23797"
+  },
+  {
+   "t": "2026-11-04T15:44:51.750Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Ritchie: top-10 share unknown; liquidity unknown",
+   "mint": "GvSrwMbkcFWepFqF6bg6WKVWXAQ55chFt2GKeR9ppump",
+   "source": "SmugCalls https://t.me/SmugCalls/23798"
+  },
+  {
+   "t": "2026-11-04T15:44:42.903Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "donkey: top-10 share unknown",
+   "mint": "9YZ8c8v91Dn6GnS8Lxd2gBjCCoBxyyeq29CnzcPxpump",
+   "source": "SmugCalls https://t.me/SmugCalls/23799"
+  },
+  {
+   "t": "2026-11-04T15:44:34.064Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "BLUE: top-10 share unknown",
+   "mint": "CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51743"
+  },
+  {
    "t": "2026-11-04T07:36:18.644Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1284,8 +1332,14 @@
   "7hp5zqyNdJbuTVMezPttjyjJA7fU2yH62CsFFErgpump": "2026-11-03T21:05:48+00:00",
   "5Q9ZuSyEDFVdbvp1Z5gZ5HQbp2nU2jB1ZR25JHHBUtKW": "2026-11-03T21:01:21+00:00",
   "2amHtDZjEks45qhFYJL5TaTGzGXn9RTHpVFzzCnHfxJo": "2026-11-03T20:58:26+00:00",
-  "9t8toD44YPFv5QcnCi56FTybpGnHeVrPk3Hwmxsxpump": "2026-11-04T07:31:35+00:00"
+  "9t8toD44YPFv5QcnCi56FTybpGnHeVrPk3Hwmxsxpump": "2026-11-04T07:31:35+00:00",
+  "CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump": "2026-11-04T15:40:35+00:00",
+  "9YZ8c8v91Dn6GnS8Lxd2gBjCCoBxyyeq29CnzcPxpump": "2026-11-04T15:38:00+00:00",
+  "GvSrwMbkcFWepFqF6bg6WKVWXAQ55chFt2GKeR9ppump": "2026-11-04T15:35:41+00:00",
+  "82BH9WFmtsJGRCdW147cM24K6X8kAkUx2jSd2NyRLfv6": "2026-11-04T15:32:12+00:00",
+  "D7esFpu7mf5ny8yMmo9a9ZzWYQXEwHoGFpTgD9EEpump": "2026-11-04T15:31:03+00:00",
+  "6AFQqDpb61CmAWwLWhE5heZPefpGvqU12ZEFzLZLpump": "2026-11-04T15:30:16+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-04T07:36:18.945Z"
+ "lastRun": "2026-11-04T15:45:21.061Z"
 }
