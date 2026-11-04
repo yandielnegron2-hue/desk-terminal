@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-04T21:32:51.395Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "STONKS: LP status unknown; top-10 share unknown",
+   "mint": "22r9JGoWRBYc4Z1pkSFw8p2tdjefS2ZZshw1vr8bBC2K",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51800"
+  },
+  {
+   "t": "2026-11-04T21:32:39.666Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Anime: top-10 share unknown",
+   "mint": "DRVhtx9ktSecBXRVD35RkQQHo8ugcSz9gYmxjevnpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51802"
+  },
+  {
    "t": "2026-11-04T15:45:20.760Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1338,8 +1354,10 @@
   "GvSrwMbkcFWepFqF6bg6WKVWXAQ55chFt2GKeR9ppump": "2026-11-04T15:35:41+00:00",
   "82BH9WFmtsJGRCdW147cM24K6X8kAkUx2jSd2NyRLfv6": "2026-11-04T15:32:12+00:00",
   "D7esFpu7mf5ny8yMmo9a9ZzWYQXEwHoGFpTgD9EEpump": "2026-11-04T15:31:03+00:00",
-  "6AFQqDpb61CmAWwLWhE5heZPefpGvqU12ZEFzLZLpump": "2026-11-04T15:30:16+00:00"
+  "6AFQqDpb61CmAWwLWhE5heZPefpGvqU12ZEFzLZLpump": "2026-11-04T15:30:16+00:00",
+  "DRVhtx9ktSecBXRVD35RkQQHo8ugcSz9gYmxjevnpump": "2026-11-04T21:29:32+00:00",
+  "22r9JGoWRBYc4Z1pkSFw8p2tdjefS2ZZshw1vr8bBC2K": "2026-11-04T21:21:14+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-04T15:45:21.061Z"
+ "lastRun": "2026-11-04T21:32:51.696Z"
 }

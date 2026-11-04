@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T15:45:21.061Z",
+ "updated": "2026-11-04T21:32:51.696Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,22 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-04T21:32:51.395Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "STONKS: LP status unknown; top-10 share unknown",
+   "mint": "22r9JGoWRBYc4Z1pkSFw8p2tdjefS2ZZshw1vr8bBC2K",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51800"
+  },
+  {
+   "t": "2026-11-04T21:32:39.666Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Anime: top-10 share unknown",
+   "mint": "DRVhtx9ktSecBXRVD35RkQQHo8ugcSz9gYmxjevnpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51802"
+  },
   {
    "t": "2026-11-04T15:45:20.760Z",
    "mode": "PAPER",
@@ -504,22 +520,6 @@
    "msg": "Trader: top-10 share unknown; liquidity unknown",
    "mint": "H4YagYJ9QstNBiJ1ck5gpz2A3dchTU1B6P4GMaAXpump",
    "source": "SmugCalls https://t.me/SmugCalls/22837"
-  },
-  {
-   "t": "2026-10-29T15:32:19.749Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "STANLEY: top-10 share unknown",
-   "mint": "83MRySsDw9nuyV2e7iowXBxPJgSNFphvsytvnBWjop6d",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50861"
-  },
-  {
-   "t": "2026-10-29T12:59:06.106Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "67Nothing: top-10 share unknown; liq $2516 < $10000",
-   "mint": "HrL25qfoSZ6fLUNNwzENhV6JfAtk2gyr8NLJ4skjpump",
-   "source": "SmugCalls https://t.me/SmugCalls/22823"
   }
  ]
 }
