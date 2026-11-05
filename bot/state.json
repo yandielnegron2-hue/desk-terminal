@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-05T01:45:02.739Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "MFP: top-10 share unknown; liquidity unknown",
+   "mint": "5frjngQSQz3RvfVixSiFekn5HaeT9xiMHiVFjMkFpump",
+   "source": "SmugCalls https://t.me/SmugCalls/23902"
+  },
+  {
+   "t": "2026-11-05T01:44:53.892Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "INU: top-10 share unknown",
+   "mint": "Bid8i1ocWssjRmKh2kcUfHxD1K6Sk7E5pV2PSVdepump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51821"
+  },
+  {
    "t": "2026-11-04T21:32:51.395Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1204,7 +1220,7 @@
   }
  ],
  "consecutiveLosses": 0,
- "day": "2026-11-04",
+ "day": "2026-11-05",
  "dayStartBook": 1,
  "seen": {
   "2h6No4wqsn2ckqsWR2JFp1wMF5fiKuJinEQPneT9mdn3": "2026-10-28T03:33:26+00:00",
@@ -1356,8 +1372,10 @@
   "D7esFpu7mf5ny8yMmo9a9ZzWYQXEwHoGFpTgD9EEpump": "2026-11-04T15:31:03+00:00",
   "6AFQqDpb61CmAWwLWhE5heZPefpGvqU12ZEFzLZLpump": "2026-11-04T15:30:16+00:00",
   "DRVhtx9ktSecBXRVD35RkQQHo8ugcSz9gYmxjevnpump": "2026-11-04T21:29:32+00:00",
-  "22r9JGoWRBYc4Z1pkSFw8p2tdjefS2ZZshw1vr8bBC2K": "2026-11-04T21:21:14+00:00"
+  "22r9JGoWRBYc4Z1pkSFw8p2tdjefS2ZZshw1vr8bBC2K": "2026-11-04T21:21:14+00:00",
+  "Bid8i1ocWssjRmKh2kcUfHxD1K6Sk7E5pV2PSVdepump": "2026-11-05T01:37:23+00:00",
+  "5frjngQSQz3RvfVixSiFekn5HaeT9xiMHiVFjMkFpump": "2026-11-05T01:30:57+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-04T21:32:51.696Z"
+ "lastRun": "2026-11-05T01:45:03.040Z"
 }
