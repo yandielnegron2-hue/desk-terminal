@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T08:32:42.373Z",
+ "updated": "2026-11-05T16:43:54.703Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 2,
+ "feedLagSec": 3,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-05T16:43:54.402Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "STANK: LP status unknown; top-10 share unknown",
+   "mint": "5wsjHxT5nW5jQuVupXUNnYszF3WoWCfGGk9LMcsCJzY8",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51872"
+  },
   {
    "t": "2026-11-05T08:32:42.072Z",
    "mode": "PAPER",
@@ -512,14 +520,6 @@
    "msg": "Stanley: top-10 share unknown",
    "mint": "82ANgxJqcsbuaS1hRza6S2QnuKu3XQMUAo7zVg8qoirK",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/50874"
-  },
-  {
-   "t": "2026-10-29T16:26:37.929Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "ELOOONG: top-10 share unknown",
-   "mint": "2YZdszj9XpTrKZ3FsVJH5sqGXppCgfW5E5pCVR9Apump",
-   "source": "SmugCalls https://t.me/SmugCalls/22835"
   }
  ]
 }
