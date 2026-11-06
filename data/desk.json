@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T22:19:52.827Z",
+ "updated": "2026-11-06T02:34:29.885Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 1,
+ "feedLagSec": 2,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-06T02:34:29.585Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "DEGEN: top-10 share unknown",
+   "mint": "Dk2iHPgeStfACECMbmigRRcDtP8yzfTjdHnMq7hqpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51917"
+  },
   {
    "t": "2026-11-05T22:19:52.527Z",
    "mode": "PAPER",
@@ -512,14 +520,6 @@
    "msg": "Cyber: top-10 share unknown",
    "mint": "57yE4vgK2DMGeLhfhbT4sQPzoHRoVVQrtTDuY9hcpump",
    "source": "SmugCalls https://t.me/SmugCalls/22858"
-  },
-  {
-   "t": "2026-10-29T21:52:01.041Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "MeiMei: top-10 share unknown; liquidity unknown",
-   "mint": "ANCa6uo2CoMFsVGmgqttULzzDMmpSt5sBP3BwBhwpump",
-   "source": "SmugCalls https://t.me/SmugCalls/22859"
   }
  ]
 }

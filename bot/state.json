@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-06T02:34:29.585Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "DEGEN: top-10 share unknown",
+   "mint": "Dk2iHPgeStfACECMbmigRRcDtP8yzfTjdHnMq7hqpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51917"
+  },
+  {
    "t": "2026-11-05T22:19:52.527Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1244,7 +1252,7 @@
   }
  ],
  "consecutiveLosses": 0,
- "day": "2026-11-05",
+ "day": "2026-11-06",
  "dayStartBook": 1,
  "seen": {
   "2h6No4wqsn2ckqsWR2JFp1wMF5fiKuJinEQPneT9mdn3": "2026-10-28T03:33:26+00:00",
@@ -1401,8 +1409,9 @@
   "5frjngQSQz3RvfVixSiFekn5HaeT9xiMHiVFjMkFpump": "2026-11-05T01:30:57+00:00",
   "Fx4AgbNJtWp9q9rRY1H9XZQbKox7QmscFzaEJZjDpump": "2026-11-05T08:18:58+00:00",
   "5wsjHxT5nW5jQuVupXUNnYszF3WoWCfGGk9LMcsCJzY8": "2026-11-05T16:37:07+00:00",
-  "nearFUCFULHhJy2iyJUkAHqxHcEn4La8PbAH1coy5dS": "2026-11-05T22:18:22+00:00"
+  "nearFUCFULHhJy2iyJUkAHqxHcEn4La8PbAH1coy5dS": "2026-11-05T22:18:22+00:00",
+  "Dk2iHPgeStfACECMbmigRRcDtP8yzfTjdHnMq7hqpump": "2026-11-06T02:20:28+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-05T22:19:52.827Z"
+ "lastRun": "2026-11-06T02:34:29.885Z"
 }
