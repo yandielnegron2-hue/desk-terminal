@@ -3,6 +3,46 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-06T16:58:06.418Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "GRUB: top-10 share unknown; liquidity unknown",
+   "mint": "upiojuije7aWZw88LaMe6KwSrV8Lzy9SWu7bht8pump",
+   "source": "SmugCalls https://t.me/SmugCalls/24176"
+  },
+  {
+   "t": "2026-11-06T16:57:57.837Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Xiaoman: top-10 share unknown; liquidity unknown",
+   "mint": "HoLvxG8WTXCCZPHFhY77vPB38kqHKXgLJsBk2vGipump",
+   "source": "SmugCalls https://t.me/SmugCalls/24177"
+  },
+  {
+   "t": "2026-11-06T16:57:49.088Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Habibi: top-10 share unknown; liquidity unknown",
+   "mint": "BC7q32LH2pCawt8EvRoATC8J7kM4aSW3PNQpC21Gpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24178"
+  },
+  {
+   "t": "2026-11-06T16:57:40.516Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "bracket: top-10 share unknown; liq $9168 < $10000",
+   "mint": "EFWotn2UtV2c5QXMMHbSzmyrkU7wnfj7VpkNQGr1wk1z",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/51975"
+  },
+  {
+   "t": "2026-11-06T16:57:32.026Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Yumi: top-10 share unknown; liquidity unknown",
+   "mint": "A4zWP3c4JqSrfqJf9eeQJmZ9ab5XDhbi8zKncDz9eQgx",
+   "source": "SmugCalls https://t.me/SmugCalls/24179"
+  },
+  {
    "t": "2026-11-06T02:34:29.585Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1410,8 +1450,13 @@
   "Fx4AgbNJtWp9q9rRY1H9XZQbKox7QmscFzaEJZjDpump": "2026-11-05T08:18:58+00:00",
   "5wsjHxT5nW5jQuVupXUNnYszF3WoWCfGGk9LMcsCJzY8": "2026-11-05T16:37:07+00:00",
   "nearFUCFULHhJy2iyJUkAHqxHcEn4La8PbAH1coy5dS": "2026-11-05T22:18:22+00:00",
-  "Dk2iHPgeStfACECMbmigRRcDtP8yzfTjdHnMq7hqpump": "2026-11-06T02:20:28+00:00"
+  "Dk2iHPgeStfACECMbmigRRcDtP8yzfTjdHnMq7hqpump": "2026-11-06T02:20:28+00:00",
+  "A4zWP3c4JqSrfqJf9eeQJmZ9ab5XDhbi8zKncDz9eQgx": "2026-11-06T16:54:15+00:00",
+  "EFWotn2UtV2c5QXMMHbSzmyrkU7wnfj7VpkNQGr1wk1z": "2026-11-06T16:47:23+00:00",
+  "BC7q32LH2pCawt8EvRoATC8J7kM4aSW3PNQpC21Gpump": "2026-11-06T16:45:37+00:00",
+  "HoLvxG8WTXCCZPHFhY77vPB38kqHKXgLJsBk2vGipump": "2026-11-06T16:44:54+00:00",
+  "upiojuije7aWZw88LaMe6KwSrV8Lzy9SWu7bht8pump": "2026-11-06T16:44:31+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-06T09:48:14.349Z"
+ "lastRun": "2026-11-06T16:58:06.719Z"
 }
