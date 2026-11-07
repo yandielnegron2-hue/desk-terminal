@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-07T14:22:08.228Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "STONKS: top-10 share unknown; liq $2201 < $10000",
+   "mint": "41nYSc3pw5muecejM7DzX6qt7BfNTap3Jsivj4HWpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24294"
+  },
+  {
+   "t": "2026-11-07T14:21:59.223Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Rent: top-10 share unknown; liquidity unknown",
+   "mint": "98z2AAiZxsKkAJz4Q19Nk4VWc1abBRLQA2ZLcd93pump",
+   "source": "SmugCalls https://t.me/SmugCalls/24295"
+  },
+  {
    "t": "2026-11-07T07:44:09.034Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1509,8 +1525,10 @@
   "BKvjmtidJCeDNtryFyVgJaVu8oLdKZMix9xW61Sepump": "2026-11-07T01:33:06+00:00",
   "13i7SfDDzg3t4MQnfZNtFKptHpv8HR2eaGRMfetSpump": "2026-11-07T01:27:03+00:00",
   "Hbpjmu51QXzwojmtvnzzFtwpgYdP8SUwxTTDACGxpump": "2026-11-07T07:42:29+00:00",
-  "J7sWdEt3guHTc5duLvdmhvnjuEkhcqa9M2fuaYzGpump": "2026-11-07T07:38:22+00:00"
+  "J7sWdEt3guHTc5duLvdmhvnjuEkhcqa9M2fuaYzGpump": "2026-11-07T07:38:22+00:00",
+  "98z2AAiZxsKkAJz4Q19Nk4VWc1abBRLQA2ZLcd93pump": "2026-11-07T14:16:32+00:00",
+  "41nYSc3pw5muecejM7DzX6qt7BfNTap3Jsivj4HWpump": "2026-11-07T14:13:46+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-07T07:44:09.335Z"
+ "lastRun": "2026-11-07T14:22:08.529Z"
 }
