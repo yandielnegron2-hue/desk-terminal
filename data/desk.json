@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:56:47.213Z",
+ "updated": "2026-11-07T01:34:55.897Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,22 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-07T01:34:55.597Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "熊猫: top-10 share unknown",
+   "mint": "13i7SfDDzg3t4MQnfZNtFKptHpv8HR2eaGRMfetSpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/52034"
+  },
+  {
+   "t": "2026-11-07T01:34:44.941Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "ODDS: top-10 share unknown; liquidity unknown",
+   "mint": "BKvjmtidJCeDNtryFyVgJaVu8oLdKZMix9xW61Sepump",
+   "source": "SmugCalls https://t.me/SmugCalls/24248"
+  },
   {
    "t": "2026-11-06T21:56:46.913Z",
    "mode": "PAPER",
@@ -504,22 +520,6 @@
    "msg": "JASON: top-10 share unknown",
    "mint": "3qjBR3LfzEAKVS6QXuR2QZ1RFUsXzATWvmjbGB5Dpump",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/51050"
-  },
-  {
-   "t": "2026-10-30T19:29:45.619Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Crypto: top-10 share unknown",
-   "mint": "qhbbjGBKJxW3AZGqngWM5tHcrENR3pVoRB9MCf1pump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/51051"
-  },
-  {
-   "t": "2026-10-30T14:19:52.773Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "laptop: top-10 share unknown",
-   "mint": "GEWDAj3NaK3WVpgjhusnZq8CMsYu9yQPRRxApfXwpump",
-   "source": "SmugCalls https://t.me/SmugCalls/22936"
   }
  ]
 }
