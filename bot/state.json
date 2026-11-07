@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-07T22:24:46.746Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "迷因币: top-10 share unknown; liq $5504 < $10000",
+   "mint": "Weo9K9hAjdkWUQhrTFx1abfr9CZMrEPbQ2oQiwTpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24363"
+  },
+  {
    "t": "2026-11-07T18:53:48.334Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1545,8 +1553,9 @@
   "98z2AAiZxsKkAJz4Q19Nk4VWc1abBRLQA2ZLcd93pump": "2026-11-07T14:16:32+00:00",
   "41nYSc3pw5muecejM7DzX6qt7BfNTap3Jsivj4HWpump": "2026-11-07T14:13:46+00:00",
   "EopXvR28cgVDQMyMfAss1hWRsyVnKrJ4Hc1xGB9cpump": "2026-11-07T18:52:24+00:00",
-  "HgqPNSwQxSYkMADaHDCV1N8qBPhbtgUKDLQJqCBqVLXc": "2026-11-07T18:40:01+00:00"
+  "HgqPNSwQxSYkMADaHDCV1N8qBPhbtgUKDLQJqCBqVLXc": "2026-11-07T18:40:01+00:00",
+  "Weo9K9hAjdkWUQhrTFx1abfr9CZMrEPbQ2oQiwTpump": "2026-11-07T22:17:32+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-07T18:53:48.635Z"
+ "lastRun": "2026-11-07T22:24:47.049Z"
 }
