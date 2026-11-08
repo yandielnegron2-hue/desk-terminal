@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-08T22:52:36.189Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "RM: top-10 share unknown; liq $8378 < $10000",
+   "mint": "EW1b9rcLAJe634mgxb5r4bVYxDoGU37o7YazBzjTpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/52164"
+  },
+  {
+   "t": "2026-11-08T22:52:27.426Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Eepydog: top-10 share unknown; liquidity unknown",
+   "mint": "HcgPrnK34imBSCzwag6pmmcSHzKcMbon7W8hicEvpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24496"
+  },
+  {
    "t": "2026-11-08T19:11:41.573Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1581,8 +1597,10 @@
   "Weo9K9hAjdkWUQhrTFx1abfr9CZMrEPbQ2oQiwTpump": "2026-11-07T22:17:32+00:00",
   "2NNMnL71YRqvnkA1TPmJLawtnJW857Nvk6qauybxpump": "2026-11-08T19:09:06+00:00",
   "FqUCVJTkjrLXFnYy7UFV3uAvAuJqi3Fhwna14iAQpump": "2026-11-08T19:03:31+00:00",
-  "E2nKLEbnSSd85ssJg4JYmHwD1VAtWncZwdF8hU9Rpump": "2026-11-08T19:01:59+00:00"
+  "E2nKLEbnSSd85ssJg4JYmHwD1VAtWncZwdF8hU9Rpump": "2026-11-08T19:01:59+00:00",
+  "HcgPrnK34imBSCzwag6pmmcSHzKcMbon7W8hicEvpump": "2026-11-08T22:47:30+00:00",
+  "EW1b9rcLAJe634mgxb5r4bVYxDoGU37o7YazBzjTpump": "2026-11-08T22:39:57+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-08T19:11:41.874Z"
+ "lastRun": "2026-11-08T22:52:36.489Z"
 }

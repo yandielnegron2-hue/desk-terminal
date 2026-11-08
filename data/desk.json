@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T19:11:41.874Z",
+ "updated": "2026-11-08T22:52:36.489Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 1,
+ "feedLagSec": 2,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,22 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-08T22:52:36.189Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "RM: top-10 share unknown; liq $8378 < $10000",
+   "mint": "EW1b9rcLAJe634mgxb5r4bVYxDoGU37o7YazBzjTpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/52164"
+  },
+  {
+   "t": "2026-11-08T22:52:27.426Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Eepydog: top-10 share unknown; liquidity unknown",
+   "mint": "HcgPrnK34imBSCzwag6pmmcSHzKcMbon7W8hicEvpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24496"
+  },
   {
    "t": "2026-11-08T19:11:41.573Z",
    "mode": "PAPER",
@@ -504,22 +520,6 @@
    "msg": "sharkcat: top-10 share unknown; liquidity unknown",
    "mint": "3SsN2bTbu78Y9riYnjfEcnQemXd1jRY6F535zAdFi4Ly",
    "source": "SmugCalls https://t.me/SmugCalls/23149"
-  },
-  {
-   "t": "2026-11-01T06:45:23.128Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "jeff: LP status unknown; top-10 share unknown",
-   "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/51289"
-  },
-  {
-   "t": "2026-11-01T00:32:48.872Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "NICO: top-10 share unknown; liq $8024 < $10000",
-   "mint": "HXor5zAuNumegyKKnsZnxHkaVN1CJQvvHcyJsXDapump",
-   "source": "SmugCalls https://t.me/SmugCalls/23079"
   }
  ]
 }
