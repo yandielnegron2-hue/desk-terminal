@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T14:44:39.023Z",
+ "updated": "2026-11-08T19:11:41.874Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 2,
+ "feedLagSec": 1,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,30 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-08T19:11:41.573Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "ASI: LP status unknown; top-10 share unknown; liq $2 < $10000",
+   "mint": "E2nKLEbnSSd85ssJg4JYmHwD1VAtWncZwdF8hU9Rpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24476"
+  },
+  {
+   "t": "2026-11-08T19:11:33.067Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "FOMO: top-10 share unknown; liquidity unknown",
+   "mint": "FqUCVJTkjrLXFnYy7UFV3uAvAuJqi3Fhwna14iAQpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24477"
+  },
+  {
+   "t": "2026-11-08T19:11:24.523Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "NIGOOR: top-10 share unknown; liquidity unknown",
+   "mint": "2NNMnL71YRqvnkA1TPmJLawtnJW857Nvk6qauybxpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24478"
+  },
   {
    "t": "2026-11-07T22:24:46.746Z",
    "mode": "PAPER",
@@ -496,30 +520,6 @@
    "msg": "NICO: top-10 share unknown; liq $8024 < $10000",
    "mint": "HXor5zAuNumegyKKnsZnxHkaVN1CJQvvHcyJsXDapump",
    "source": "SmugCalls https://t.me/SmugCalls/23079"
-  },
-  {
-   "t": "2026-10-31T21:54:09.063Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "VAMPCAT: top-10 share unknown",
-   "mint": "4rsSV6L6mQ6jN587eKi5tNgkbgdzc8c9fxEVY8wapump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/51225"
-  },
-  {
-   "t": "2026-10-31T21:54:00.638Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "ANAKIN: LP status unknown; top-10 share unknown",
-   "mint": "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/51226"
-  },
-  {
-   "t": "2026-10-31T14:42:03.150Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "PUMPE: top-10 share unknown",
-   "mint": "7Nr1NvVdsczHyLsVT1z3uAJ1tLBL7n6PkP8fYkFbpump",
-   "source": "SmugCalls https://t.me/SmugCalls/23033"
   }
  ]
 }

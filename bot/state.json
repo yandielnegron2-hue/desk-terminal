@@ -3,6 +3,30 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-08T19:11:41.573Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "ASI: LP status unknown; top-10 share unknown; liq $2 < $10000",
+   "mint": "E2nKLEbnSSd85ssJg4JYmHwD1VAtWncZwdF8hU9Rpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24476"
+  },
+  {
+   "t": "2026-11-08T19:11:33.067Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "FOMO: top-10 share unknown; liquidity unknown",
+   "mint": "FqUCVJTkjrLXFnYy7UFV3uAvAuJqi3Fhwna14iAQpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24477"
+  },
+  {
+   "t": "2026-11-08T19:11:24.523Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "NIGOOR: top-10 share unknown; liquidity unknown",
+   "mint": "2NNMnL71YRqvnkA1TPmJLawtnJW857Nvk6qauybxpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24478"
+  },
+  {
    "t": "2026-11-07T22:24:46.746Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1554,8 +1578,11 @@
   "41nYSc3pw5muecejM7DzX6qt7BfNTap3Jsivj4HWpump": "2026-11-07T14:13:46+00:00",
   "EopXvR28cgVDQMyMfAss1hWRsyVnKrJ4Hc1xGB9cpump": "2026-11-07T18:52:24+00:00",
   "HgqPNSwQxSYkMADaHDCV1N8qBPhbtgUKDLQJqCBqVLXc": "2026-11-07T18:40:01+00:00",
-  "Weo9K9hAjdkWUQhrTFx1abfr9CZMrEPbQ2oQiwTpump": "2026-11-07T22:17:32+00:00"
+  "Weo9K9hAjdkWUQhrTFx1abfr9CZMrEPbQ2oQiwTpump": "2026-11-07T22:17:32+00:00",
+  "2NNMnL71YRqvnkA1TPmJLawtnJW857Nvk6qauybxpump": "2026-11-08T19:09:06+00:00",
+  "FqUCVJTkjrLXFnYy7UFV3uAvAuJqi3Fhwna14iAQpump": "2026-11-08T19:03:31+00:00",
+  "E2nKLEbnSSd85ssJg4JYmHwD1VAtWncZwdF8hU9Rpump": "2026-11-08T19:01:59+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-08T14:44:39.023Z"
+ "lastRun": "2026-11-08T19:11:41.874Z"
 }
