@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-09T02:07:08.521Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "CASINO: top-10 share unknown; liq $3398 < $10000",
+   "mint": "5FfEceyXftoiEDXQhoJYHw4PrADxG2SUnDRYb3LCpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24510"
+  },
+  {
    "t": "2026-11-08T22:52:36.189Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1420,7 +1428,7 @@
   }
  ],
  "consecutiveLosses": 0,
- "day": "2026-11-08",
+ "day": "2026-11-09",
  "dayStartBook": 1,
  "seen": {
   "2h6No4wqsn2ckqsWR2JFp1wMF5fiKuJinEQPneT9mdn3": "2026-10-28T03:33:26+00:00",
@@ -1599,8 +1607,9 @@
   "FqUCVJTkjrLXFnYy7UFV3uAvAuJqi3Fhwna14iAQpump": "2026-11-08T19:03:31+00:00",
   "E2nKLEbnSSd85ssJg4JYmHwD1VAtWncZwdF8hU9Rpump": "2026-11-08T19:01:59+00:00",
   "HcgPrnK34imBSCzwag6pmmcSHzKcMbon7W8hicEvpump": "2026-11-08T22:47:30+00:00",
-  "EW1b9rcLAJe634mgxb5r4bVYxDoGU37o7YazBzjTpump": "2026-11-08T22:39:57+00:00"
+  "EW1b9rcLAJe634mgxb5r4bVYxDoGU37o7YazBzjTpump": "2026-11-08T22:39:57+00:00",
+  "5FfEceyXftoiEDXQhoJYHw4PrADxG2SUnDRYb3LCpump": "2026-11-09T02:00:13+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-08T22:52:36.489Z"
+ "lastRun": "2026-11-09T02:07:08.822Z"
 }
