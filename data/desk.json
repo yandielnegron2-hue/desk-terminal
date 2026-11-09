@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T09:40:22.448Z",
+ "updated": "2026-11-09T20:06:31.659Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 2,
+ "feedLagSec": 3,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,38 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-09T20:06:31.359Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Hannah: top-10 share unknown; liquidity unknown",
+   "mint": "5XWYPEYn7x9q9ipLt8qgUZ6ppDgGtcdW7u7bVzLPpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24629"
+  },
+  {
+   "t": "2026-11-09T20:06:22.256Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "CAP: top-10 share unknown; liquidity unknown",
+   "mint": "DXPLiLoo4bHVD32BJcHJRK4Wt1nznNLuUWwsQb94pump",
+   "source": "SmugCalls https://t.me/SmugCalls/24630"
+  },
+  {
+   "t": "2026-11-09T20:06:12.376Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Hannah: top-10 share unknown; liquidity unknown",
+   "mint": "8hUsiDAhQi6rh6B9cvsz5ARGLZo6GDxtpMYAy3fnpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24631"
+  },
+  {
+   "t": "2026-11-09T20:06:03.446Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "NOTI: top-10 share unknown; liquidity unknown",
+   "mint": "A37HJVw24bspmfGzMaYxZMPcJSr7HdeP9cuE8DrXpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24632"
+  },
   {
    "t": "2026-11-09T02:07:08.521Z",
    "mode": "PAPER",
@@ -488,38 +520,6 @@
    "msg": "WWIII: top-10 share unknown",
    "mint": "GD52VfoPZdad4hiNPg4UnjtDGsS4WiM3mqS8j1czpump",
    "source": "SmugCalls https://t.me/SmugCalls/23331"
-  },
-  {
-   "t": "2026-11-02T01:37:11.873Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "meme: top-10 share unknown; liquidity unknown",
-   "mint": "bA27YvxnoNDD52PHXPHqyK9sRfK1NgvNLuK8abJpump",
-   "source": "SmugCalls https://t.me/SmugCalls/23292"
-  },
-  {
-   "t": "2026-11-01T22:23:45.949Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "ANAKINCORE: top-10 share unknown",
-   "mint": "EZZ4WS7XXKgWP2btL2iTjHz4of9PT16tCDMd1LTCpump",
-   "source": "SmugCalls https://t.me/SmugCalls/23258"
-  },
-  {
-   "t": "2026-11-01T22:23:37.455Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Mincho: top-10 share unknown; liquidity unknown",
-   "mint": "5PnZ5fABMzyYh8M2t8BAwrbbrGo9TUh2oh1NZjnspump",
-   "source": "SmugCalls https://t.me/SmugCalls/23259"
-  },
-  {
-   "t": "2026-11-01T22:23:28.712Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Peanut: top-10 share unknown; liquidity unknown",
-   "mint": "GABQewqvS95cMcBi7aKk8kWTDT3QWZzDoTsq9WCbpump",
-   "source": "SmugCalls https://t.me/SmugCalls/23260"
   }
  ]
 }
