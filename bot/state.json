@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-10T10:25:34.018Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Monkichi: top-10 share unknown; liquidity unknown",
+   "mint": "7fkywq6GPYZvMgSCZbjMXqgc6TxdovF8ntoLVVT8pump",
+   "source": "SmugCalls https://t.me/SmugCalls/24716"
+  },
+  {
+   "t": "2026-11-10T10:25:25.162Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Osaru: top-10 share unknown; liquidity unknown",
+   "mint": "BcqtcKE8vXXdmdgTRpCfMcSD8LQ4GfNm48M1Kxvupump",
+   "source": "SmugCalls https://t.me/SmugCalls/24717"
+  },
+  {
    "t": "2026-11-10T02:41:13.429Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1662,8 +1678,10 @@
   "DXPLiLoo4bHVD32BJcHJRK4Wt1nznNLuUWwsQb94pump": "2026-11-09T19:54:29+00:00",
   "5XWYPEYn7x9q9ipLt8qgUZ6ppDgGtcdW7u7bVzLPpump": "2026-11-09T19:52:47+00:00",
   "7KHPUn4Cg7YMjsfHHx88BJNE2zYmkykejhTXLjHHpump": "2026-11-10T02:27:25+00:00",
-  "BUDq7sSvZtfMAaNB9LL4zx6fqMN3aZm6dS1B17wHpump": "2026-11-10T02:26:25+00:00"
+  "BUDq7sSvZtfMAaNB9LL4zx6fqMN3aZm6dS1B17wHpump": "2026-11-10T02:26:25+00:00",
+  "BcqtcKE8vXXdmdgTRpCfMcSD8LQ4GfNm48M1Kxvupump": "2026-11-10T10:19:25+00:00",
+  "7fkywq6GPYZvMgSCZbjMXqgc6TxdovF8ntoLVVT8pump": "2026-11-10T10:17:04+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-10T02:41:13.729Z"
+ "lastRun": "2026-11-10T10:25:34.318Z"
 }
