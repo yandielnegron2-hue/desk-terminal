@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-10T02:41:13.429Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Rapesy: LP status unknown; top-10 share unknown; liq $2 < $10000",
+   "mint": "BUDq7sSvZtfMAaNB9LL4zx6fqMN3aZm6dS1B17wHpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24689"
+  },
+  {
+   "t": "2026-11-10T02:41:04.665Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "PERKS: top-10 share unknown; liquidity unknown",
+   "mint": "7KHPUn4Cg7YMjsfHHx88BJNE2zYmkykejhTXLjHHpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24690"
+  },
+  {
    "t": "2026-11-09T20:06:31.359Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1460,7 +1476,7 @@
   }
  ],
  "consecutiveLosses": 0,
- "day": "2026-11-09",
+ "day": "2026-11-10",
  "dayStartBook": 1,
  "seen": {
   "2h6No4wqsn2ckqsWR2JFp1wMF5fiKuJinEQPneT9mdn3": "2026-10-28T03:33:26+00:00",
@@ -1644,8 +1660,10 @@
   "A37HJVw24bspmfGzMaYxZMPcJSr7HdeP9cuE8DrXpump": "2026-11-09T19:58:25+00:00",
   "8hUsiDAhQi6rh6B9cvsz5ARGLZo6GDxtpMYAy3fnpump": "2026-11-09T19:57:45+00:00",
   "DXPLiLoo4bHVD32BJcHJRK4Wt1nznNLuUWwsQb94pump": "2026-11-09T19:54:29+00:00",
-  "5XWYPEYn7x9q9ipLt8qgUZ6ppDgGtcdW7u7bVzLPpump": "2026-11-09T19:52:47+00:00"
+  "5XWYPEYn7x9q9ipLt8qgUZ6ppDgGtcdW7u7bVzLPpump": "2026-11-09T19:52:47+00:00",
+  "7KHPUn4Cg7YMjsfHHx88BJNE2zYmkykejhTXLjHHpump": "2026-11-10T02:27:25+00:00",
+  "BUDq7sSvZtfMAaNB9LL4zx6fqMN3aZm6dS1B17wHpump": "2026-11-10T02:26:25+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-09T20:06:31.659Z"
+ "lastRun": "2026-11-10T02:41:13.729Z"
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:06:31.659Z",
+ "updated": "2026-11-10T02:41:13.729Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 3,
+ "feedLagSec": 1,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,22 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-10T02:41:13.429Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Rapesy: LP status unknown; top-10 share unknown; liq $2 < $10000",
+   "mint": "BUDq7sSvZtfMAaNB9LL4zx6fqMN3aZm6dS1B17wHpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24689"
+  },
+  {
+   "t": "2026-11-10T02:41:04.665Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "PERKS: top-10 share unknown; liquidity unknown",
+   "mint": "7KHPUn4Cg7YMjsfHHx88BJNE2zYmkykejhTXLjHHpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24690"
+  },
   {
    "t": "2026-11-09T20:06:31.359Z",
    "mode": "PAPER",
@@ -504,22 +520,6 @@
    "msg": "ascend: top-10 share unknown",
    "mint": "8vFdgGFWkKS1euogVW4qmMurdnso8CPrfQNpB4qqpump",
    "source": "SmugCalls https://t.me/SmugCalls/23506"
-  },
-  {
-   "t": "2026-11-02T18:25:34.147Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "DWOG: top-10 share unknown; liquidity unknown",
-   "mint": "885Xz3LsVnSJvpDhQ9YYq3SPFEyjfy4V7KYc5exFpump",
-   "source": "SmugCalls https://t.me/SmugCalls/23447"
-  },
-  {
-   "t": "2026-11-02T08:14:57.599Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "WWIII: top-10 share unknown",
-   "mint": "GD52VfoPZdad4hiNPg4UnjtDGsS4WiM3mqS8j1czpump",
-   "source": "SmugCalls https://t.me/SmugCalls/23331"
   }
  ]
 }
