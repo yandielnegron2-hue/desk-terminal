@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-11T09:52:48.462Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "TI: top-10 share unknown",
+   "mint": "7cin51XTpSkesiZMLJvEGNXqd5DFFqSBixcvn7Ppump",
+   "source": "SmugCalls https://t.me/SmugCalls/24891"
+  },
+  {
+   "t": "2026-11-11T09:52:39.759Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "xihao: top-10 share unknown",
+   "mint": "7x3ujazwvFMvbM3akMVDHGbaXK1aDgzxQ5966seppump",
+   "source": "SmugCalls https://t.me/SmugCalls/24890"
+  },
+  {
    "t": "2026-11-11T02:45:27.374Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1725,8 +1741,10 @@
   "GRDgwZSvSvnrsFhiLnWUN1ZzLLztJTw7CiLwnkBapump": "2026-11-10T23:07:11+00:00",
   "49Mi3huGs2feAAzr8f2ssiPThgRF5PNifoGPpRUEpump": "2026-11-10T23:03:11+00:00",
   "2sZ1DPTxanDfuYHDYBhAHftf3QCC2yAkocWDtxoLpump": "2026-11-11T02:39:16+00:00",
-  "395vVrJJMST5gSeUjrci8A95Aw4zLWxY5yRP7q4Rpump": "2026-11-11T02:38:08+00:00"
+  "395vVrJJMST5gSeUjrci8A95Aw4zLWxY5yRP7q4Rpump": "2026-11-11T02:38:08+00:00",
+  "7x3ujazwvFMvbM3akMVDHGbaXK1aDgzxQ5966seppump": "2026-11-11T09:42:34+00:00",
+  "7cin51XTpSkesiZMLJvEGNXqd5DFFqSBixcvn7Ppump": "2026-11-11T09:42:34+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-11T02:45:27.674Z"
+ "lastRun": "2026-11-11T09:52:48.763Z"
 }
