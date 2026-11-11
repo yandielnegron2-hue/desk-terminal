@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T17:30:05.001Z",
+ "updated": "2026-11-11T23:38:30.712Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 1,
+ "feedLagSec": 2,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,30 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-11T23:38:30.412Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Trump: top-10 share unknown",
+   "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/52296"
+  },
+  {
+   "t": "2026-11-11T23:38:21.826Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "CHIMERA: top-10 share unknown",
+   "mint": "AqQCmcUSWt7SsNVbruq7X93VchQUSsRXE9oYaxR4pump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/52298"
+  },
+  {
+   "t": "2026-11-11T23:38:13.038Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "MAC: LP status unknown; top-10 share unknown; liq $2 < $10000",
+   "mint": "GyQu1hsWCmCvVEbmN4pnU9CyDrwD3VUmv7focdCApump",
+   "source": "SmugCalls https://t.me/SmugCalls/25012"
+  },
   {
    "t": "2026-11-11T17:30:04.701Z",
    "mode": "PAPER",
@@ -496,30 +520,6 @@
    "msg": "GRANDPA: top-10 share unknown; liquidity unknown",
    "mint": "7hp5zqyNdJbuTVMezPttjyjJA7fU2yH62CsFFErgpump",
    "source": "SmugCalls https://t.me/SmugCalls/23661"
-  },
-  {
-   "t": "2026-11-03T21:15:08.580Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "SEXBOT: top-10 share unknown",
-   "mint": "6Na6huTtPekKeeJpmtpq8mw2ZVAC2qCaRBj8KeB4pump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/51662"
-  },
-  {
-   "t": "2026-11-03T21:14:26.830Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Impeach: top-10 share unknown; liquidity unknown",
-   "mint": "F2xQeTCTqnczXxXQaBWAfDpUnpxn4wQHRPSqvUYJpump",
-   "source": "SmugCalls https://t.me/SmugCalls/23662"
-  },
-  {
-   "t": "2026-11-03T15:31:09.824Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Yolanda: LP status unknown; top-10 share unknown; liq $4 < $10000",
-   "mint": "5Gr7MVfm32bdrnYDuJth4xpCvRVPiDJ1wFCvdLTARaUa",
-   "source": "SmugCalls https://t.me/SmugCalls/23584"
   }
  ]
 }
