@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-11T17:30:04.701Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "bagwork: LP status unknown; top-10 share unknown; liq $2 < $10000",
+   "mint": "9yAraWtFreAKKATh55SQLr98jNDRwAtDDNKDFnxPpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24953"
+  },
+  {
+   "t": "2026-11-11T17:29:56.432Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Chinu: top-10 share unknown; liq $1923 < $10000",
+   "mint": "DZEFFpDSTmM1rn8f3qqyuu62qkezvfHKgKN3wYicpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24954"
+  },
+  {
    "t": "2026-11-11T09:52:48.462Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1743,8 +1759,10 @@
   "2sZ1DPTxanDfuYHDYBhAHftf3QCC2yAkocWDtxoLpump": "2026-11-11T02:39:16+00:00",
   "395vVrJJMST5gSeUjrci8A95Aw4zLWxY5yRP7q4Rpump": "2026-11-11T02:38:08+00:00",
   "7x3ujazwvFMvbM3akMVDHGbaXK1aDgzxQ5966seppump": "2026-11-11T09:42:34+00:00",
-  "7cin51XTpSkesiZMLJvEGNXqd5DFFqSBixcvn7Ppump": "2026-11-11T09:42:34+00:00"
+  "7cin51XTpSkesiZMLJvEGNXqd5DFFqSBixcvn7Ppump": "2026-11-11T09:42:34+00:00",
+  "DZEFFpDSTmM1rn8f3qqyuu62qkezvfHKgKN3wYicpump": "2026-11-11T17:22:21+00:00",
+  "9yAraWtFreAKKATh55SQLr98jNDRwAtDDNKDFnxPpump": "2026-11-11T17:18:12+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-11T09:52:48.763Z"
+ "lastRun": "2026-11-11T17:30:05.001Z"
 }

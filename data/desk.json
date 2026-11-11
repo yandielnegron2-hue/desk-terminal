@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T09:52:48.763Z",
+ "updated": "2026-11-11T17:30:05.001Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 2,
+ "feedLagSec": 1,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,22 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-11T17:30:04.701Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "bagwork: LP status unknown; top-10 share unknown; liq $2 < $10000",
+   "mint": "9yAraWtFreAKKATh55SQLr98jNDRwAtDDNKDFnxPpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24953"
+  },
+  {
+   "t": "2026-11-11T17:29:56.432Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Chinu: top-10 share unknown; liq $1923 < $10000",
+   "mint": "DZEFFpDSTmM1rn8f3qqyuu62qkezvfHKgKN3wYicpump",
+   "source": "SmugCalls https://t.me/SmugCalls/24954"
+  },
   {
    "t": "2026-11-11T09:52:48.462Z",
    "mode": "PAPER",
@@ -504,22 +520,6 @@
    "msg": "Yolanda: LP status unknown; top-10 share unknown; liq $4 < $10000",
    "mint": "5Gr7MVfm32bdrnYDuJth4xpCvRVPiDJ1wFCvdLTARaUa",
    "source": "SmugCalls https://t.me/SmugCalls/23584"
-  },
-  {
-   "t": "2026-11-03T15:31:01.455Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "LUCIA: top-10 share unknown",
-   "mint": "Cbtnpg6SL9jvZxtZTYYFPtVQXkuuqSUxCU5aXeTkpump",
-   "source": "SmugCalls https://t.me/SmugCalls/23585"
-  },
-  {
-   "t": "2026-11-03T15:30:53.014Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "PMT: top-10 share unknown; liq $2170 < $10000",
-   "mint": "96dzMNxHP2eJdpBr8VfR719PnQyStE31pMVTgXc6pump",
-   "source": "SmugCalls https://t.me/SmugCalls/23586"
   }
  ]
 }
