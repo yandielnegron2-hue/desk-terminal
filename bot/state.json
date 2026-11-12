@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-12T12:40:32.257Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Saba: LP status unknown; top-10 share unknown; liq $2 < $10000",
+   "mint": "BoRxbDjWSAWnrS1mRCktwdENugAorGzw9dspKWuXpump",
+   "source": "SmugCalls https://t.me/SmugCalls/25085"
+  },
+  {
    "t": "2026-11-11T23:38:30.412Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1788,8 +1796,9 @@
   "9yAraWtFreAKKATh55SQLr98jNDRwAtDDNKDFnxPpump": "2026-11-11T17:18:12+00:00",
   "GyQu1hsWCmCvVEbmN4pnU9CyDrwD3VUmv7focdCApump": "2026-11-11T23:27:43+00:00",
   "AqQCmcUSWt7SsNVbruq7X93VchQUSsRXE9oYaxR4pump": "2026-11-11T23:26:25+00:00",
-  "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump": "2026-11-11T23:23:34+00:00"
+  "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump": "2026-11-11T23:23:34+00:00",
+  "BoRxbDjWSAWnrS1mRCktwdENugAorGzw9dspKWuXpump": "2026-11-12T12:31:30+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-12T04:11:04.824Z"
+ "lastRun": "2026-11-12T12:40:32.559Z"
 }

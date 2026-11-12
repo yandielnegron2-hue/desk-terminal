@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T04:11:04.824Z",
+ "updated": "2026-11-12T12:40:32.559Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 1,
+ "feedLagSec": 2,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-12T12:40:32.257Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Saba: LP status unknown; top-10 share unknown; liq $2 < $10000",
+   "mint": "BoRxbDjWSAWnrS1mRCktwdENugAorGzw9dspKWuXpump",
+   "source": "SmugCalls https://t.me/SmugCalls/25085"
+  },
   {
    "t": "2026-11-11T23:38:30.412Z",
    "mode": "PAPER",
@@ -512,14 +520,6 @@
    "msg": "HOPE: LP status unknown; top-10 share unknown; liq $6 < $10000",
    "mint": "5Q9ZuSyEDFVdbvp1Z5gZ5HQbp2nU2jB1ZR25JHHBUtKW",
    "source": "SmugCalls https://t.me/SmugCalls/23660"
-  },
-  {
-   "t": "2026-11-03T21:15:17.835Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "GRANDPA: top-10 share unknown; liquidity unknown",
-   "mint": "7hp5zqyNdJbuTVMezPttjyjJA7fU2yH62CsFFErgpump",
-   "source": "SmugCalls https://t.me/SmugCalls/23661"
   }
  ]
 }
