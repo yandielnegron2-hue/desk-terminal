@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T01:20:25.904Z",
+ "updated": "2026-11-13T08:10:05.554Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 1,
+ "feedLagSec": 2,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-13T08:10:05.254Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "HATCH: top-10 share unknown",
+   "mint": "46r5vJSK4vZWvU4roBXoQYoBZE8d4nmN3b6wRa6Gpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/52427"
+  },
   {
    "t": "2026-11-13T01:20:25.603Z",
    "mode": "PAPER",
@@ -512,14 +520,6 @@
    "msg": "TRUMPED: top-10 share unknown; liquidity unknown",
    "mint": "6AFQqDpb61CmAWwLWhE5heZPefpGvqU12ZEFzLZLpump",
    "source": "SmugCalls https://t.me/SmugCalls/23795"
-  },
-  {
-   "t": "2026-11-04T15:45:11.965Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Blunami: top-10 share unknown; liquidity unknown",
-   "mint": "D7esFpu7mf5ny8yMmo9a9ZzWYQXEwHoGFpTgD9EEpump",
-   "source": "SmugCalls https://t.me/SmugCalls/23796"
   }
  ]
 }
