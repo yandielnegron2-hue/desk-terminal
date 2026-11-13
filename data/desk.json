@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T20:27:14.795Z",
+ "updated": "2026-11-13T01:20:25.904Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,30 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-13T01:20:25.603Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "SA: top-10 share unknown; liquidity unknown",
+   "mint": "GWecAdBcFHJCqpeQFuw31vtCriUZrHYeMUQ9YP2w6keS",
+   "source": "SmugCalls https://t.me/SmugCalls/25210"
+  },
+  {
+   "t": "2026-11-13T01:20:16.917Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Panda: top-10 share unknown",
+   "mint": "Ee22wrmzUPH254tuYZ41NiejuHxV65vY8ske779Gpump",
+   "source": "SmugCalls https://t.me/SmugCalls/25212"
+  },
+  {
+   "t": "2026-11-13T01:20:08.044Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Rocky: top-10 share unknown; liquidity unknown",
+   "mint": "B76dPMG2Gj1uMzk9Jf8efZcAesLUwNtFDBFdcZtXpump",
+   "source": "SmugCalls https://t.me/SmugCalls/25213"
+  },
   {
    "t": "2026-11-12T20:27:14.495Z",
    "mode": "PAPER",
@@ -496,30 +520,6 @@
    "msg": "Blunami: top-10 share unknown; liquidity unknown",
    "mint": "D7esFpu7mf5ny8yMmo9a9ZzWYQXEwHoGFpTgD9EEpump",
    "source": "SmugCalls https://t.me/SmugCalls/23796"
-  },
-  {
-   "t": "2026-11-04T15:45:01.719Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "tremp: top-10 share unknown",
-   "mint": "82BH9WFmtsJGRCdW147cM24K6X8kAkUx2jSd2NyRLfv6",
-   "source": "SmugCalls https://t.me/SmugCalls/23797"
-  },
-  {
-   "t": "2026-11-04T15:44:51.750Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Ritchie: top-10 share unknown; liquidity unknown",
-   "mint": "GvSrwMbkcFWepFqF6bg6WKVWXAQ55chFt2GKeR9ppump",
-   "source": "SmugCalls https://t.me/SmugCalls/23798"
-  },
-  {
-   "t": "2026-11-04T15:44:42.903Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "donkey: top-10 share unknown",
-   "mint": "9YZ8c8v91Dn6GnS8Lxd2gBjCCoBxyyeq29CnzcPxpump",
-   "source": "SmugCalls https://t.me/SmugCalls/23799"
   }
  ]
 }
