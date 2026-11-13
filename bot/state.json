@@ -3,6 +3,38 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-13T22:00:44.375Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "CYBER: top-10 share unknown; liquidity unknown",
+   "mint": "mHBNqnUU9paYEV8HUmemYvbeUT55dTou1tCr1Lvpump",
+   "source": "SmugCalls https://t.me/SmugCalls/25390"
+  },
+  {
+   "t": "2026-11-13T22:00:36.083Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "CYBER: LP status unknown; top-10 share unknown; liq $2 < $10000",
+   "mint": "4cSD3ZBfJtnb3ueroDzCzPiVMCch4BRosLNDnEnXpump",
+   "source": "SmugCalls https://t.me/SmugCalls/25391"
+  },
+  {
+   "t": "2026-11-13T22:00:27.854Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "SI: top-10 share unknown; liquidity unknown",
+   "mint": "GdukYtVz7rBJu6Nxp52zsJqVNFEJyjTuVHHDzooMpump",
+   "source": "SmugCalls https://t.me/SmugCalls/25392"
+  },
+  {
+   "t": "2026-11-13T22:00:19.674Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "KOSMIK: top-10 share unknown",
+   "mint": "BApgNbjD25PHFft8WNATeL6gwpFFucEn5VBg2VHDpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/52495"
+  },
+  {
    "t": "2026-11-13T08:10:05.254Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1569,38 +1601,6 @@
    "msg": "Invisible: top-10 share unknown",
    "mint": "2HcvsX12NyuLnhDXoU6yWL2XLcr3snCTQ7RhqVmZuCgr",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/50648"
-  },
-  {
-   "t": "2026-10-28T07:26:03.662Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "teledrop: top-10 share unknown",
-   "mint": "FgsSTazXwy4pxjrNMuzsQbEPbYPjAW17pAN8dfRHpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50649"
-  },
-  {
-   "t": "2026-10-28T07:25:55.142Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "GROKBOT: top-10 share unknown",
-   "mint": "4bjMPgeJYCUD1A44RJ4DHFY188SCd9vrMd6u71PDpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50650"
-  },
-  {
-   "t": "2026-10-28T06:21:10.017Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "RAYCAT: LP status unknown; top-10 share unknown",
-   "mint": "GcumZadLqEiWzB2VLVr6WgZwqcN4Deg51S3bxR4UWmzh",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50638"
-  },
-  {
-   "t": "2026-10-28T05:46:08.903Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Vibe: top-10 share unknown",
-   "mint": "FixpvmWbF2AkdMD65jbgdky9G1Zkoq7SLySyGucipump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50636"
   }
  ],
  "consecutiveLosses": 0,
@@ -1813,8 +1813,12 @@
   "B76dPMG2Gj1uMzk9Jf8efZcAesLUwNtFDBFdcZtXpump": "2026-11-13T01:19:20+00:00",
   "Ee22wrmzUPH254tuYZ41NiejuHxV65vY8ske779Gpump": "2026-11-13T01:19:03+00:00",
   "GWecAdBcFHJCqpeQFuw31vtCriUZrHYeMUQ9YP2w6keS": "2026-11-13T01:16:32+00:00",
-  "46r5vJSK4vZWvU4roBXoQYoBZE8d4nmN3b6wRa6Gpump": "2026-11-13T08:05:56+00:00"
+  "46r5vJSK4vZWvU4roBXoQYoBZE8d4nmN3b6wRa6Gpump": "2026-11-13T08:05:56+00:00",
+  "BApgNbjD25PHFft8WNATeL6gwpFFucEn5VBg2VHDpump": "2026-11-13T21:59:18+00:00",
+  "GdukYtVz7rBJu6Nxp52zsJqVNFEJyjTuVHHDzooMpump": "2026-11-13T21:50:39+00:00",
+  "4cSD3ZBfJtnb3ueroDzCzPiVMCch4BRosLNDnEnXpump": "2026-11-13T21:47:58+00:00",
+  "mHBNqnUU9paYEV8HUmemYvbeUT55dTou1tCr1Lvpump": "2026-11-13T21:47:32+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-13T16:16:30.629Z"
+ "lastRun": "2026-11-13T22:00:44.676Z"
 }
