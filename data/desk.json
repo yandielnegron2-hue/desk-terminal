@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T15:25:46.220Z",
+ "updated": "2026-11-14T20:00:22.826Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 2,
+ "feedLagSec": 1,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,30 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-14T20:00:22.525Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "CATCOIN: top-10 share unknown; liquidity unknown",
+   "mint": "7jGNmR9eTbRkyVeYSuEumJubCHjG27mx8MomoNB5pump",
+   "source": "SmugCalls https://t.me/SmugCalls/25575"
+  },
+  {
+   "t": "2026-11-14T20:00:14.328Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "WOJAK: top-10 share unknown; liq $1531 < $10000",
+   "mint": "CisKjUE5PaZeGC69PAER2e9GX49jJZkp5WBDJqcxpump",
+   "source": "SmugCalls https://t.me/SmugCalls/25576"
+  },
+  {
+   "t": "2026-11-14T20:00:06.139Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "LOS: top-10 share unknown",
+   "mint": "YVKBLjpuUHyxBwECzdFDH1FSvHFR6H91uf6UPMm8LoS",
+   "source": "SmugCalls https://t.me/SmugCalls/25577"
+  },
   {
    "t": "2026-11-14T15:25:45.918Z",
    "mode": "PAPER",
@@ -496,30 +520,6 @@
    "msg": "bracket: top-10 share unknown; liq $9168 < $10000",
    "mint": "EFWotn2UtV2c5QXMMHbSzmyrkU7wnfj7VpkNQGr1wk1z",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/51975"
-  },
-  {
-   "t": "2026-11-06T16:57:32.026Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Yumi: top-10 share unknown; liquidity unknown",
-   "mint": "A4zWP3c4JqSrfqJf9eeQJmZ9ab5XDhbi8zKncDz9eQgx",
-   "source": "SmugCalls https://t.me/SmugCalls/24179"
-  },
-  {
-   "t": "2026-11-06T02:34:29.585Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "DEGEN: top-10 share unknown",
-   "mint": "Dk2iHPgeStfACECMbmigRRcDtP8yzfTjdHnMq7hqpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/51917"
-  },
-  {
-   "t": "2026-11-05T22:19:52.527Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "NEARFUN: top-10 share unknown; liquidity unknown",
-   "mint": "nearFUCFULHhJy2iyJUkAHqxHcEn4La8PbAH1coy5dS",
-   "source": "SmugCalls https://t.me/SmugCalls/24046"
   }
  ]
 }
