@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T10:44:53.331Z",
+ "updated": "2026-11-15T17:26:50.129Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 2,
+ "feedLagSec": 1,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,30 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-15T17:26:49.829Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "meme: top-10 share unknown; liquidity unknown",
+   "mint": "Bt6982gyWB3T17poKRvqsR5GaMGCq1Y7fLYf4bgVpump",
+   "source": "SmugCalls https://t.me/SmugCalls/25721"
+  },
+  {
+   "t": "2026-11-15T17:26:39.032Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "MEME: top-10 share unknown; liquidity unknown",
+   "mint": "2iNUHK3L2r8iYZagY2iCqQVkKmPBnEe1nJEq9cPKpump",
+   "source": "SmugCalls https://t.me/SmugCalls/25722"
+  },
+  {
+   "t": "2026-11-15T17:26:20.148Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "NYAJIRA: top-10 share unknown",
+   "mint": "8cWGfiHyKqxgLrLtkPt2NnLkSUV2JbcLBf4RN6Fapump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/52676"
+  },
   {
    "t": "2026-11-14T20:00:22.525Z",
    "mode": "PAPER",
@@ -496,30 +520,6 @@
    "msg": "GRUB: top-10 share unknown; liquidity unknown",
    "mint": "upiojuije7aWZw88LaMe6KwSrV8Lzy9SWu7bht8pump",
    "source": "SmugCalls https://t.me/SmugCalls/24176"
-  },
-  {
-   "t": "2026-11-06T16:57:57.837Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Xiaoman: top-10 share unknown; liquidity unknown",
-   "mint": "HoLvxG8WTXCCZPHFhY77vPB38kqHKXgLJsBk2vGipump",
-   "source": "SmugCalls https://t.me/SmugCalls/24177"
-  },
-  {
-   "t": "2026-11-06T16:57:49.088Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Habibi: top-10 share unknown; liquidity unknown",
-   "mint": "BC7q32LH2pCawt8EvRoATC8J7kM4aSW3PNQpC21Gpump",
-   "source": "SmugCalls https://t.me/SmugCalls/24178"
-  },
-  {
-   "t": "2026-11-06T16:57:40.516Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "bracket: top-10 share unknown; liq $9168 < $10000",
-   "mint": "EFWotn2UtV2c5QXMMHbSzmyrkU7wnfj7VpkNQGr1wk1z",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/51975"
   }
  ]
 }

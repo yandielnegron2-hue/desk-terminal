@@ -3,6 +3,30 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-15T17:26:49.829Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "meme: top-10 share unknown; liquidity unknown",
+   "mint": "Bt6982gyWB3T17poKRvqsR5GaMGCq1Y7fLYf4bgVpump",
+   "source": "SmugCalls https://t.me/SmugCalls/25721"
+  },
+  {
+   "t": "2026-11-15T17:26:39.032Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "MEME: top-10 share unknown; liquidity unknown",
+   "mint": "2iNUHK3L2r8iYZagY2iCqQVkKmPBnEe1nJEq9cPKpump",
+   "source": "SmugCalls https://t.me/SmugCalls/25722"
+  },
+  {
+   "t": "2026-11-15T17:26:20.148Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "NYAJIRA: top-10 share unknown",
+   "mint": "8cWGfiHyKqxgLrLtkPt2NnLkSUV2JbcLBf4RN6Fapump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/52676"
+  },
+  {
    "t": "2026-11-14T20:00:22.525Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1577,30 +1601,6 @@
    "msg": "CA: top-10 share unknown",
    "mint": "HfPVTUsSd55Aab6BACWCy6dXo5pQgTUFnyGzgspFpump",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/50659"
-  },
-  {
-   "t": "2026-10-28T09:06:28.243Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "OpenBot: top-10 share unknown; liq $4976 < $10000",
-   "mint": "APYhnVUJLgTyWWVtBhJ6sAHzymD7FyrrnKBd3TaSpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50658"
-  },
-  {
-   "t": "2026-10-28T09:06:19.837Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "bot: top-10 share unknown; liquidity unknown",
-   "mint": "7hAZtqAonysMFSASSGLnW3kvin8nfSLzh1ZYHBjapump",
-   "source": "SmugCalls https://t.me/SmugCalls/22669"
-  },
-  {
-   "t": "2026-10-28T08:17:48.928Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "BLACKTOBER: top-10 share unknown",
-   "mint": "5LMyiFBjSRVdMYngdAEiGWzEZMTDMUftpZ5J2Erdpump",
-   "source": "SmugCalls https://t.me/SmugCalls/22660"
   }
  ],
  "consecutiveLosses": 0,
@@ -1823,8 +1823,11 @@
   "8JNcbK2bWFxQnZsR6xQtgB3en7DcFSXW5xSyh6fYpump": "2026-11-14T15:22:25+00:00",
   "YVKBLjpuUHyxBwECzdFDH1FSvHFR6H91uf6UPMm8LoS": "2026-11-14T19:51:47+00:00",
   "CisKjUE5PaZeGC69PAER2e9GX49jJZkp5WBDJqcxpump": "2026-11-14T19:45:07+00:00",
-  "7jGNmR9eTbRkyVeYSuEumJubCHjG27mx8MomoNB5pump": "2026-11-14T19:45:02+00:00"
+  "7jGNmR9eTbRkyVeYSuEumJubCHjG27mx8MomoNB5pump": "2026-11-14T19:45:02+00:00",
+  "8cWGfiHyKqxgLrLtkPt2NnLkSUV2JbcLBf4RN6Fapump": "2026-11-15T17:16:38+00:00",
+  "2iNUHK3L2r8iYZagY2iCqQVkKmPBnEe1nJEq9cPKpump": "2026-11-15T17:15:58+00:00",
+  "Bt6982gyWB3T17poKRvqsR5GaMGCq1Y7fLYf4bgVpump": "2026-11-15T17:13:21+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-15T10:44:53.331Z"
+ "lastRun": "2026-11-15T17:26:50.129Z"
 }
