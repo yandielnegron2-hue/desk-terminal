@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T02:09:02.203Z",
+ "updated": "2026-11-17T10:38:57.564Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 2,
+ "feedLagSec": 1,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-17T10:38:57.264Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Millionaires: top-10 share unknown",
+   "mint": "CMHDMepwM1pAuNr3YXFkMvyLT3J8GCq2RafufpKypump",
+   "source": "SmugCalls https://t.me/SmugCalls/26128"
+  },
   {
    "t": "2026-11-16T18:51:37.138Z",
    "mode": "PAPER",
@@ -512,14 +520,6 @@
    "msg": "NIGOOR: top-10 share unknown; liquidity unknown",
    "mint": "2NNMnL71YRqvnkA1TPmJLawtnJW857Nvk6qauybxpump",
    "source": "SmugCalls https://t.me/SmugCalls/24478"
-  },
-  {
-   "t": "2026-11-07T22:24:46.746Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "迷因币: top-10 share unknown; liq $5504 < $10000",
-   "mint": "Weo9K9hAjdkWUQhrTFx1abfr9CZMrEPbQ2oQiwTpump",
-   "source": "SmugCalls https://t.me/SmugCalls/24363"
   }
  ]
 }

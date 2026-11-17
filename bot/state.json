@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-17T10:38:57.264Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Millionaires: top-10 share unknown",
+   "mint": "CMHDMepwM1pAuNr3YXFkMvyLT3J8GCq2RafufpKypump",
+   "source": "SmugCalls https://t.me/SmugCalls/26128"
+  },
+  {
    "t": "2026-11-16T18:51:37.138Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1593,14 +1601,6 @@
    "msg": "ORBIT: LP status unknown; top-10 share unknown",
    "mint": "4cgxw6qo2JC9BJ1D2rQfA35mCGMkReYc39nravbjXFwE",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/50694"
-  },
-  {
-   "t": "2026-10-28T14:22:32.872Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Waddle: top-10 share unknown; liquidity unknown",
-   "mint": "BJa1h6yp3wKTc36y4iAdaSSGwRXEHTsvqECxVkhQpump",
-   "source": "SmugCalls https://t.me/SmugCalls/22697"
   }
  ],
  "consecutiveLosses": 0,
@@ -1837,8 +1837,9 @@
   "D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump": "2026-11-16T18:45:31+00:00",
   "4V9KeieRHKJ4CwqNyqk7Mp6FFZh89N4pEQVkdksQPW6Y": "2026-11-16T18:39:46+00:00",
   "EcVKznh4T4mfSLggp7QWbvXiKicy3Ev9f3nk3kqHpump": "2026-11-16T18:38:31+00:00",
-  "p8nDohoNjAZCXriH4MacnD8BYZ8Njqj1nMDHQXcpump": "2026-11-16T18:35:46+00:00"
+  "p8nDohoNjAZCXriH4MacnD8BYZ8Njqj1nMDHQXcpump": "2026-11-16T18:35:46+00:00",
+  "CMHDMepwM1pAuNr3YXFkMvyLT3J8GCq2RafufpKypump": "2026-11-17T10:36:56+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-17T02:09:02.203Z"
+ "lastRun": "2026-11-17T10:38:57.564Z"
 }
