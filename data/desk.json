@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:02:42.886Z",
+ "updated": "2026-11-19T00:13:55.161Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,22 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-19T00:13:54.860Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "NASDUCK: top-10 share unknown",
+   "mint": "7qgvmEdQSp5xhAss5efBRgCgywe1PRGMgb9ZAJsBpump",
+   "source": "PumpPillSignals https://t.me/PumpPillSignals/53064"
+  },
+  {
+   "t": "2026-11-19T00:13:46.403Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "GTA: LP status unknown; top-10 share unknown; liq $3 < $10000",
+   "mint": "F28Qa5D56ko5n7te3Km7W52qkvKUF3XAe7X9wpvjpump",
+   "source": "SmugCalls https://t.me/SmugCalls/26427"
+  },
   {
    "t": "2026-11-18T18:02:42.587Z",
    "mode": "PAPER",
@@ -504,22 +520,6 @@
    "msg": "Hannah: top-10 share unknown; liquidity unknown",
    "mint": "5XWYPEYn7x9q9ipLt8qgUZ6ppDgGtcdW7u7bVzLPpump",
    "source": "SmugCalls https://t.me/SmugCalls/24629"
-  },
-  {
-   "t": "2026-11-09T20:06:22.256Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "CAP: top-10 share unknown; liquidity unknown",
-   "mint": "DXPLiLoo4bHVD32BJcHJRK4Wt1nznNLuUWwsQb94pump",
-   "source": "SmugCalls https://t.me/SmugCalls/24630"
-  },
-  {
-   "t": "2026-11-09T20:06:12.376Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Hannah: top-10 share unknown; liquidity unknown",
-   "mint": "8hUsiDAhQi6rh6B9cvsz5ARGLZo6GDxtpMYAy3fnpump",
-   "source": "SmugCalls https://t.me/SmugCalls/24631"
   }
  ]
 }
