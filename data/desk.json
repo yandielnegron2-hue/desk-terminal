@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:28:01.579Z",
+ "updated": "2026-11-19T16:43:12.614Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 2,
+ "feedLagSec": 1,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,22 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-19T16:43:12.313Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "3: LP status unknown; top-10 share unknown; liq $3 < $10000",
+   "mint": "GXZLK9o2HvSNocucpkPppSBBHsT16W9ntnJVTLCj9Nui",
+   "source": "SmugCalls https://t.me/SmugCalls/26490"
+  },
+  {
+   "t": "2026-11-19T16:43:03.751Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "NI: top-10 share unknown; liquidity unknown",
+   "mint": "2kYqgC7N2MJ5qZFZStCFjuusuW5Q6143mfuhiduKpump",
+   "source": "SmugCalls https://t.me/SmugCalls/26491"
+  },
   {
    "t": "2026-11-19T07:28:01.279Z",
    "mode": "PAPER",
@@ -504,22 +520,6 @@
    "msg": "Osaru: top-10 share unknown; liquidity unknown",
    "mint": "BcqtcKE8vXXdmdgTRpCfMcSD8LQ4GfNm48M1Kxvupump",
    "source": "SmugCalls https://t.me/SmugCalls/24717"
-  },
-  {
-   "t": "2026-11-10T02:41:13.429Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Rapesy: LP status unknown; top-10 share unknown; liq $2 < $10000",
-   "mint": "BUDq7sSvZtfMAaNB9LL4zx6fqMN3aZm6dS1B17wHpump",
-   "source": "SmugCalls https://t.me/SmugCalls/24689"
-  },
-  {
-   "t": "2026-11-10T02:41:04.665Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "PERKS: top-10 share unknown; liquidity unknown",
-   "mint": "7KHPUn4Cg7YMjsfHHx88BJNE2zYmkykejhTXLjHHpump",
-   "source": "SmugCalls https://t.me/SmugCalls/24690"
   }
  ]
 }
