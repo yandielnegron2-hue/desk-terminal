@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T16:43:12.614Z",
+ "updated": "2026-11-19T23:14:43.866Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 1,
+ "feedLagSec": 2,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-19T23:14:43.565Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "GTA6IRL: top-10 share unknown; liquidity unknown",
+   "mint": "92Nww6JrhLMbtNMv4Nu3kGLEUFsnKFtMVv6mqmiWpump",
+   "source": "SmugCalls https://t.me/SmugCalls/26566"
+  },
   {
    "t": "2026-11-19T16:43:12.313Z",
    "mode": "PAPER",
@@ -512,14 +520,6 @@
    "msg": "Monkichi: top-10 share unknown; liquidity unknown",
    "mint": "7fkywq6GPYZvMgSCZbjMXqgc6TxdovF8ntoLVVT8pump",
    "source": "SmugCalls https://t.me/SmugCalls/24716"
-  },
-  {
-   "t": "2026-11-10T10:25:25.162Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Osaru: top-10 share unknown; liquidity unknown",
-   "mint": "BcqtcKE8vXXdmdgTRpCfMcSD8LQ4GfNm48M1Kxvupump",
-   "source": "SmugCalls https://t.me/SmugCalls/24717"
   }
  ]
 }
