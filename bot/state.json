@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-19T07:28:01.279Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "IRL: top-10 share unknown; liq $8611 < $10000",
+   "mint": "AP77Ja9RP2EqTtau8rAzwb8b1yGUonk7cbv4hSv3pump",
+   "source": "SmugCalls https://t.me/SmugCalls/26455"
+  },
+  {
    "t": "2026-11-19T00:13:54.860Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1593,14 +1601,6 @@
    "msg": "PINGU: top-10 share unknown",
    "mint": "2mKPFrgUrmbPX7zBRnWg4RzY5dnAENH42Us5AcZtpump",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/50719"
-  },
-  {
-   "t": "2026-10-28T18:13:38.489Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "PENISINU: LP status unknown; top-10 share unknown; liq $8 < $10000",
-   "mint": "D34F5GktuotztP11hQPncAd67qEDivmguoiaTdyJCXgT",
-   "source": "SmugCalls https://t.me/SmugCalls/22713"
   }
  ],
  "consecutiveLosses": 0,
@@ -1847,8 +1847,9 @@
   "diT9yNsrUsU5QBYig7MrsguG7SLGMmhjkXLxVEvpump": "2026-11-18T17:54:01+00:00",
   "2BheWrD55Cugx63tGJN9jPCtQHeUQKs9qPjDbUhG8MvP": "2026-11-18T17:53:22+00:00",
   "F28Qa5D56ko5n7te3Km7W52qkvKUF3XAe7X9wpvjpump": "2026-11-19T00:09:38+00:00",
-  "7qgvmEdQSp5xhAss5efBRgCgywe1PRGMgb9ZAJsBpump": "2026-11-19T00:06:42+00:00"
+  "7qgvmEdQSp5xhAss5efBRgCgywe1PRGMgb9ZAJsBpump": "2026-11-19T00:06:42+00:00",
+  "AP77Ja9RP2EqTtau8rAzwb8b1yGUonk7cbv4hSv3pump": "2026-11-19T07:21:42+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-19T00:13:55.161Z"
+ "lastRun": "2026-11-19T07:28:01.579Z"
 }
