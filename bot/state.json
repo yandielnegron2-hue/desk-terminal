@@ -3,6 +3,38 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-20T20:43:05.057Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "ONODA: LP status unknown; top-10 share unknown; liq $2 < $10000",
+   "mint": "9y4sH7DevvWpEuKMKvraADnnNx1SBsun9pLCivaPR5mG",
+   "source": "SmugCalls https://t.me/SmugCalls/26740"
+  },
+  {
+   "t": "2026-11-20T20:42:56.766Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "TAIKI: top-10 share unknown; liquidity unknown",
+   "mint": "ALEneGLM6dwjiTmtvZU9TB6nooTp7RoUQKSQSQjJpump",
+   "source": "SmugCalls https://t.me/SmugCalls/26741"
+  },
+  {
+   "t": "2026-11-20T20:42:48.417Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "RAMEN: top-10 share unknown; liquidity unknown",
+   "mint": "Aw6AbzzBSEgzLMquaJDKHhYLcMt4x5Zd9Xo97xoepump",
+   "source": "SmugCalls https://t.me/SmugCalls/26742"
+  },
+  {
+   "t": "2026-11-20T20:42:39.923Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "ramen: top-10 share unknown; liquidity unknown",
+   "mint": "FYr8ZN3wPVXakXsqKN9inMBRWqpWVWJUPmAvmRD5p18B",
+   "source": "SmugCalls https://t.me/SmugCalls/26743"
+  },
+  {
    "t": "2026-11-20T12:38:49.390Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1569,38 +1601,6 @@
    "msg": "Doglon: top-10 share unknown; liquidity unknown",
    "mint": "CMVC4247wa7vQRaG9wSAztrpkfNK6r6eGm6sv4sWpump",
    "source": "SmugCalls https://t.me/SmugCalls/22732"
-  },
-  {
-   "t": "2026-10-28T21:39:58.568Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Tucker: top-10 share unknown",
-   "mint": "677RzFgXjLpApyHAtzjd9sTjiJNGCxrRVvYb1TwWp5qJ",
-   "source": "SmugCalls https://t.me/SmugCalls/22734"
-  },
-  {
-   "t": "2026-10-28T21:04:09.498Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "BRAVEGOY: top-10 share unknown; liq $2178 < $10000",
-   "mint": "HearbNdukBT4uY8d4ETFWPgFy7pPxD8v3KZeJoNRpump",
-   "source": "SmugCalls https://t.me/SmugCalls/22726"
-  },
-  {
-   "t": "2026-10-28T21:04:01.327Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "DOOMSDAY: top-10 share unknown; liquidity unknown",
-   "mint": "6c3qvogL9P3Eqey24ZTnj16zzhK86eCcRpwtY39XZKa5",
-   "source": "SmugCalls https://t.me/SmugCalls/22727"
-  },
-  {
-   "t": "2026-10-28T21:03:53.176Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "ELLE: top-10 share unknown",
-   "mint": "4ukaKujsrTuoF4eC1CY7xSiM3kN7HUE2pNZpMm2fpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50744"
   }
  ],
  "consecutiveLosses": 0,
@@ -1853,8 +1853,12 @@
   "GXZLK9o2HvSNocucpkPppSBBHsT16W9ntnJVTLCj9Nui": "2026-11-19T16:28:03+00:00",
   "92Nww6JrhLMbtNMv4Nu3kGLEUFsnKFtMVv6mqmiWpump": "2026-11-19T23:02:08+00:00",
   "73Tfu8tFkSQUB1353eJ4XGy4LpNmFSWcLjGvvks8pump": "2026-11-20T03:56:33+00:00",
-  "CeQfg3c29ZhVgtfUcZkjNVY7uD2n77WH58qHaDPxDCpp": "2026-11-20T12:32:46+00:00"
+  "CeQfg3c29ZhVgtfUcZkjNVY7uD2n77WH58qHaDPxDCpp": "2026-11-20T12:32:46+00:00",
+  "FYr8ZN3wPVXakXsqKN9inMBRWqpWVWJUPmAvmRD5p18B": "2026-11-20T20:40:05+00:00",
+  "Aw6AbzzBSEgzLMquaJDKHhYLcMt4x5Zd9Xo97xoepump": "2026-11-20T20:38:44+00:00",
+  "ALEneGLM6dwjiTmtvZU9TB6nooTp7RoUQKSQSQjJpump": "2026-11-20T20:33:33+00:00",
+  "9y4sH7DevvWpEuKMKvraADnnNx1SBsun9pLCivaPR5mG": "2026-11-20T20:31:50+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-20T12:38:49.691Z"
+ "lastRun": "2026-11-20T20:43:05.358Z"
 }
