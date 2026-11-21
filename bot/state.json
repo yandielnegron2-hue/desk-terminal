@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-21T21:46:30.856Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "BEAR: LP status unknown; top-10 share unknown; liq $1 < $10000",
+   "mint": "9aDNu3JSWBq6YNDEwPLNguRFw8q9ey3E5VuLsfYFpump",
+   "source": "SmugCalls https://t.me/SmugCalls/26953"
+  },
+  {
+   "t": "2026-11-21T21:46:13.971Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Vodkat: top-10 share unknown; liq $9891 < $10000",
+   "mint": "FxUMvvYHW6r41wtbbm4V52Hnu7cyyFfqhSXuwmuypump",
+   "source": "SmugCalls https://t.me/SmugCalls/26954"
+  },
+  {
    "t": "2026-11-21T16:26:35.386Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1585,22 +1601,6 @@
    "msg": "bio999: top-10 share unknown; liq $3850 < $10000",
    "mint": "9fzGMzAFMfdCphomUtbfRNBCd81B2K4AZweMoT2Ypump",
    "source": "SmugCalls https://t.me/SmugCalls/22759"
-  },
-  {
-   "t": "2026-10-28T23:57:35.025Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "POP: top-10 share unknown",
-   "mint": "FxwWTze7qwWM8GMRcdyHWpocmCw8Th8QLRGETBJbeSUo",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50762"
-  },
-  {
-   "t": "2026-10-28T22:55:31.083Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "25%: top-10 share unknown; liq $2375 < $10000",
-   "mint": "4Y3rjkH38LkoN3Hkgs4hWVCfu7sovjGakZDCdHhjpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50759"
   }
  ],
  "consecutiveLosses": 0,
@@ -1863,8 +1863,10 @@
   "8ZGYACgZgqSHFRbSFUxPgLrJj9tLAE3D9v4U77HEpump": "2026-11-21T16:19:25+00:00",
   "Hovcn7Eo2xsFirXgXKB53obSL9vAFdFxVRDVbGD7pump": "2026-11-21T16:15:46+00:00",
   "GhjBM6WhME2QLERYrDh1Mfb59vXVVb3oEyXyTBtgG1Uo": "2026-11-21T16:12:33+00:00",
-  "Ftx59JFy5JkAph6SnXNwGjTqwSBN84BwA48M9Lbipump": "2026-11-21T16:12:28+00:00"
+  "Ftx59JFy5JkAph6SnXNwGjTqwSBN84BwA48M9Lbipump": "2026-11-21T16:12:28+00:00",
+  "FxUMvvYHW6r41wtbbm4V52Hnu7cyyFfqhSXuwmuypump": "2026-11-21T21:41:07+00:00",
+  "9aDNu3JSWBq6YNDEwPLNguRFw8q9ey3E5VuLsfYFpump": "2026-11-21T21:37:33+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-21T16:26:35.685Z"
+ "lastRun": "2026-11-21T21:46:31.156Z"
 }
