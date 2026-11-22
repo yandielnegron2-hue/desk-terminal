@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T16:41:25.399Z",
+ "updated": "2026-11-22T22:02:33.021Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,30 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-22T22:02:32.720Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "catinu: top-10 share unknown; liquidity unknown",
+   "mint": "5KCZqSCrPWbmE1r1suhPsQ2QsJiB2z5ULsW34R4Cpump",
+   "source": "SmugCalls https://t.me/SmugCalls/27175"
+  },
+  {
+   "t": "2026-11-22T22:02:24.319Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "ER-100: top-10 share unknown; liq $5794 < $10000",
+   "mint": "6FUsdyjaGrBoG8UNbpWwTp9qu6ehL3SCeHRc1fnepump",
+   "source": "SmugCalls https://t.me/SmugCalls/27176"
+  },
+  {
+   "t": "2026-11-22T22:02:15.874Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "SLOPMAS: top-10 share unknown; liquidity unknown",
+   "mint": "GinQ9J6pUiTt5C5a73YkSJ4N46oF45CWJ65wMidYpump",
+   "source": "SmugCalls https://t.me/SmugCalls/27177"
+  },
   {
    "t": "2026-11-22T08:48:57.184Z",
    "mode": "PAPER",
@@ -496,30 +520,6 @@
    "msg": "HATCH: top-10 share unknown",
    "mint": "46r5vJSK4vZWvU4roBXoQYoBZE8d4nmN3b6wRa6Gpump",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/52427"
-  },
-  {
-   "t": "2026-11-13T01:20:25.603Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "SA: top-10 share unknown; liquidity unknown",
-   "mint": "GWecAdBcFHJCqpeQFuw31vtCriUZrHYeMUQ9YP2w6keS",
-   "source": "SmugCalls https://t.me/SmugCalls/25210"
-  },
-  {
-   "t": "2026-11-13T01:20:16.917Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Panda: top-10 share unknown",
-   "mint": "Ee22wrmzUPH254tuYZ41NiejuHxV65vY8ske779Gpump",
-   "source": "SmugCalls https://t.me/SmugCalls/25212"
-  },
-  {
-   "t": "2026-11-13T01:20:08.044Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Rocky: top-10 share unknown; liquidity unknown",
-   "mint": "B76dPMG2Gj1uMzk9Jf8efZcAesLUwNtFDBFdcZtXpump",
-   "source": "SmugCalls https://t.me/SmugCalls/25213"
   }
  ]
 }
