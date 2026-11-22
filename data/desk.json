@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:39:53.892Z",
+ "updated": "2026-11-22T08:48:57.485Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 3,
+ "feedLagSec": 2,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-22T08:48:57.184Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "GOAT: top-10 share unknown; liquidity unknown",
+   "mint": "GB86EHSNReg1vizgQVFCw66ZFLncnXeX5t6LWC5Jpump",
+   "source": "SmugCalls https://t.me/SmugCalls/27063"
+  },
   {
    "t": "2026-11-22T01:39:53.592Z",
    "mode": "PAPER",
@@ -512,14 +520,6 @@
    "msg": "Rocky: top-10 share unknown; liquidity unknown",
    "mint": "B76dPMG2Gj1uMzk9Jf8efZcAesLUwNtFDBFdcZtXpump",
    "source": "SmugCalls https://t.me/SmugCalls/25213"
-  },
-  {
-   "t": "2026-11-12T20:27:14.495Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "MARS: top-10 share unknown; liq $3511 < $10000",
-   "mint": "C1pQ6KN72GaBKtUDbZJsEHD2ErkerLewfLBDBFphtmir",
-   "source": "SmugCalls https://t.me/SmugCalls/25172"
   }
  ]
 }
