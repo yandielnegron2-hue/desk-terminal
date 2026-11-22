@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T21:46:31.156Z",
+ "updated": "2026-11-22T01:39:53.892Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,30 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-22T01:39:53.592Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Winter: top-10 share unknown; liquidity unknown",
+   "mint": "8NfRaCzVoBiyXJ7VcJ4oNKz45Et2WtEgLoGZuskpump",
+   "source": "SmugCalls https://t.me/SmugCalls/27008"
+  },
+  {
+   "t": "2026-11-22T01:39:45.335Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "COAL: top-10 share unknown; liquidity unknown",
+   "mint": "5sZCi2s5MA9X8MBxT9AgmZTEm1QMUY2xZvh3cyrfpump",
+   "source": "SmugCalls https://t.me/SmugCalls/27009"
+  },
+  {
+   "t": "2026-11-22T01:39:37.115Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Santa: LP status unknown; top-10 share unknown; liq $3 < $10000",
+   "mint": "GibjqQwWJFtufQiTG7dAPNnazU8rZMPmeYCjco9Wpump",
+   "source": "SmugCalls https://t.me/SmugCalls/27010"
+  },
   {
    "t": "2026-11-21T21:46:30.856Z",
    "mode": "PAPER",
@@ -496,30 +520,6 @@
    "msg": "MARS: top-10 share unknown; liq $3511 < $10000",
    "mint": "C1pQ6KN72GaBKtUDbZJsEHD2ErkerLewfLBDBFphtmir",
    "source": "SmugCalls https://t.me/SmugCalls/25172"
-  },
-  {
-   "t": "2026-11-12T20:27:05.905Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "marsopetator: LP status unknown; top-10 share unknown; liq $3 < $10000",
-   "mint": "D9r5vwyBwT6fCiDZaoXv7eUhaPAE3gCpDiD89sZxpump",
-   "source": "SmugCalls https://t.me/SmugCalls/25174"
-  },
-  {
-   "t": "2026-11-12T20:26:57.277Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "AMD: top-10 share unknown",
-   "mint": "2Er3UtbQGWyNgeKMyUs218i11Z6v4gtfgwmqoSNPpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/52370"
-  },
-  {
-   "t": "2026-11-12T20:26:48.488Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "i/acc: LP status unknown; top-10 share unknown; liq $2 < $10000",
-   "mint": "3AAfiraogxEYXQsm5R6sss8sgGF1FAid2q6armqgSVtf",
-   "source": "SmugCalls https://t.me/SmugCalls/25175"
   }
  ]
 }
