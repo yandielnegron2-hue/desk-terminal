@@ -3,6 +3,38 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-23T22:35:25.547Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "FEFE: top-10 share unknown; liquidity unknown",
+   "mint": "5LKCfyKpttnfKXQei4wdCDt8JicFnCsAVRqxHhD28WnU",
+   "source": "SmugCalls https://t.me/SmugCalls/27406"
+  },
+  {
+   "t": "2026-11-23T22:35:14.188Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "PEPE: top-10 share unknown; liquidity unknown",
+   "mint": "8PrW5GKzmYWWpZ219x8PPEwJs6vpj8WANbqAFJJAkPuF",
+   "source": "SmugCalls https://t.me/SmugCalls/27407"
+  },
+  {
+   "t": "2026-11-23T22:35:04.669Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "TORQUE: top-10 share unknown",
+   "mint": "Czbd4FtkLf4ELCPNuawbGxcivuCpcLWFFTD4oqWkpump",
+   "source": "SmugCalls https://t.me/SmugCalls/27408"
+  },
+  {
+   "t": "2026-11-23T22:34:55.366Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "TURKEY: top-10 share unknown; liquidity unknown",
+   "mint": "2qyxkwqpnt4iKxyNpi5XLLS5pGCaTWMwQzdbNbobKG5K",
+   "source": "SmugCalls https://t.me/SmugCalls/27409"
+  },
+  {
    "t": "2026-11-23T11:06:24.157Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1569,38 +1601,6 @@
    "msg": "FOMOKING: top-10 share unknown; liq $1905 < $10000",
    "mint": "5THA5heeJgXsULasqETYxSJAEZKwPZXZWASFjbMNpump",
    "source": "SmugCalls https://t.me/SmugCalls/22796"
-  },
-  {
-   "t": "2026-10-29T06:38:44.630Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Steve: top-10 share unknown",
-   "mint": "Fxyj1MSfyE8PCsVUWmXTHCWmCKFK7dkvgkd6HvuHpump",
-   "source": "SmugCalls https://t.me/SmugCalls/22791"
-  },
-  {
-   "t": "2026-10-29T06:38:36.281Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Elon: top-10 share unknown; liq $5093 < $10000",
-   "mint": "BMfPwYMV8xGToRH1gqqjCZLBMTGJzu7AtMuRE2Z9pump",
-   "source": "SmugCalls https://t.me/SmugCalls/22792"
-  },
-  {
-   "t": "2026-10-29T05:15:52.259Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "BOOCAT: top-10 share unknown",
-   "mint": "6JBuwy4KBAuxwsWNbkEy6YKbjuSH2LTZKRPR4t3ppump",
-   "source": "SmugCalls https://t.me/SmugCalls/22785"
-  },
-  {
-   "t": "2026-10-29T04:29:51.576Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "ELON2028: LP status unknown; top-10 share unknown",
-   "mint": "8BnNS15Q6h6D5Vcq1sNPaUxhpRVdK8FGRbLvCrLxibSx",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50786"
   }
  ],
  "consecutiveLosses": 0,
@@ -1874,8 +1874,12 @@
   "6FUsdyjaGrBoG8UNbpWwTp9qu6ehL3SCeHRc1fnepump": "2026-11-22T21:55:27+00:00",
   "5KCZqSCrPWbmE1r1suhPsQ2QsJiB2z5ULsW34R4Cpump": "2026-11-22T21:54:53+00:00",
   "35yY5Env1GaYhkyVfXqdN2WN7AyvsDzrVB4vtxM9XdUd": "2026-11-23T10:55:49+00:00",
-  "3y6ih4Q9wn7oNPqvBrcrMFi5GSZSdfZtA6miKqtNpump": "2026-11-23T10:52:39+00:00"
+  "3y6ih4Q9wn7oNPqvBrcrMFi5GSZSdfZtA6miKqtNpump": "2026-11-23T10:52:39+00:00",
+  "2qyxkwqpnt4iKxyNpi5XLLS5pGCaTWMwQzdbNbobKG5K": "2026-11-23T22:33:06+00:00",
+  "Czbd4FtkLf4ELCPNuawbGxcivuCpcLWFFTD4oqWkpump": "2026-11-23T22:25:04+00:00",
+  "8PrW5GKzmYWWpZ219x8PPEwJs6vpj8WANbqAFJJAkPuF": "2026-11-23T22:20:34+00:00",
+  "5LKCfyKpttnfKXQei4wdCDt8JicFnCsAVRqxHhD28WnU": "2026-11-23T22:19:59+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-23T11:06:24.457Z"
+ "lastRun": "2026-11-23T22:35:25.847Z"
 }

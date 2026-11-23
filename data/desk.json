@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:06:24.457Z",
+ "updated": "2026-11-23T22:35:25.847Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,38 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-23T22:35:25.547Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "FEFE: top-10 share unknown; liquidity unknown",
+   "mint": "5LKCfyKpttnfKXQei4wdCDt8JicFnCsAVRqxHhD28WnU",
+   "source": "SmugCalls https://t.me/SmugCalls/27406"
+  },
+  {
+   "t": "2026-11-23T22:35:14.188Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "PEPE: top-10 share unknown; liquidity unknown",
+   "mint": "8PrW5GKzmYWWpZ219x8PPEwJs6vpj8WANbqAFJJAkPuF",
+   "source": "SmugCalls https://t.me/SmugCalls/27407"
+  },
+  {
+   "t": "2026-11-23T22:35:04.669Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "TORQUE: top-10 share unknown",
+   "mint": "Czbd4FtkLf4ELCPNuawbGxcivuCpcLWFFTD4oqWkpump",
+   "source": "SmugCalls https://t.me/SmugCalls/27408"
+  },
+  {
+   "t": "2026-11-23T22:34:55.366Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "TURKEY: top-10 share unknown; liquidity unknown",
+   "mint": "2qyxkwqpnt4iKxyNpi5XLLS5pGCaTWMwQzdbNbobKG5K",
+   "source": "SmugCalls https://t.me/SmugCalls/27409"
+  },
   {
    "t": "2026-11-23T11:06:24.157Z",
    "mode": "PAPER",
@@ -488,38 +520,6 @@
    "msg": "ZERO: top-10 share unknown; liquidity unknown",
    "mint": "871DxYvpVaagQbdwzGN6BXfWTXFkQGVCDMF3dktqpump",
    "source": "SmugCalls https://t.me/SmugCalls/25495"
-  },
-  {
-   "t": "2026-11-14T02:08:25.484Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Angel: top-10 share unknown; liquidity unknown",
-   "mint": "Hrd1QQnFeZJdX5wYLBmj4SVDcwqXLh8TyJunx4zspump",
-   "source": "SmugCalls https://t.me/SmugCalls/25427"
-  },
-  {
-   "t": "2026-11-13T22:00:44.375Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "CYBER: top-10 share unknown; liquidity unknown",
-   "mint": "mHBNqnUU9paYEV8HUmemYvbeUT55dTou1tCr1Lvpump",
-   "source": "SmugCalls https://t.me/SmugCalls/25390"
-  },
-  {
-   "t": "2026-11-13T22:00:36.083Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "CYBER: LP status unknown; top-10 share unknown; liq $2 < $10000",
-   "mint": "4cSD3ZBfJtnb3ueroDzCzPiVMCch4BRosLNDnEnXpump",
-   "source": "SmugCalls https://t.me/SmugCalls/25391"
-  },
-  {
-   "t": "2026-11-13T22:00:27.854Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "SI: top-10 share unknown; liquidity unknown",
-   "mint": "GdukYtVz7rBJu6Nxp52zsJqVNFEJyjTuVHHDzooMpump",
-   "source": "SmugCalls https://t.me/SmugCalls/25392"
   }
  ]
 }
