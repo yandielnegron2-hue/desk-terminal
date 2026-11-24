@@ -1604,7 +1604,7 @@
   }
  ],
  "consecutiveLosses": 0,
- "day": "2026-11-23",
+ "day": "2026-11-24",
  "dayStartBook": 1,
  "seen": {
   "2h6No4wqsn2ckqsWR2JFp1wMF5fiKuJinEQPneT9mdn3": "2026-10-28T03:33:26+00:00",
@@ -1881,5 +1881,5 @@
   "5LKCfyKpttnfKXQei4wdCDt8JicFnCsAVRqxHhD28WnU": "2026-11-23T22:19:59+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-23T22:35:25.847Z"
+ "lastRun": "2026-11-24T06:20:28.119Z"
 }
