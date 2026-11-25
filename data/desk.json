@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:55:51.135Z",
+ "updated": "2026-11-25T10:45:19.607Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -15,7 +15,7 @@
   "kill": false,
   "blockEntries": false
  },
- "feedLagSec": 2,
+ "feedLagSec": 1,
  "config": {
   "sizeFraction": 0.02,
   "maxOpenPositions": 5,
@@ -41,6 +41,30 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-25T10:45:19.306Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "ZELENSKYY: top-10 share unknown; liq $2089 < $10000",
+   "mint": "2quw9e8VYEqvkybMsyMSWhtvWKZTkjxH8p5E8a6Fpump",
+   "source": "SmugCalls https://t.me/SmugCalls/27800"
+  },
+  {
+   "t": "2026-11-25T10:45:10.877Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "FREYJA: top-10 share unknown; liquidity unknown",
+   "mint": "9124Gz5WXdU81hAqigiiV9Ss9Srz5cBZR8is88LucJKG",
+   "source": "SmugCalls https://t.me/SmugCalls/27801"
+  },
+  {
+   "t": "2026-11-25T10:45:02.386Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Memecoin: top-10 share unknown; liquidity unknown",
+   "mint": "2rhoUVCygC2LyQWNMXsofKXo1rcbZFJnSTpDbU9Ppump",
+   "source": "SmugCalls https://t.me/SmugCalls/27802"
+  },
   {
    "t": "2026-11-25T01:55:50.834Z",
    "mode": "PAPER",
@@ -496,30 +520,6 @@
    "msg": "meme: top-10 share unknown; liquidity unknown",
    "mint": "Bt6982gyWB3T17poKRvqsR5GaMGCq1Y7fLYf4bgVpump",
    "source": "SmugCalls https://t.me/SmugCalls/25721"
-  },
-  {
-   "t": "2026-11-15T17:26:39.032Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "MEME: top-10 share unknown; liquidity unknown",
-   "mint": "2iNUHK3L2r8iYZagY2iCqQVkKmPBnEe1nJEq9cPKpump",
-   "source": "SmugCalls https://t.me/SmugCalls/25722"
-  },
-  {
-   "t": "2026-11-15T17:26:20.148Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "NYAJIRA: top-10 share unknown",
-   "mint": "8cWGfiHyKqxgLrLtkPt2NnLkSUV2JbcLBf4RN6Fapump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/52676"
-  },
-  {
-   "t": "2026-11-14T20:00:22.525Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "CATCOIN: top-10 share unknown; liquidity unknown",
-   "mint": "7jGNmR9eTbRkyVeYSuEumJubCHjG27mx8MomoNB5pump",
-   "source": "SmugCalls https://t.me/SmugCalls/25575"
   }
  ]
 }
