@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-26T20:29:45.866Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "THANKS: top-10 share unknown; liq $1469 < $10000",
+   "mint": "BZJoKnd1fSrGrueoQsHwBy4UdRpd2WkJdboJJzXVpump",
+   "source": "SmugCalls https://t.me/SmugCalls/28161"
+  },
+  {
+   "t": "2026-11-26T20:29:37.005Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "COOLS: top-10 share unknown",
+   "mint": "A28uKeoB79ksfCarcDuJzaqE4LqJenPHxxPRR2nApump",
+   "source": "SmugCalls https://t.me/SmugCalls/28162"
+  },
+  {
    "t": "2026-11-26T11:34:09.594Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1585,22 +1601,6 @@
    "msg": "PINO: top-10 share unknown; liquidity unknown",
    "mint": "P4TycWq2XB3nQvy6MwE365qG5vc7hSxSwns2Rnopump",
    "source": "SmugCalls https://t.me/SmugCalls/22819"
-  },
-  {
-   "t": "2026-10-29T11:26:50.052Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "MAX: top-10 share unknown",
-   "mint": "7WYJycaBqvSDGoCCMND89tAgToy4YNW7KdQVDwXzxPFq",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50826"
-  },
-  {
-   "t": "2026-10-29T10:52:29.366Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "MULTI: LP status unknown; top-10 share unknown",
-   "mint": "9XwcqFsLTshVo7QwWyNmjVBsB982EW9C4YotSbpoxYYi",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50821"
   }
  ],
  "consecutiveLosses": 0,
@@ -1889,8 +1889,10 @@
   "FkvgdVVV3D1W9s7hftMYKSkJmXN4QiMhMkFy13xapump": "2026-11-25T20:11:13+00:00",
   "9yAXzLrFQvHJYZt3ndL4kdcgNkrQuPguRgs45PbqezaM": "2026-11-25T20:08:35+00:00",
   "DonZ58SrPrFw5AGUJ9YSq6jmnZqvfN9jByUDPCPEpump": "2026-11-26T11:29:22+00:00",
-  "DADs794EcsM4y6V8rVac9nbTCqkewNpzU9A4uFANpump": "2026-11-26T11:22:19+00:00"
+  "DADs794EcsM4y6V8rVac9nbTCqkewNpzU9A4uFANpump": "2026-11-26T11:22:19+00:00",
+  "A28uKeoB79ksfCarcDuJzaqE4LqJenPHxxPRR2nApump": "2026-11-26T20:18:50+00:00",
+  "BZJoKnd1fSrGrueoQsHwBy4UdRpd2WkJdboJJzXVpump": "2026-11-26T20:15:03+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-26T11:34:09.895Z"
+ "lastRun": "2026-11-26T20:29:46.166Z"
 }
