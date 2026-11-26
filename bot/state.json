@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-26T11:34:09.594Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "cyber: top-10 share unknown; liquidity unknown",
+   "mint": "DADs794EcsM4y6V8rVac9nbTCqkewNpzU9A4uFANpump",
+   "source": "SmugCalls https://t.me/SmugCalls/28075"
+  },
+  {
+   "t": "2026-11-26T11:34:00.862Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "LOKI: top-10 share unknown; liquidity unknown",
+   "mint": "DonZ58SrPrFw5AGUJ9YSq6jmnZqvfN9jByUDPCPEpump",
+   "source": "SmugCalls https://t.me/SmugCalls/28076"
+  },
+  {
    "t": "2026-11-25T20:14:07.144Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1585,22 +1601,6 @@
    "msg": "MULTI: LP status unknown; top-10 share unknown",
    "mint": "9XwcqFsLTshVo7QwWyNmjVBsB982EW9C4YotSbpoxYYi",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/50821"
-  },
-  {
-   "t": "2026-10-29T10:09:58.965Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "WALT: top-10 share unknown",
-   "mint": "GmyoabL4oY72yQA3EzTq5G5gQUF5SsE94jrs8bWfJzTt",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50818"
-  },
-  {
-   "t": "2026-10-29T10:09:50.175Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "LG: top-10 share unknown; liquidity unknown",
-   "mint": "6esRP5VPAFXaSvnq8FWK4fdDj4ZzTrL7mJBna7jopump",
-   "source": "SmugCalls https://t.me/SmugCalls/22813"
   }
  ],
  "consecutiveLosses": 0,
@@ -1887,8 +1887,10 @@
   "9124Gz5WXdU81hAqigiiV9Ss9Srz5cBZR8is88LucJKG": "2026-11-25T10:39:19+00:00",
   "2quw9e8VYEqvkybMsyMSWhtvWKZTkjxH8p5E8a6Fpump": "2026-11-25T10:31:27+00:00",
   "FkvgdVVV3D1W9s7hftMYKSkJmXN4QiMhMkFy13xapump": "2026-11-25T20:11:13+00:00",
-  "9yAXzLrFQvHJYZt3ndL4kdcgNkrQuPguRgs45PbqezaM": "2026-11-25T20:08:35+00:00"
+  "9yAXzLrFQvHJYZt3ndL4kdcgNkrQuPguRgs45PbqezaM": "2026-11-25T20:08:35+00:00",
+  "DonZ58SrPrFw5AGUJ9YSq6jmnZqvfN9jByUDPCPEpump": "2026-11-26T11:29:22+00:00",
+  "DADs794EcsM4y6V8rVac9nbTCqkewNpzU9A4uFANpump": "2026-11-26T11:22:19+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-26T02:51:38.888Z"
+ "lastRun": "2026-11-26T11:34:09.895Z"
 }
