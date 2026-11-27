@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:29:46.166Z",
+ "updated": "2026-11-27T03:08:03.068Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,22 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-27T03:08:02.767Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "SCRATCHY: top-10 share unknown; liq $4255 < $10000",
+   "mint": "HNR2jFksbGHR5fLBqfYe2LUXCGaj7YQkZs6ciSeYpump",
+   "source": "SmugCalls https://t.me/SmugCalls/28245"
+  },
+  {
+   "t": "2026-11-27T03:07:53.790Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "SOLCAP: top-10 share unknown",
+   "mint": "J2We8huLbXG4Ueij766B6Yzjg3Ktf2qH5zhaD3cDpump",
+   "source": "SmugCalls https://t.me/SmugCalls/28246"
+  },
   {
    "t": "2026-11-26T20:29:45.866Z",
    "mode": "PAPER",
@@ -504,22 +520,6 @@
    "msg": "Christmax: top-10 share unknown",
    "mint": "D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/52791"
-  },
-  {
-   "t": "2026-11-16T18:51:02.551Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Epsteinu: top-10 share unknown; liq $8181 < $10000",
-   "mint": "GckXCqxcLihcVu2MESFVRpKKggdQKjsa3zGicGhpump",
-   "source": "SmugCalls https://t.me/SmugCalls/25973"
-  },
-  {
-   "t": "2026-11-16T18:50:53.739Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "EPSTEINU: top-10 share unknown; liquidity unknown",
-   "mint": "Gv435pDE4TBjAecPauYwWWEwp22PkpXnZZN1XWhzMVVh",
-   "source": "SmugCalls https://t.me/SmugCalls/25974"
   }
  ]
 }

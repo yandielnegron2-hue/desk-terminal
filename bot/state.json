@@ -3,6 +3,22 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-27T03:08:02.767Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "SCRATCHY: top-10 share unknown; liq $4255 < $10000",
+   "mint": "HNR2jFksbGHR5fLBqfYe2LUXCGaj7YQkZs6ciSeYpump",
+   "source": "SmugCalls https://t.me/SmugCalls/28245"
+  },
+  {
+   "t": "2026-11-27T03:07:53.790Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "SOLCAP: top-10 share unknown",
+   "mint": "J2We8huLbXG4Ueij766B6Yzjg3Ktf2qH5zhaD3cDpump",
+   "source": "SmugCalls https://t.me/SmugCalls/28246"
+  },
+  {
    "t": "2026-11-26T20:29:45.866Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1585,26 +1601,10 @@
    "msg": "HYPERCAT: top-10 share unknown",
    "mint": "8sooQVq6sRjV1jHxdCk53VZ9fxna8WitKKzAFs1xX9wP",
    "source": "PumpPillSignals https://t.me/PumpPillSignals/50827"
-  },
-  {
-   "t": "2026-10-29T12:09:04.627Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "EGG: top-10 share unknown",
-   "mint": "B6hVwvn5toMkHwXYxB9QqgdAkdhcp3NMUaYDob12pump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50828"
-  },
-  {
-   "t": "2026-10-29T11:26:58.204Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "PINO: top-10 share unknown; liquidity unknown",
-   "mint": "P4TycWq2XB3nQvy6MwE365qG5vc7hSxSwns2Rnopump",
-   "source": "SmugCalls https://t.me/SmugCalls/22819"
   }
  ],
  "consecutiveLosses": 0,
- "day": "2026-11-26",
+ "day": "2026-11-27",
  "dayStartBook": 1,
  "seen": {
   "2h6No4wqsn2ckqsWR2JFp1wMF5fiKuJinEQPneT9mdn3": "2026-10-28T03:33:26+00:00",
@@ -1891,8 +1891,10 @@
   "DonZ58SrPrFw5AGUJ9YSq6jmnZqvfN9jByUDPCPEpump": "2026-11-26T11:29:22+00:00",
   "DADs794EcsM4y6V8rVac9nbTCqkewNpzU9A4uFANpump": "2026-11-26T11:22:19+00:00",
   "A28uKeoB79ksfCarcDuJzaqE4LqJenPHxxPRR2nApump": "2026-11-26T20:18:50+00:00",
-  "BZJoKnd1fSrGrueoQsHwBy4UdRpd2WkJdboJJzXVpump": "2026-11-26T20:15:03+00:00"
+  "BZJoKnd1fSrGrueoQsHwBy4UdRpd2WkJdboJJzXVpump": "2026-11-26T20:15:03+00:00",
+  "J2We8huLbXG4Ueij766B6Yzjg3Ktf2qH5zhaD3cDpump": "2026-11-27T03:06:24+00:00",
+  "HNR2jFksbGHR5fLBqfYe2LUXCGaj7YQkZs6ciSeYpump": "2026-11-27T02:55:26+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-26T20:29:46.166Z"
+ "lastRun": "2026-11-27T03:08:03.068Z"
 }
