@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:04:43.256Z",
+ "updated": "2026-11-27T21:05:59.515Z",
  "mode": "PAPER",
  "kill": false,
  "wallet": "4xG2SGezmt21LwZ4oRTj2bFpTvhpyAFjVVaTyb4p1LUu",
@@ -41,6 +41,14 @@
  "spyWallets": [],
  "positions": [],
  "log": [
+  {
+   "t": "2026-11-27T21:05:59.214Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Lemon: top-10 share unknown; liquidity unknown",
+   "mint": "FHyXcQKYH49bjKaEBtZDGqiSraYKRhckkNP2p1Njpump",
+   "source": "SmugCalls https://t.me/SmugCalls/28387"
+  },
   {
    "t": "2026-11-27T03:08:02.767Z",
    "mode": "PAPER",
@@ -512,14 +520,6 @@
    "msg": "DIDNT: top-10 share unknown; liquidity unknown",
    "mint": "4V9KeieRHKJ4CwqNyqk7Mp6FFZh89N4pEQVkdksQPW6Y",
    "source": "SmugCalls https://t.me/SmugCalls/25971"
-  },
-  {
-   "t": "2026-11-16T18:51:11.403Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "Christmax: top-10 share unknown",
-   "mint": "D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/52791"
   }
  ]
 }

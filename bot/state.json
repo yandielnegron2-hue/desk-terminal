@@ -3,6 +3,14 @@
  "positions": [],
  "log": [
   {
+   "t": "2026-11-27T21:05:59.214Z",
+   "mode": "PAPER",
+   "type": "reject",
+   "msg": "Lemon: top-10 share unknown; liquidity unknown",
+   "mint": "FHyXcQKYH49bjKaEBtZDGqiSraYKRhckkNP2p1Njpump",
+   "source": "SmugCalls https://t.me/SmugCalls/28387"
+  },
+  {
    "t": "2026-11-27T03:08:02.767Z",
    "mode": "PAPER",
    "type": "reject",
@@ -1593,14 +1601,6 @@
    "msg": "67Nothing: top-10 share unknown; liq $2516 < $10000",
    "mint": "HrL25qfoSZ6fLUNNwzENhV6JfAtk2gyr8NLJ4skjpump",
    "source": "SmugCalls https://t.me/SmugCalls/22823"
-  },
-  {
-   "t": "2026-10-29T12:09:13.486Z",
-   "mode": "PAPER",
-   "type": "reject",
-   "msg": "HYPERCAT: top-10 share unknown",
-   "mint": "8sooQVq6sRjV1jHxdCk53VZ9fxna8WitKKzAFs1xX9wP",
-   "source": "PumpPillSignals https://t.me/PumpPillSignals/50827"
   }
  ],
  "consecutiveLosses": 0,
@@ -1893,8 +1893,9 @@
   "A28uKeoB79ksfCarcDuJzaqE4LqJenPHxxPRR2nApump": "2026-11-26T20:18:50+00:00",
   "BZJoKnd1fSrGrueoQsHwBy4UdRpd2WkJdboJJzXVpump": "2026-11-26T20:15:03+00:00",
   "J2We8huLbXG4Ueij766B6Yzjg3Ktf2qH5zhaD3cDpump": "2026-11-27T03:06:24+00:00",
-  "HNR2jFksbGHR5fLBqfYe2LUXCGaj7YQkZs6ciSeYpump": "2026-11-27T02:55:26+00:00"
+  "HNR2jFksbGHR5fLBqfYe2LUXCGaj7YQkZs6ciSeYpump": "2026-11-27T02:55:26+00:00",
+  "FHyXcQKYH49bjKaEBtZDGqiSraYKRhckkNP2p1Njpump": "2026-11-27T20:51:46+00:00"
  },
  "spy": {},
- "lastRun": "2026-11-27T12:04:43.256Z"
+ "lastRun": "2026-11-27T21:05:59.515Z"
 }
